@@ -71,6 +71,8 @@ Ao final do projeto foi possível transformar uma base de dados bruta em um dash
 
 Este projeto representa uma etapa importante no desenvolvimento das minhas habilidades em **Análise de Dados**, reforçando conhecimentos em organização, tratamento de dados e criação de dashboards utilizando Excel.
 
+![Dashboard Análise de Dados](img/painel_analise_de_dados.png)
+
 ---
 
 ## 🙏 Agradecimentos
