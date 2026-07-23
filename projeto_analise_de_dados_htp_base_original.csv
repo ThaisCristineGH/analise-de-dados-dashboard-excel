@@ -1,0 +1,3670 @@
+﻿Data,Vendedor,Cliente,Região,Produto,Valor
+43466,Paulo,Thamires Bastos,Sudeste,Python,450
+43466,Paulo,Jessika Mineiro,Centro-Oeste,Excel,500
+43467,Diego,Glenda Jalles,Norte,VBA,600
+43467,Diego,Eugênio Mattos,Sul,Python,450
+43467,Alon,Yasmine Gomes,Norte,VBA,600
+43467,Diego,Lázaro Vilhena,Norte,Word,500
+43467,Alon,Rojane Nemitz,Sudeste,Word,600
+43467,Diego,Micaele Ferrer,Sudeste,Word,500
+43468,Alon,Igor Flavio,Sudeste,Word,600
+43468,Gabriel,Wesley Medeiros,Nordeste,Power BI,450
+43468,João,Beatriz Costa,Centro-Oeste,Python,450
+43469,Gabriel,Marisol Mendes,Sul,VBA,600
+43470,João,Suelen Aguiar,Nordeste,Excel,500
+43470,Paulo,John Nemitz,Sul,Word,600
+43470,Diego,Hannah Francisca,Nordeste,Python,450
+43471,Marcus,Cleo Fragoso,Centro-Oeste,VBA,600
+43471,Diego,Helen Iris,Centro-Oeste,VBA,600
+43472,Gabriel,Glaucia Cesar,Sudeste,Power BI,300
+43472,Alon,Maurício Balassiano,Sudeste,Power BI,300
+43472,Diego,Ysabella Cassabian,Sudeste,Excel,500
+43472,Paulo,Thadeu Costa,Sudeste,VBA,600
+43473,João,Giuseppe Menezes,Norte,Power BI,450
+43473,João,Roberto Kranz,Centro-Oeste,Power BI,500
+43473,Paulo,Joao Tkotz,Sudeste,Power BI,600
+43474,Paulo,Leandro Baptista,Sudeste,Power BI,500
+43474,Gabriel,Tatiane Macedo,Nordeste,Power BI,450
+43475,Gabriel,Andreza Marques,Sul,Power BI,600
+43475,Gabriel,Manuela Firmo,Norte,Power BI,600
+43475,Gabriel,Sarah Palha,Sudeste,Power BI,300
+43475,Gabriel,David Carelli,Norte,Power BI,500
+43475,Alon,Taila Azevedo,Norte,Power BI,450
+43475,Diego,Murilo Dória,Sudeste,Power BI,600
+43476,Diego,Christiana Messias,Sudeste,Power BI,450
+43476,Paulo,Sandra Lana,Centro-Oeste,Excel,500
+43476,Alon,Joyce Valle,Sul,Python,450
+43476,João,Laiza Carneiro,Nordeste,Excel,500
+43476,Gabriel,Raquel Yudi,Centro-Oeste,VBA,600
+43476,Alon,Cassia Ahnert,Norte,Excel,500
+43477,Gabriel,Cecília Blumgrund,Nordeste,VBA,600
+43478,Gabriel,Karine Nuñez,Norte,Excel,500
+43478,Diego,Diogo Bandeira,Sul,VBA,600
+43478,Diego,Barbara Emmerick,Norte,Power BI,300
+43478,Diego,Ingra Penedo,Norte,VBA,600
+43478,Gabriel,Liz Carolina,Sul,PowerPoint,450
+43478,Gabriel,Valmir Tsuyoshi,Norte,VBA,600
+43478,Diego,Thomaz Bello,Norte,Excel,500
+43479,João,Gabrielle Silva,Sudeste,VBA,600
+43479,Gabriel,Samuel Lucas,Sudeste,Excel,500
+43479,Gabriel,Cláudia Rey,Nordeste,Excel,500
+43479,Paulo,Adrian Farias,Nordeste,Python,450
+43480,Alon,David Rey,Norte,VBA,600
+43480,Diego,Maryanna Magalhães,Norte,Power BI,300
+43481,Gabriel,Gabriel Hudson,Sul,Python,450
+43481,Paulo,Arnôr Bogossian,Centro-Oeste,Python,450
+43481,Alon,Laiza Sofia,Nordeste,Power BI,300
+43481,Paulo,Marcus Fogacia,Norte,Python,450
+43482,Paulo,Helvio Lopes,Sudeste,VBA,600
+43482,Gabriel,Isabela Miura,Nordeste,Power BI,300
+43482,João,Luíza Batista,Nordeste,VBA,600
+43483,Diego,Ruan Arslanian,Norte,Power BI,300
+43483,Alon,Jeferson Magalhães,Centro-Oeste,Power BI,300
+43483,Alon,Luíza Chein,Sul,Excel,500
+43483,Diego,Thais Russo,Sul,VBA,600
+43483,Gabriel,Alexia Côrte-Real,Nordeste,Excel,500
+43483,Diego,Millena Costa,Sul,VBA,600
+43484,Alon,Christiana Baptista,Nordeste,Excel,500
+43484,Gabriel,Samuel Azevedo,Norte,Power BI,300
+43484,Diego,Dayane Yudi,Nordeste,PowerPoint,300
+43484,Gabriel,Guilherme Hejda,Sul,PowerPoint,450
+43484,João,Rebecca Rosales,Sul,PowerPoint,300
+43484,Alon,Leon Domingues,Norte,Excel,500
+43485,Alon,Haroldo Carolina,Norte,Excel,500
+43485,Diego,Olívia Freire,Sudeste,PowerPoint,450
+43485,Alon,Andressa Costantas,Norte,PowerPoint,300
+43485,Alon,Priscila Dourado,Norte,PowerPoint,450
+43487,João,Sandro Menezes,Sudeste,VBA,600
+43487,Alon,Thamires Neviani,Norte,Excel,500
+43487,Gabriel,José Barroso,Sul,PowerPoint,450
+43488,Gabriel,Maurício Brasil,Centro-Oeste,PowerPoint,300
+43488,Gabriel,Marcus Temporal,Nordeste,PowerPoint,450
+43488,Alon,Kassia Teles,Sul,Power BI,300
+43488,Alon,Andressa Alves,Sudeste,Excel,500
+43490,Gabriel,Ylana Júnior,Sudeste,Power BI,600
+43490,Alon,Alana Tiradentes,Sudeste,Power BI,500
+43490,Alon,Marina Bachini,Norte,Power BI,450
+43490,João,Elaine Emmerick,Sudeste,Power BI,450
+43490,Paulo,Luíza Faller,Centro-Oeste,Power BI,300
+43490,Marcus,Luan Barroso,Sudeste,Power BI,300
+43491,Marcus,Luana Tavares,Sul,VBA,600
+43491,João,Platini Blanc,Norte,Python,450
+43492,Diego,Sandy Abi-Ramia,Sudeste,Excel,500
+43492,Paulo,Thomaz Akerman,Sudeste,Python,450
+43492,Marcus,Luana Abranches,Nordeste,Python,450
+43492,Paulo,Victória Osman,Nordeste,Power BI,300
+43492,Diego,Vívian Sayuri,Sul,Power BI,300
+43492,Marcus,Wagner Godinho,Nordeste,Word,600
+43492,Gabriel,Arnaldo Jiun,Sudeste,Word,500
+43492,Marcus,Thauan Li,Norte,Word,600
+43493,Paulo,Thales Cardoso,Sudeste,Power BI,300
+43493,Paulo,Silvio Sant'Anna,Sudeste,Word,500
+43493,Alon,Luiza Helena,Nordeste,Python,450
+43493,Diego,Thayná Fioravante,Norte,Power BI,300
+43494,Diego,Breno Portillo,Sudeste,Word,500
+43494,Marcus,Bruno Vannier,Norte,Power BI,300
+43494,Gabriel,Jeter Brandão,Norte,Power BI,300
+43494,Marcus,Gianluca Póvoa,Sudeste,Word,600
+43494,Alon,Samuel Ana,Norte,Power BI,300
+43495,Alon,Hygor Souza,Nordeste,Power BI,300
+43496,João,Mateus Victório,Sul,Python,450
+43496,Marcus,Ary Capitulo,Sudeste,Word,500
+43496,Paulo,Micaele Amorim,Sudeste,Word,500
+43496,Alon,Valentina Costainara,Sudeste,Word,500
+43497,Alon,Alexsandro Mainente,Sudeste,Word,500
+43497,Alon,Emilaine Silotti,Sudeste,Word,500
+43497,Marcus,Katarine Titonelli,Norte,Power BI,300
+43497,Marcus,Ariel Miranda,Sul,Word,600
+43498,Alon,Alexsandro Tiradentes,Sudeste,Word,500
+43498,Paulo,Ericka Teles,Norte,Power BI,300
+43498,Marcus,Karollayne Yudi,Sudeste,Word,600
+43499,Marcus,José Lencastre,Centro-Oeste,Power BI,300
+43499,Marcus,Alfredo Viana,Sudeste,Word,600
+43499,Gabriel,Lucas Borowicz,Sudeste,Power BI,300
+43500,Gabriel,Filippo Carvalho,Sul,Power BI,300
+43500,Alon,Tayna Sodré,Nordeste,Word,600
+43500,João,Andreza Balbi,Sudeste,Word,600
+43501,Gabriel,Marco Benvinda,Nordeste,Python,450
+43501,Alon,Thayza Maria,Norte,Power BI,300
+43501,João,Thaís Piero,Nordeste,Python,450
+43501,Alon,Caroll Lencastre,Centro-Oeste,Power BI,300
+43502,Diego,Saranna Barros,Sul,Python,450
+43502,Marcus,Ricardo Lund,Centro-Oeste,Word,600
+43503,Alon,Karoline Lopes,Sudeste,Word,500
+43503,Marcus,Patricia Ontiveros,Sudeste,Word,600
+43504,Gabriel,Marcos Vargas,Norte,Word,500
+43505,Alon,Hanna Coimbra,Norte,Word,600
+43505,Alon,Giuseppe Alves,Sul,Word,500
+43507,Gabriel,Helvio Baptista,Sul,Power BI,300
+43507,Marcus,Jonnathan Infante,Norte,Word,500
+43507,Gabriel,Carolina Garambone,Centro-Oeste,Word,500
+43508,Marcus,Jamile Frossard,Sul,Word,600
+43508,Alon,Célio Fioretti,Nordeste,Word,600
+43508,Alon,Barbara Marcolini,Sul,Word,600
+43508,Marcus,Rodney Thadeu,Nordeste,Python,450
+43508,Marcus,Isaac Novarino,Sul,Power BI,300
+43509,Gabriel,Jéssica Bitencourt,Sudeste,Word,600
+43509,Gabriel,Tayla Aragão,Sudeste,Word,600
+43509,João,Ruan Rabelo,Norte,Word,500
+43509,Diego,Giovanni Azeredo,Nordeste,Power BI,300
+43509,Gabriel,Thamirez Coimbra,Norte,Word,600
+43510,Gabriel,Sebastião Vasconcelos,Sudeste,Word,600
+43510,Marcus,Ângelo Suzano,Centro-Oeste,Python,450
+43510,Alon,Leticia Ladogano,Centro-Oeste,Word,500
+43510,Paulo,Cynthia Silveira,Nordeste,Power BI,300
+43511,João,Samantha Bello,Centro-Oeste,Python,450
+43511,Paulo,Bernard Silvestre,Nordeste,Power BI,300
+43511,Gabriel,Cecília Barros,Sul,Word,500
+43512,Gabriel,Luize Nobili,Nordeste,Word,500
+43513,Gabriel,Jéssica Carelli,Sudeste,Word,600
+43513,Diego,Vicente Gabrielen,Norte,Python,450
+43514,Alon,Júlia Iris,Sul,Word,500
+43514,Alon,Tomas Cassabian,Norte,Power BI,300
+43514,Gabriel,Marcos Costalforne,Norte,Word,600
+43515,Alon,Katherine Andrade,Norte,Python,450
+43515,Paulo,Jamile Póvoa,Norte,Word,500
+43515,Gabriel,Bernardo Maria,Nordeste,Word,500
+43515,Paulo,Jefferson Silvestre,Sudeste,Python,450
+43516,Alon,Nathalya Pessoa,Norte,Python,450
+43516,Marcus,Marianne Bogossian,Sudeste,Word,600
+43516,Paulo,Jose Salomão,Norte,Word,600
+43516,Paulo,Adrizia Valiate,Norte,Power BI,300
+43516,Alon,Gabriella Macedo,Sul,Word,500
+43516,João,Cláudio Sampaio,Nordeste,Python,450
+43517,Alon,Thomas Marcio,Centro-Oeste,Power BI,300
+43518,Marcus,Frederico Nunes,Centro-Oeste,Python,450
+43518,Alon,Marcus Vargas,Sudeste,Word,600
+43518,Gabriel,Francyne Baptista,Sudeste,Power BI,300
+43519,João,Yasser Scaldini,Centro-Oeste,Python,450
+43520,Gabriel,Taís Freire,Norte,Power BI,300
+43520,Diego,Mauricio Gabrielle,Sul,Python,450
+43520,Alon,Rubyson Francisca,Norte,Word,500
+43521,Alon,Isabella Maria,Sudeste,Word,600
+43521,Marcus,Aledio Provenzano,Nordeste,Power BI,300
+43521,João,Raísa Tiradentes,Norte,Power BI,300
+43521,Marcus,Alfredo Flôr,Norte,Power BI,300
+43522,Alon,Izabel Mateus,Centro-Oeste,Word,500
+43522,Alon,Sarah Gabrielle,Nordeste,Word,500
+43522,Paulo,Luísa Barrionuevo,Nordeste,Power BI,300
+43523,Diego,Marcus Macedo,Norte,Power BI,300
+43523,Diego,Julyana Carmo,Nordeste,Python,450
+43523,João,Christiane Póvoa,Norte,Word,500
+43523,João,Miguel Ramos,Sul,Python,450
+43523,João,Artur Reis,Sul,Word,600
+43523,Diego,Laura Corrêa,Norte,Power BI,300
+43524,Alon,Talline Bittencourt,Centro-Oeste,Python,450
+43524,Diego,Daniel Smolarek,Norte,Power BI,300
+43524,Diego,Adrian Cezar,Nordeste,Power BI,300
+43524,Paulo,Cristina Antônio,Sudeste,Word,600
+43524,Gabriel,Thales Iris,Nordeste,Word,500
+43525,Paulo,Jessica Messias,Nordeste,Word,500
+43525,Gabriel,Yasser Yudi,Centro-Oeste,Python,450
+43525,João,Leonardo Carmo,Nordeste,Word,450
+43526,Diego,Leandro Gerhad,Sul,Word,300
+43526,Gabriel,Bruna Domingues,Sudeste,Word,450
+43526,Diego,Cláudia Monte,Nordeste,Word,450
+43526,Marcus,Thamires Souza,Centro-Oeste,Word,450
+43527,Paulo,Walmyr Said,Centro-Oeste,Word,450
+43527,Diego,Platini Barreira,Sudeste,Word,500
+43527,Paulo,Mirian Fagundes,Nordeste,Word,450
+43527,Diego,Francisco Gomes,Sul,Word,600
+43527,Paulo,Christian Vargas,Norte,Word,450
+43528,João,Carolina Francisco,Norte,Word,450
+43528,João,Livia Andréa,Centro-Oeste,Word,450
+43529,Gabriel,Vinicius Nemitz,Sudeste,Python,450
+43529,Diego,Jo?o Andréa,Sudeste,Power BI,300
+43529,Diego,Ester Paulo,Sul,Power BI,300
+43529,Diego,Cecília dos,Sudeste,Word,600
+43530,Diego,Isadora Whitaker,Nordeste,Power BI,300
+43530,João,Renan Henrique,Centro-Oeste,Python,450
+43530,Gabriel,Gabriel Marques,Sudeste,Word,600
+43531,João,Sara Corrêa,Sudeste,Excel,500
+43532,Alon,Drielly Brendalina,Nordeste,Excel,500
+43532,Alon,Taila Suzano,Norte,Python,450
+43533,Alon,Renata Paulino,Sudeste,VBA,600
+43533,Alon,Nathalie Galera,Norte,Excel,500
+43534,Marcus,Karollayne Reyna,Sul,Python,450
+43534,Alon,Mônica Silvestre,Norte,VBA,600
+43534,Marcus,Nathalya Pinto,Sudeste,VBA,600
+43534,Alon,Yasmine Pacheco,Sudeste,Excel,500
+43535,Alon,Alan Hudson,Centro-Oeste,Excel,500
+43535,Alon,Marcus Florêncio,Norte,VBA,600
+43535,Marcus,Cláudia Freixo,Sudeste,Excel,500
+43536,Marcus,Manuela Carvalhal,Sul,Python,450
+43537,Diego,Karina Magalhaes,Norte,Excel,500
+43538,Diego,Fabiano Silvagasperi,Norte,Power BI,300
+43538,Marcus,Samir Faller,Sudeste,VBA,600
+43538,Diego,Karoliny Kranz,Nordeste,Power BI,300
+43538,Marcus,Willian Ontiveros,Norte,Excel,500
+43538,Paulo,Ingra Bogossian,Nordeste,Excel,500
+43538,Marcus,Fellipe Gallo,Centro-Oeste,Python,450
+43538,Diego,Suelen Hermsdorff,Centro-Oeste,Python,450
+43538,Marcus,Jessica Ferreira,Centro-Oeste,VBA,600
+43538,João,Izabella Flôr,Centro-Oeste,Power BI,300
+43539,Marcus,Raísa Tavares,Sudeste,VBA,600
+43539,Marcus,Francyne Cavalcanti,Nordeste,Excel,500
+43539,Marcus,Ariel Vinicius,Nordeste,Power BI,300
+43539,Marcus,Eriko Titonelli,Centro-Oeste,Power BI,300
+43539,Gabriel,Edson Jalles,Norte,Excel,500
+43539,Gabriel,Lorena Ávila,Centro-Oeste,Python,450
+43539,Alon,Rojane Cristine,Nordeste,Power BI,300
+43539,João,Marjorie Cesar,Sudeste,Python,450
+43539,Alon,Murilo Balassiano,Sul,Python,450
+43540,João,Taila Dourado,Centro-Oeste,Python,450
+43541,Alon,Olívia Fontenelle,Centro-Oeste,Excel,500
+43541,Alon,Giovanna Catarino,Sul,Python,450
+43541,Marcus,Davi Titonelli,Centro-Oeste,VBA,600
+43541,Alon,Ivana Braga,Norte,Python,450
+43542,Paulo,Érica Infante,Sudeste,Python,450
+43542,Marcus,Roger Silva,Sul,VBA,600
+43544,Gabriel,Ingra Garambone,Norte,Power BI,300
+43544,Alon,Constantino Santana,Norte,Power BI,300
+43545,Paulo,Thainá José,Norte,Power BI,300
+43545,Gabriel,Samuel Vilas,Sudeste,Word,600
+43545,Alon,Thomaz Novarino,Sul,Power BI,300
+43545,Alon,Nicholas Cristine,Sul,Power BI,300
+43546,Diego,Gisely Abramovitz,Norte,Power BI,300
+43546,Diego,Tiago Yosef,Centro-Oeste,Python,450
+43546,João,Stefan Silvestre,Sudeste,Word,500
+43546,Marcus,Alecssander Navega,Nordeste,Word,500
+43547,Diego,Maurício Gama,Centro-Oeste,Python,450
+43547,Gabriel,Ana Nemitz,Nordeste,Word,500
+43548,Gabriel,Elana Domingues,Nordeste,Python,450
+43548,Gabriel,Tainara Barberini,Sudeste,Power BI,300
+43548,Gabriel,Ary Costalforne,Centro-Oeste,Word,600
+43549,Diego,Jessica Penedo,Sudeste,Word,600
+43549,Alon,Paula Santos,Norte,Word,500
+43550,Paulo,Thomas Brendalina,Sul,Power BI,300
+43550,Diego,Venan Bernardo,Sul,Power BI,300
+43550,Paulo,Eugênio Mosqueira,Sudeste,Word,600
+43551,Gabriel,Eduardo Thadeu,Sul,Python,450
+43551,Diego,Beatriz Miguel,Norte,Word,500
+43551,Gabriel,Nicholas Gouvêa,Norte,Python,450
+43552,Gabriel,Julia Tassara,Sul,Power BI,300
+43552,Alon,Hércules Fernando,Centro-Oeste,Word,500
+43553,Diego,Tiago Barrionuevo,Sudeste,Word,600
+43553,Diego,Lucca Lobo,Nordeste,Word,500
+43553,Alon,Wendela Magalhães,Norte,Word,500
+43553,João,Luã Comas,Norte,Power BI,300
+43554,Gabriel,Millena Malher,Norte,Word,600
+43554,Alon,Allan Yen,Sudeste,Power BI,300
+43554,Diego,Kim Ronfini,Nordeste,Word,500
+43554,Gabriel,Anderson Perim,Norte,Python,450
+43554,Alon,Gleydson Mendonça,Nordeste,Power BI,300
+43554,Paulo,Lucca Nogueira,Nordeste,VBA,600
+43555,Gabriel,Thomáz Pires,Sul,Power BI,300
+43555,Alon,Domenik Faller,Centro-Oeste,Python,450
+43556,Alon,Thaís Rubinstein,Norte,Power BI,300
+43556,Gabriel,Ylana Lopez,Sudeste,VBA,600
+43557,Gabriel,Leon Caldana,Sudeste,VBA,600
+43557,Paulo,Alberto Yumi,Norte,Python,450
+43558,Paulo,Michelle Cassabian,Sudeste,VBA,600
+43559,João,Patrícia Cavalca,Norte,Power BI,300
+43559,Gabriel,Zilma Cromwell,Norte,VBA,600
+43559,Paulo,Julia Pinto,Nordeste,Excel,500
+43560,João,Thadeu Melo,Sul,Power BI,300
+43560,Diego,Thaina Goldoni,Norte,VBA,600
+43560,Alon,Jade Frossard,Sudeste,VBA,600
+43560,Gabriel,Tadeu Bastos,Sudeste,VBA,600
+43561,Gabriel,Sandro Yen,Sudeste,Excel,500
+43561,Gabriel,Maciela Nuñez,Centro-Oeste,VBA,600
+43561,João,Hygor Hippertt,Nordeste,Excel,500
+43561,João,Lara Coelho,Sudeste,VBA,600
+43562,João,Alex Mercês,Centro-Oeste,Python,450
+43562,João,Raiza Villela,Nordeste,Python,450
+43562,Gabriel,Liz Vinicius,Sul,Excel,500
+43562,Alon,Iris Cassabian,Sudeste,Excel,500
+43562,Alon,Maryanna Rosales,Norte,Power BI,300
+43563,Paulo,Diogo Coutinho,Sudeste,VBA,600
+43563,Diego,Rômulo Fecha,Sul,VBA,600
+43563,Alon,Raiane Eduardo,Norte,Python,450
+43564,Alon,Samir Fernando,Norte,Python,450
+43564,Gabriel,Vitória Neviani,Centro-Oeste,Python,450
+43564,Gabriel,Edgard Sergio,Centro-Oeste,Power BI,300
+43564,Gabriel,Igor Lopes,Norte,Power BI,300
+43565,Gabriel,Millena Maria,Sudeste,Power BI,300
+43565,João,Amanda Sone,Centro-Oeste,Python,450
+43566,Gabriel,Wellington Tsuyoshi,Sul,Python,450
+43566,Alon,Paulo Rosolia,Sul,Excel,500
+43566,Alon,Izabella César,Sul,Python,450
+43566,Alon,Alex Fróes,Centro-Oeste,VBA,600
+43566,Gabriel,Hannah Hudson,Centro-Oeste,Python,450
+43568,Paulo,Vívian Clara,Nordeste,Python,450
+43569,Gabriel,Evelyn Benvinda,Norte,VBA,600
+43569,Diego,Davi Rubim,Sudeste,Python,450
+43569,Paulo,Julia Cossich,Norte,VBA,600
+43569,Gabriel,Tácio Yehudah,Norte,Power BI,300
+43570,Paulo,Cassandra Monte,Sudeste,Python,450
+43571,Paulo,José Stellet,Norte,Excel,500
+43571,Marcus,Kallena Madeira,Centro-Oeste,Power BI,300
+43571,Marcus,Sebastião Augusto,Norte,Power BI,300
+43571,Marcus,Luana Paula,Nordeste,Excel,500
+43572,Gabriel,Enrico Spata,Nordeste,Python,450
+43572,Diego,Athos Luiza,Nordeste,Excel,500
+43572,Gabriel,Michel Cruz,Sudeste,VBA,600
+43572,Paulo,Lara Gouveia,Sul,Python,450
+43572,Alon,Domenik Rotava,Sudeste,Excel,500
+43572,João,Daniella Ferreira,Norte,Python,450
+43572,Paulo,Raquel Vilachã,Norte,VBA,600
+43573,Gabriel,Lázaro Fragoso,Norte,VBA,600
+43573,Alon,Millena Paes,Centro-Oeste,Excel,500
+43573,Alon,Rafael Gouvêa,Sul,Excel,500
+43574,Alon,Daniel Bachini,Centro-Oeste,Power BI,300
+43574,João,Flávio Corrêa,Nordeste,Power BI,300
+43574,João,Raiane Lencastre,Nordeste,Excel,500
+43574,Paulo,Julliana Cabral,Sudeste,VBA,600
+43574,Paulo,Rhanna Neiva,Sul,Python,450
+43575,João,Micaele Mathias,Centro-Oeste,Excel,500
+43576,Alon,Julliana Magalhaes,Sudeste,Excel,500
+43576,Gabriel,Walter Carvalhal,Sul,Power BI,300
+43577,Alon,Dayane Kranz,Centro-Oeste,VBA,600
+43577,Paulo,Antonio Borba,Sudeste,Excel,500
+43577,Paulo,Sylvia Siqueira,Norte,Excel,500
+43577,Diego,Luiza Priscilla,Norte,Excel,500
+43577,Diego,Alex Moura,Norte,VBA,600
+43578,Gabriel,Christian Moraes,Nordeste,Python,450
+43578,Diego,Ighor Jundi,Nordeste,Python,450
+43578,Gabriel,Francyne Tavares,Nordeste,Power BI,300
+43578,Gabriel,Marianne Kalaf,Sudeste,VBA,600
+43578,Gabriel,Graziela Neiva,Norte,VBA,600
+43579,Gabriel,Gerald Guilherme,Sul,VBA,600
+43579,Diego,Yasmine Lencastre,Centro-Oeste,VBA,600
+43580,Alon,Alex Magalhães,Sudeste,VBA,600
+43580,Marcus,Izabelle Penedo,Centro-Oeste,Power BI,300
+43581,Paulo,Karen Monte,Norte,Power BI,300
+43582,Alon,Gabryela Tiradentes,Nordeste,VBA,600
+43582,João,Jônatas Otavio,Centro-Oeste,Python,450
+43582,João,Yuske Sant'Anna,Norte,Python,450
+43582,João,Matheus Carneiro,Sul,Python,450
+43583,João,Cassandra Aragão,Sudeste,Power BI,300
+43583,Alon,Aledio Portella,Centro-Oeste,Power BI,300
+43583,Marcus,Mylla Benvinda,Sudeste,Power BI,300
+43584,João,Brenno Andréa,Sudeste,Python,450
+43584,Alon,Thayli Ferreirinha,Norte,VBA,600
+43584,Paulo,Anna Bakman,Centro-Oeste,Python,450
+43584,Alon,Henrique Caetano,Sudeste,VBA,600
+43585,Gabriel,Érico Brandão,Centro-Oeste,Power BI,300
+43585,Paulo,Dayane Fontenele,Norte,VBA,600
+43585,Diego,Edson Cavalcanti,Sudeste,Python,450
+43586,Marcus,Yohanan Carrera,Norte,Power BI,300
+43586,Paulo,Frederico Franciele,Sudeste,Excel,500
+43586,Alon,Aledio Fonseca,Sudeste,Excel,500
+43587,Marcus,Thayná Caldas,Norte,Python,450
+43587,Gabriel,Emmanuel Bogossian,Sudeste,Excel,500
+43587,Alon,Thainá Tostes,Norte,Excel,500
+43587,Marcus,Fabricio Machado,Sul,Excel,500
+43587,Paulo,Cecília Sofia,Sul,Python,450
+43588,João,Fátima Rossi,Sudeste,Excel,500
+43588,João,Constantino Amorim,Sudeste,Excel,500
+43588,Paulo,Beatriz Lopes,Centro-Oeste,Python,450
+43588,Paulo,Taila Otavio,Sudeste,Excel,500
+43589,Gabriel,Rhanna Blumgrund,Sudeste,VBA,600
+43589,Alon,Christine Ognibene,Norte,Python,450
+43591,Marcus,Luana Kranz,Sudeste,Power BI,300
+43591,João,Lohany Senderowicz,Norte,Python,450
+43591,Paulo,Mirian Costalforne,Sul,Python,450
+43592,Marcus,Alexandra Sara,Centro-Oeste,Power BI,300
+43592,Alon,Thayane Rodino,Sudeste,Power BI,300
+43592,Paulo,Yla Silva,Sudeste,VBA,600
+43592,Marcus,Wellington Kalaf,Sudeste,Python,450
+43592,Paulo,Marianne Maués,Sudeste,Excel,500
+43593,Alon,Douglas Gabrielen,Sudeste,Power BI,300
+43593,João,Pietro Trinta,Sudeste,VBA,600
+43593,Marcus,Edson Viana,Norte,Python,450
+43593,Marcus,Samuel Stellet,Norte,Power BI,300
+43594,Gabriel,Thais Marinho,Sudeste,Excel,500
+43594,Marcus,Geani Pisani,Sudeste,Excel,500
+43594,Alon,Nathália Baldanzi,Sudeste,Power BI,300
+43594,Diego,Stella Penna,Sudeste,VBA,600
+43595,Diego,Jose Campos,Sul,Python,450
+43595,Marcus,Izadora Mizrahy,Sudeste,VBA,600
+43595,Marcus,Leonardo Benvinda,Sudeste,Excel,500
+43595,João,Roger Mendes,Nordeste,Power BI,300
+43595,Marcus,Gabriella Stellet,Sul,Power BI,300
+43596,Gabriel,Raíza Barroso,Sudeste,VBA,600
+43596,Alon,Cynthia Salomao,Nordeste,VBA,600
+43596,Diego,Ruan Rayol,Sul,VBA,600
+43599,Diego,Rodrigo Smolarek,Sudeste,Excel,500
+43599,Gabriel,Arnaldo Rubio,Centro-Oeste,VBA,600
+43599,João,Stephanie Cristina,Nordeste,Python,450
+43599,Paulo,Beatriz Azevedo,Centro-Oeste,Python,450
+43599,Paulo,Isabella Gabriel,Sudeste,Excel,500
+43600,Marcus,Yuske Sone,Sul,Python,450
+43601,Paulo,Camille Sofia,Sul,Power BI,300
+43601,João,Bernardo Huon,Centro-Oeste,Power BI,300
+43601,Marcus,Ives Muniz,Norte,Python,450
+43602,Paulo,Catarina Marcio,Sudeste,Excel,500
+43602,Gabriel,Rafael Neves,Nordeste,Excel,500
+43603,João,Michele Soibelman,Nordeste,Excel,500
+43603,Marcus,Samir Baldanzi,Centro-Oeste,Python,450
+43604,Alon,Giuseppe Nobili,Centro-Oeste,Power BI,300
+43604,Marcus,Leticia Hermsdorff,Norte,Excel,500
+43604,Diego,Sylvio Victor,Centro-Oeste,Power BI,300
+43604,João,Adrian Tiradentes,Nordeste,Python,450
+43605,João,Wen Fracalossi,Sudeste,Python,450
+43605,Gabriel,Daniele Mosqueira,Centro-Oeste,VBA,600
+43605,Marcus,Cinthia Brendalina,Nordeste,Python,450
+43605,Gabriel,Cristiane Domingues,Centro-Oeste,Excel,500
+43606,Gabriel,Izadora La,Sudeste,VBA,600
+43606,Gabriel,Dayna Crespo,Sudeste,Word,600
+43606,Paulo,Gisely Mercês,Centro-Oeste,Word,500
+43607,Alon,Giulia Moutinho,Norte,Word,500
+43607,Gabriel,Walace Paes,Centro-Oeste,Word,300
+43607,Gabriel,Tayane Roberto,Centro-Oeste,Word,600
+43608,Diego,Jade Sant'Anna,Sul,Word,600
+43608,João,Flávio Tostes,Centro-Oeste,Word,300
+43608,João,Walace Brasil,Norte,Word,500
+43608,Diego,Bernard Pflueger,Sul,Word,500
+43608,Diego,Geam Paulo,Norte,Word,500
+43608,Marcus,Christine Cravo,Norte,Word,500
+43608,Marcus,Eliane Fuchs,Centro-Oeste,Power BI,300
+43608,Gabriel,Vitor Fernandez,Centro-Oeste,Word,450
+43609,Marcus,Guilherme Villar,Centro-Oeste,Power BI,300
+43609,Marcus,Stephanie Limp,Centro-Oeste,Power BI,300
+43609,Marcus,Murillo Yumi,Centro-Oeste,Power BI,300
+43609,Gabriel,Drielly Gonçalves,Norte,Excel,500
+43610,Paulo,Stephanie La,Sudeste,Excel,500
+43610,Gabriel,Cristiane Duarte,Sudeste,Python,450
+43611,Marcus,Fernanda Campos,Centro-Oeste,Power BI,300
+43611,Diego,Luísa Bachini,Centro-Oeste,Python,450
+43611,Diego,Taiza Rabelo,Centro-Oeste,Python,450
+43612,Marcus,Flávio Amor,Nordeste,Excel,500
+43612,Alon,Mauro Piccinini,Nordeste,Excel,500
+43612,Paulo,Eduardo Lopez,Sul,VBA,600
+43612,Gabriel,Raiza Dourado,Sudeste,Python,450
+43613,Alon,Raquel Zacharias,Sudeste,VBA,600
+43613,Marcus,Raiam Carrera,Norte,Word,600
+43613,Diego,Davi Gracio,Sul,Word,450
+43613,Marcus,Rodney Ognibene,Sudeste,Word,300
+43614,Paulo,Wesley Freixo,Sudeste,Word,500
+43614,João,Jeferson Bello,Centro-Oeste,Word,600
+43614,João,Kaio Machado,Nordeste,Word,450
+43615,Diego,Bianca Yosef,Sudeste,VBA,600
+43615,Diego,Nathália Abramovitz,Centro-Oeste,Power BI,300
+43615,Marcus,Rodrigo Silveira,Norte,Python,450
+43615,Marcus,Dalvan Yehudah,Sul,Python,450
+43615,Diego,Nathalie Jose,Norte,Excel,500
+43615,Diego,Carlos Cristine,Centro-Oeste,VBA,600
+43615,Diego,Marjorie Gomes,Centro-Oeste,Power BI,300
+43615,Marcus,Leandro Siqueira,Sudeste,Excel,500
+43616,Alon,Wendela Tassara,Norte,Excel,500
+43616,Diego,Camilla Benvinda,Sul,Power BI,300
+43617,Diego,Naiara Nuñez,Sudeste,Power BI,300
+43617,João,Lara Aziz,Sudeste,VBA,600
+43617,Marcus,Rhanna Ladogano,Centro-Oeste,Python,450
+43618,Gabriel,Zilma Bailly,Centro-Oeste,Python,450
+43619,Gabriel,Francyne Cavalca,Norte,VBA,600
+43619,Diego,Fabiane Portillo,Norte,Power BI,300
+43619,João,Alexandra Mollica,Sudeste,VBA,600
+43619,Diego,Fellipe Cavalca,Sudeste,Power BI,300
+43620,Diego,Carlos Roberto,Centro-Oeste,Power BI,300
+43621,Alon,Leticia Yang,Centro-Oeste,VBA,600
+43621,Alon,Julio Fioretti,Sudeste,VBA,600
+43622,Marcus,Teresa Alves,Sudeste,Excel,500
+43622,Diego,Michele Nogueira,Sul,Power BI,300
+43622,Diego,Norman Carrera,Sul,Python,450
+43622,Alon,Katarine Ferrer,Centro-Oeste,VBA,600
+43622,Marcus,Jackson Caldas,Sudeste,Excel,500
+43622,João,Marília Vilhena,Sudeste,Excel,500
+43623,Paulo,Roger Salomão,Sudeste,VBA,600
+43623,Diego,Bárbara Brendalina,Sul,Power BI,300
+43623,Diego,Barbara Barreto,Nordeste,Python,450
+43623,Gabriel,Marcela Fernando,Nordeste,Excel,500
+43624,Gabriel,Barbara Emmerick,Nordeste,Python,450
+43624,Paulo,Marisol Carrera,Centro-Oeste,Excel,500
+43624,Diego,Isabelle Espíndola,Norte,VBA,600
+43624,Alon,Tiago Victor,Nordeste,VBA,600
+43625,Alon,Jonas Marino,Sudeste,VBA,600
+43625,Marcus,Marcela Paes,Centro-Oeste,Power BI,300
+43625,Diego,Emanuella Henriques,Nordeste,Python,450
+43626,João,Thaisa Rangel,Norte,Power BI,300
+43626,Marcus,Rilson Sena,Sul,Python,450
+43626,João,Etiene Bittencourt,Centro-Oeste,Python,450
+43627,Paulo,Gizele Erthal,Centro-Oeste,Python,450
+43627,Paulo,Raíza Baptista,Sudeste,VBA,600
+43628,Diego,Rodney Mateus,Sudeste,Python,450
+43628,Alon,Jose Bakman,Norte,Python,450
+43628,Marcus,Tainah Hermano,Centro-Oeste,Power BI,300
+43628,Paulo,Natália Barrionuevo,Sul,Python,450
+43628,Marcus,Samir Monte,Sudeste,Power BI,300
+43629,Marcus,Joel Kohn,Centro-Oeste,Power BI,300
+43629,João,Renan Caffaro,Centro-Oeste,Python,450
+43629,Marcus,Yasmini Andrade,Sul,Power BI,300
+43629,Paulo,Wesley Silvalmas,Norte,Excel,500
+43630,Marcus,John Monteiro,Norte,Power BI,300
+43631,Marcus,Anderson Moulin,Centro-Oeste,Power BI,300
+43631,Gabriel,Aledio Mercês,Nordeste,Python,450
+43631,Paulo,Alexandra Gabriel,Nordeste,Excel,500
+43631,Marcus,Cleberson Bogossian,Sudeste,Power BI,300
+43632,Gabriel,Caroll Varanda,Centro-Oeste,Python,450
+43632,Alon,Livia Fioretti,Nordeste,Python,450
+43632,Alon,Vitória Bruna,Nordeste,Excel,500
+43632,Marcus,Walter Rebelo,Centro-Oeste,Power BI,300
+43632,Marcus,Raul Filiphe,Sul,Power BI,300
+43633,Marcus,Philipe Pinto,Nordeste,Power BI,300
+43633,Alon,Cleo Hermano,Nordeste,Python,450
+43633,Paulo,Norbertho Heleno,Nordeste,Power BI,300
+43634,Gabriel,Joel Portella,Sul,Python,450
+43634,Diego,Caroline Akerman,Sudeste,VBA,600
+43634,Alon,Cassio Roberto,Sudeste,Power BI,300
+43635,Marcus,Lázaro Sofia,Sudeste,Excel,500
+43635,Paulo,Saranna Cassabian,Norte,Excel,500
+43635,Alon,Yasser Guedes,Norte,Excel,500
+43635,Diego,Yohanan Tkotz,Nordeste,Power BI,300
+43635,Marcus,Raiane Rubio,Sul,Python,450
+43636,Alon,Natali Fasano,Sul,Power BI,300
+43637,Marcus,Talissa Yang,Sul,Python,450
+43637,Diego,Joao Bretas,Sudeste,VBA,600
+43638,Paulo,Emilaine Torres,Sul,Python,450
+43638,Alon,Nathália Espinosa,Sudeste,VBA,600
+43638,Diego,Jamile Campelo,Norte,Excel,500
+43639,Gabriel,Monique Lucas,Sudeste,Python,450
+43639,Marcus,Murillo César,Norte,VBA,600
+43639,Diego,Tatiana Tkotz,Norte,Excel,500
+43640,Alon,Renan Fioravante,Norte,Python,450
+43640,Diego,Eliane Silva,Nordeste,Python,450
+43640,João,Rodney Flávia,Nordeste,Python,450
+43640,João,Tayla Rosario,Norte,VBA,600
+43640,Marcus,Soraia Titonelli,Sudeste,Python,450
+43640,Diego,Jayme Botelho,Sudeste,Python,450
+43641,Paulo,Aledio Essaber,Nordeste,Power BI,300
+43642,Alon,Jéssica Faria,Norte,Power BI,300
+43642,João,Natali Jalles,Centro-Oeste,Python,450
+43642,Marcus,Sandy Ferreirinha,Nordeste,Excel,500
+43643,Diego,Helga Rosales,Sul,Excel,500
+43643,Paulo,Stephane Bizzo,Sudeste,Excel,500
+43643,Paulo,Wesley Mattos,Nordeste,Excel,500
+43644,Marcus,José Brandão,Nordeste,Excel,500
+43644,Alon,Giovani Malher,Sudeste,Python,450
+43644,Marcus,Willian Neviani,Sul,Excel,500
+43644,Marcus,Fabricio Messias,Norte,Python,450
+43644,Alon,Tatiane Palhota,Nordeste,Power BI,300
+43645,Gabriel,Rayane Portillo,Norte,VBA,600
+43645,Gabriel,Thaisa Rubinstein,Nordeste,Power BI,300
+43645,João,Fillipe Freitas,Centro-Oeste,VBA,600
+43646,Marcus,Dayane Flávia,Sul,Power BI,300
+43646,Marcus,Edson Rubin,Sudeste,VBA,600
+43646,Marcus,Larissa Póvoa,Sudeste,VBA,600
+43646,João,Roberta Brandão,Sul,Power BI,300
+43647,Marcus,Lívia Colacino,Sudeste,VBA,600
+43647,Alon,Raiam Domingues,Sul,Power BI,300
+43647,Marcus,Yasser Nogueira,Nordeste,Power BI,300
+43647,Diego,Khaio Garambone,Nordeste,Excel,500
+43647,Alon,Luísa Yosef,Nordeste,Power BI,300
+43648,João,Wesley Cavadas,Norte,Excel,500
+43648,Marcus,Raul Beatriz,Nordeste,Power BI,300
+43648,Alon,Eduardo Chagas,Sul,Power BI,300
+43649,Marcus,José Barroso,Centro-Oeste,VBA,600
+43649,Diego,Giovanna Miura,Sudeste,Power BI,300
+43649,Marcus,Jefferson Azeredo,Norte,VBA,600
+43649,João,Fellipe Barboza,Norte,Python,450
+43649,Marcus,Thaís Corrêa,Sudeste,VBA,600
+43650,Marcus,Sandro Praxedes,Sudeste,Word,600
+43650,Marcus,Helena Ricardo,Centro-Oeste,Word,600
+43651,Gabriel,Luiz Costa,Sul,Word,600
+43651,Alon,Alan Stellet,Sudeste,Word,600
+43651,Alon,Átila Fernando,Sul,Python,450
+43651,Gabriel,Glaucia Baldanzi,Sul,Word,600
+43651,Alon,Adriano Tostes,Sudeste,Python,450
+43652,Paulo,Manuela Silva,Sul,Python,450
+43652,Gabriel,Marcella Bogossian,Norte,Word,600
+43652,Paulo,Cynthia Dória,Sudeste,Word,500
+43652,Gabriel,Nathan Moulin,Sudeste,Word,600
+43653,João,Rojane Mello,Sul,Python,450
+43653,João,Yasmin Salomao,Sul,Python,450
+43653,Gabriel,Stephane Duque,Sudeste,Word,600
+43654,Gabriel,Willian Messias,Nordeste,Word,500
+43654,Diego,Giuseppe Barreto,Norte,Power BI,300
+43655,Gabriel,Isaac Stockler,Sudeste,Word,600
+43655,Gabriel,Andreia Tribuzy,Sudeste,Word,600
+43655,Diego,Sara Bizzo,Centro-Oeste,Power BI,300
+43655,Paulo,Iuri Tkotz,Norte,Python,450
+43655,Marcus,Marcus Luis,Norte,Python,450
+43655,Diego,Valmir Essaber,Sul,Power BI,300
+43656,Marcus,Alexandre Paulino,Nordeste,Python,450
+43656,Gabriel,Valentina Greici,Sudeste,Word,600
+43656,Diego,Heitor Morgado,Norte,PowerPoint,300
+43656,Alon,Filipe Abramovitz,Nordeste,Word,500
+43656,Diego,Jennifer Spata,Sul,Power BI,300
+43657,Marcus,Walmyr Carmo,Sudeste,Word,500
+43657,Diego,Ariel Morais,Sudeste,Power BI,300
+43657,João,Victor Cezar,Centro-Oeste,Word,500
+43657,Diego,Maria Fuchs,Sudeste,Word,500
+43658,Marcus,Brenno Novarino,Norte,Power BI,300
+43658,Marcus,Adriane Cassabian,Centro-Oeste,Word,600
+43658,Paulo,Sara Valle,Sudeste,Python,450
+43659,Paulo,Cesar Rossi,Norte,Word,500
+43659,João,Elisa Pedro,Sul,Word,500
+43659,Diego,Leandro Halinck,Nordeste,Word,500
+43660,Paulo,Marcus Farah,Norte,Python,450
+43660,Diego,Edson Thamires,Norte,Word,500
+43661,Gabriel,Thaisa Flavio,Sudeste,Word,500
+43661,Alon,Letícia Temporal,Sudeste,Excel,500
+43661,Marcus,Katarine Lucas,Norte,Python,450
+43662,Gabriel,Zilma Huon,Sudeste,VBA,600
+43662,Alon,Mateus Bogossian,Centro-Oeste,Power BI,300
+43663,João,Filippo Mercês,Sudeste,Power BI,300
+43663,Gabriel,Kassia Paes,Norte,Power BI,300
+43663,Paulo,Bárbara Medeiros,Norte,Power BI,300
+43663,João,Daniele Areias,Norte,VBA,600
+43663,Paulo,Cícero Milani,Sudeste,Excel,500
+43664,Paulo,Walter Stellet,Norte,Power BI,300
+43665,Marcus,Mateus Barcelos,Sul,Power BI,300
+43665,Paulo,Sandro Santana,Norte,Python,450
+43665,Paulo,Mariana Boaventura,Sudeste,Excel,500
+43667,Alon,Wen Yen,Sul,VBA,600
+43667,Gabriel,Antônio Fogacia,Nordeste,Python,450
+43667,Marcus,Marina Yang,Centro-Oeste,Python,450
+43667,Paulo,Kallena Novaes,Centro-Oeste,Python,450
+43667,Paulo,Ana Bento,Sudeste,Excel,500
+43667,João,Caroline Navega,Sudeste,Python,450
+43668,Gabriel,Edgard Monteiro,Nordeste,Python,450
+43668,Alon,Cassandra Yehudah,Norte,Power BI,300
+43668,Gabriel,Ravena Coelli,Sul,Power BI,300
+43668,Gabriel,Vicente Batista,Sudeste,Excel,500
+43668,Diego,Arnôr Castro,Norte,VBA,600
+43668,Paulo,Antonio Bitencourt,Sudeste,Excel,500
+43670,Alon,Marisol Lencastre,Norte,VBA,600
+43670,Marcus,Guilherme Stellet,Sudeste,VBA,600
+43670,Gabriel,Lucas Batista,Sudeste,Excel,500
+43671,Marcus,Karine Coimbra,Sul,Power BI,300
+43672,Diego,Victória Almeida,Norte,Python,450
+43672,Marcus,Hugo Miranda,Sul,Power BI,300
+43672,Diego,Jeronimo Maia,Sul,VBA,600
+43672,Alon,Ramon Monte,Sul,Python,450
+43673,Alon,Rebecca Renato,Norte,Python,450
+43673,Marcus,Verônica Totti,Centro-Oeste,Power BI,300
+43674,Alon,Edjailma Victório,Nordeste,Power BI,300
+43674,Paulo,Leonardo Scaldini,Nordeste,Python,450
+43674,Alon,Viviane Provenzano,Centro-Oeste,VBA,600
+43674,Alon,Geam Bizzo,Norte,Excel,500
+43675,Diego,Thiago Guimarães,Nordeste,Python,450
+43675,Marcus,Arnôr Magalhaes,Norte,Excel,500
+43675,Alon,Alex Furtado,Centro-Oeste,Power BI,300
+43676,Marcus,Cleberson Kohn,Sudeste,VBA,600
+43676,Gabriel,Jeronimo Caldas,Sul,Power BI,300
+43676,Alon,Alessandra Gonzalez,Norte,VBA,600
+43677,Diego,Sandy Correa,Norte,Excel,500
+43678,Marcus,Giuseppe Felix,Norte,Excel,500
+43678,Gabriel,Eduardo Corrêa,Sudeste,Python,450
+43678,Marcus,Leandro Paulo,Sudeste,VBA,600
+43679,Marcus,Jeferson Infante,Norte,Python,450
+43679,Paulo,Amanda Costalforne,Norte,Python,450
+43679,Paulo,Thomaz Provenzano,Nordeste,Python,450
+43679,Diego,Maurício Eduarda,Sudeste,Excel,500
+43680,João,Giovanna Monteiro,Sudeste,Python,450
+43680,Paulo,Thayná Luisa,Norte,Python,450
+43680,Diego,Letícia Taylor,Sudeste,Python,450
+43680,Marcus,Yohanan Fioretti,Norte,VBA,600
+43680,Alon,Helga Felix,Sudeste,Excel,500
+43681,João,Alexsandro Cristine,Centro-Oeste,VBA,600
+43681,Alon,Viviane Paes,Nordeste,Excel,500
+43681,Gabriel,Walmyr Gabrielen,Norte,Power BI,300
+43681,João,Wen Akerman,Norte,Excel,500
+43681,João,Barbara Menezes,Sul,Power BI,300
+43681,Alon,Gustavo Marendino,Sul,Python,450
+43681,Gabriel,Elena Abranches,Centro-Oeste,Python,450
+43682,Paulo,Taila Pinto,Norte,VBA,600
+43682,Marcus,Joel Bailly,Norte,Excel,500
+43682,Paulo,Anderson Mendes,Centro-Oeste,Python,450
+43682,Alon,Ester Perim,Norte,Power BI,300
+43682,Paulo,Carla Paulino,Norte,Python,450
+43682,Gabriel,Gerald Rossi,Centro-Oeste,Power BI,300
+43683,Paulo,Giovanni Halinck,Centro-Oeste,VBA,600
+43683,Diego,Paula Li,Nordeste,Power BI,300
+43683,Paulo,Clara Lopez,Nordeste,Power BI,300
+43684,Diego,Wendela Comas,Sudeste,VBA,600
+43684,João,Paula Moraes,Nordeste,Python,450
+43684,Alon,Renan Fioravante,Norte,Python,450
+43684,Diego,Giuseppe Botelho,Sudeste,Python,450
+43684,Diego,Morgana Thamires,Sudeste,Power BI,300
+43684,Paulo,Luísa Junqueira,Sul,VBA,600
+43685,Alon,Alexandra Fernando,Sul,Python,450
+43685,Marcus,Nickole Amorim,Centro-Oeste,Python,450
+43685,Marcus,Andréia Bello,Sudeste,PowerPoint,300
+43685,João,Rebecca Ognibene,Centro-Oeste,VBA,600
+43685,Marcus,Livia Infante,Nordeste,Excel,500
+43686,Gabriel,Michel Zickwolf,Centro-Oeste,PowerPoint,300
+43686,Diego,Wendel Furtado,Norte,PowerPoint,300
+43687,João,Cleberson Rebelo,Norte,PowerPoint,300
+43687,Alon,Roberto Yumi,Centro-Oeste,Excel,500
+43687,Paulo,Bernard Madrid,Nordeste,VBA,600
+43688,João,Kallena Hudson,Norte,Excel,500
+43689,Alon,Taís Nemitz,Sul,VBA,600
+43689,Diego,Katharina Alana,Nordeste,PowerPoint,450
+43690,Gabriel,Rogério Balassiano,Sul,Excel,500
+43690,Paulo,Tomas Fontenele,Sudeste,VBA,600
+43691,Marcus,Tiago Jardim,Nordeste,PowerPoint,450
+43691,Paulo,Jade Comas,Nordeste,PowerPoint,300
+43691,Alon,Camille Labanca,Centro-Oeste,PowerPoint,450
+43691,João,Marcio Anunciação,Centro-Oeste,VBA,600
+43691,Marcus,Katharina Bello,Nordeste,Excel,500
+43691,Alon,Emilaine Brendalina,Sudeste,Excel,500
+43691,Paulo,Michel Mendonça,Sudeste,PowerPoint,300
+43692,Marcus,Daniella Furtado,Norte,PowerPoint,450
+43692,Diego,Ananda Varella,Norte,PowerPoint,450
+43692,Diego,Sandro Valladares,Nordeste,Python,450
+43692,Paulo,Thalita Brandão,Norte,PowerPoint,300
+43693,Alon,Constantino Godinho,Norte,VBA,600
+43693,Gabriel,Karine Halinck,Sudeste,Excel,500
+43693,Diego,Laiza Sara,Sudeste,VBA,600
+43694,Gabriel,Natalia Jalles,Nordeste,PowerPoint,450
+43695,Gabriel,Dilson Baldanzi,Centro-Oeste,PowerPoint,300
+43695,João,Débora Carvalho,Nordeste,VBA,600
+43695,Paulo,Giselia Netto,Norte,Excel,500
+43695,Alon,Hércules Carneiro,Sul,PowerPoint,450
+43696,Diego,Carlos Figueiredo,Norte,PowerPoint,450
+43696,João,Thamiris Moutinho,Nordeste,Excel,500
+43696,Diego,Vívian La,Norte,PowerPoint,300
+43696,Gabriel,Gisely Tostes,Centro-Oeste,PowerPoint,450
+43697,Diego,Jose Helena,Nordeste,PowerPoint,300
+43697,João,Raiza Fecha,Centro-Oeste,PowerPoint,450
+43698,Paulo,Reila Souza,Norte,PowerPoint,300
+43698,João,Willian Jiun,Centro-Oeste,VBA,600
+43698,Alon,Yuri Hudson,Nordeste,PowerPoint,300
+43698,Gabriel,Adrizia Pacheco,Norte,VBA,600
+43699,Diego,Marcela Fracalossi,Centro-Oeste,PowerPoint,300
+43699,João,Marcella César,Nordeste,PowerPoint,450
+43699,Alon,Júlia Fogacia,Centro-Oeste,PowerPoint,450
+43700,Alon,Elaine Erthal,Centro-Oeste,PowerPoint,450
+43700,Paulo,Hiaiune Russo,Centro-Oeste,PowerPoint,450
+43701,Gabriel,Denilton Jorge,Centro-Oeste,VBA,600
+43701,Diego,Álvaro Alvim,Norte,PowerPoint,300
+43702,Diego,Maurício Ricardo,Nordeste,PowerPoint,450
+43702,Gabriel,Denilton Stockler,Norte,PowerPoint,300
+43702,Diego,Jayme Caldas,Nordeste,Power BI,300
+43703,Gabriel,Alexandra Caroline,Sul,VBA,600
+43703,Diego,Amanda Balassiano,Centro-Oeste,Power BI,300
+43704,Alon,León Suzano,Sudeste,Python,450
+43704,Alon,jucelia Ambrosio,Centro-Oeste,Power BI,300
+43704,Gabriel,Isabella Penna,Sudeste,VBA,600
+43705,Paulo,Marcus Aya,Centro-Oeste,Power BI,300
+43705,Gabriel,Giovana Rubim,Sul,VBA,600
+43705,Gabriel,Beatriz Freire,Centro-Oeste,Power BI,300
+43705,Paulo,Fellipe Frederico,Sudeste,Excel,500
+43706,Diego,Thayna Azeredo,Centro-Oeste,Power BI,300
+43706,Marcus,Yasser Brasil,Sudeste,VBA,600
+43706,Marcus,Ludmila Amaral,Norte,Excel,500
+43706,Alon,Hygor Queiroz,Centro-Oeste,Power BI,300
+43706,João,León Labanca,Sudeste,Python,450
+43706,Marcus,Cynthia Heleno,Sudeste,VBA,600
+43707,Marcus,Gustavo Alvarenga,Sudeste,VBA,600
+43707,Diego,Andreza Mesquita,Nordeste,Excel,500
+43707,Alon,Eriko Sara,Centro-Oeste,Power BI,300
+43707,Alon,Hiago Costa,Sudeste,Power BI,300
+43708,João,Rebeca Magalhaes,Sul,VBA,600
+43708,Alon,Kallena Garambone,Nordeste,Excel,500
+43708,Alon,Suellen Baltar,Nordeste,VBA,600
+43708,Alon,Giselia Rotava,Centro-Oeste,Python,450
+43709,Marcus,Alexsandro Scalercio,Sudeste,VBA,600
+43709,João,Joao Yen,Sul,Excel,500
+43709,Alon,Dykson Arslanian,Sudeste,Excel,500
+43709,Alon,Alfredo Rivero,Sudeste,VBA,600
+43709,Marcus,Denilton Mateus,Sul,Power BI,300
+43709,Gabriel,Leonardo Marcio,Nordeste,Excel,500
+43709,Marcus,Izabella Salomao,Nordeste,VBA,600
+43709,Gabriel,Alfredo Junqueira,Centro-Oeste,Power BI,300
+43711,Gabriel,Kim Siqueira,Norte,VBA,600
+43711,Gabriel,Helena Ladogano,Centro-Oeste,Power BI,300
+43711,João,Ylana Navega,Nordeste,Power BI,300
+43712,João,Brenno José,Sudeste,VBA,600
+43712,Gabriel,Ighor Catarino,Sul,Power BI,300
+43712,Paulo,Maciela Piero,Norte,Excel,500
+43712,Paulo,Walmyr Faria,Sul,VBA,600
+43712,Gabriel,Jeferson Ban,Norte,Excel,500
+43713,Marcus,Thadeu Palhota,Nordeste,Power BI,300
+43713,Diego,Platini Raggi,Sudeste,Excel,500
+43713,Diego,Wesley Yehudah,Norte,Excel,500
+43713,Gabriel,Ully Figueiredo,Nordeste,Python,450
+43714,Diego,Nathalya Salomao,Sudeste,VBA,600
+43714,Diego,Átila Vinicius,Centro-Oeste,Python,450
+43714,Gabriel,Iago Yumi,Centro-Oeste,Python,450
+43714,Diego,Yasmini Madeira,Nordeste,VBA,600
+43714,Gabriel,Jeter Cabral,Centro-Oeste,Power BI,300
+43715,Diego,Michelle Aballo,Centro-Oeste,Excel,500
+43715,Gabriel,Elida Miehrig,Sudeste,VBA,600
+43715,João,Tadeu Bizzo,Norte,Python,450
+43718,João,Marcos Queiroz,Norte,Power BI,300
+43718,Marcus,Melissa Azeredo,Sul,VBA,600
+43718,João,Tiago Costainara,Nordeste,Excel,500
+43718,Marcus,Valéria Amorim,Sudeste,VBA,600
+43718,Paulo,Lucca Monteiro,Sudeste,Excel,500
+43719,Gabriel,Paloma Fróes,Norte,Python,450
+43719,João,Ludmila Flávia,Norte,Power BI,300
+43720,Marcus,Thaiz Gouvêa,Nordeste,VBA,600
+43720,Gabriel,Millena Borowicz,Norte,Excel,500
+43720,Alon,Thomas Catarino,Nordeste,Python,450
+43721,Diego,Rachel Rabelo,Nordeste,Power BI,300
+43721,Marcus,Natália Infante,Norte,VBA,600
+43721,Marcus,Thaiz Fonseca,Sudeste,Power BI,300
+43721,Paulo,Julliana Pinheiro,Norte,Python,450
+43721,Diego,Nuno Centurione,Centro-Oeste,Power BI,300
+43721,Paulo,Yuske Chagas,Centro-Oeste,Power BI,300
+43721,Gabriel,Mauricio Lopes,Centro-Oeste,Python,450
+43722,Marcus,Cleberson José,Norte,Python,450
+43722,Marcus,Ângelo Lana,Sudeste,VBA,600
+43722,Alon,César Maia,Sudeste,VBA,600
+43722,Diego,Joel Farah,Sul,VBA,600
+43723,Diego,Paola Cossich,Nordeste,VBA,600
+43723,Gabriel,Camilla Ferrer,Sudeste,VBA,600
+43724,Gabriel,Lorena Sena,Norte,VBA,600
+43724,João,Audir Madruga,Centro-Oeste,Power BI,300
+43724,João,Breno Akerman,Sul,Python,450
+43724,João,Evelyn Penna,Norte,Power BI,300
+43724,Marcus,Tomas Heleno,Sudeste,Python,450
+43725,Gabriel,Gisely Maciel,Sul,Power BI,300
+43726,Gabriel,Paulo Gabrielle,Nordeste,VBA,600
+43726,João,Luã Fioretti,Sudeste,Excel,500
+43726,Alon,Giuseppe Jiun,Sudeste,VBA,600
+43726,Paulo,Cleberson Tavares,Norte,Power BI,300
+43727,Marcus,Edjailma Silvalmas,Sudeste,Python,450
+43727,Marcus,Luciana Freire,Centro-Oeste,Excel,500
+43727,Gabriel,Raísa Alana,Nordeste,Excel,500
+43727,João,Aledio Guimarães,Sudeste,VBA,600
+43728,Gabriel,Jeronimo Espinosa,Norte,VBA,600
+43728,Diego,Raissa Chagas,Nordeste,Excel,500
+43728,Diego,Bianca Coutinho,Centro-Oeste,Python,450
+43728,Gabriel,Renan Domingues,Nordeste,VBA,600
+43728,Alon,Graziela Rodrigo,Sul,Power BI,300
+43728,Diego,Naiara Madeira,Centro-Oeste,VBA,600
+43728,Alon,Eriko Tribuzy,Sudeste,PowerPoint,500
+43729,Diego,Lívia Nogueira,Norte,Excel,500
+43729,Marcus,Higor Li,Sudeste,Excel,500
+43730,Paulo,Débora Bachini,Norte,VBA,600
+43731,Marcus,Beatriz Cabral,Sudeste,VBA,600
+43731,Alon,Yohana Bachini,Centro-Oeste,Power BI,300
+43731,João,Rafaela Reis,Centro-Oeste,Power BI,300
+43731,Gabriel,Verônica Silvestre,Sul,Power BI,300
+43731,Marcus,Ysabella Smolarek,Sudeste,VBA,600
+43731,Marcus,Enrique Sofia,Nordeste,PowerPoint,600
+43733,Paulo,Hugo Catarino,Norte,PowerPoint,300
+43733,Marcus,Marianna Coelli,Sul,PowerPoint,600
+43733,Alon,Ully Penna,Nordeste,PowerPoint,300
+43733,Marcus,Bernardo Aguiar,Nordeste,PowerPoint,450
+43733,Paulo,Cláudio Baptista,Norte,PowerPoint,500
+43733,Gabriel,Thayli Viana,Sudeste,PowerPoint,300
+43733,Marcus,Tomas Renato,Sudeste,PowerPoint,600
+43734,Alon,Marcio Cravo,Norte,PowerPoint,450
+43734,Marcus,Érico Jiun,Sul,PowerPoint,300
+43734,Paulo,Silvio Orind,Centro-Oeste,PowerPoint,450
+43734,Marcus,Leila Pedrazza,Centro-Oeste,Python,450
+43734,Alon,Thais Menezes,Norte,Python,450
+43735,Marcus,Daniele Fontenelle,Sudeste,VBA,600
+43735,Diego,Agnes Tiradentes,Norte,Excel,500
+43735,Marcus,Pâmella Arslanian,Norte,VBA,600
+43735,Alon,Mayara Yumi,Nordeste,Power BI,300
+43735,Alon,Sara Macedo,Sudeste,VBA,600
+43735,Diego,Giovani Cozendey,Sudeste,PowerPoint,600
+43735,Alon,Nickole Russo,Sul,PowerPoint,500
+43735,Diego,Isabelle Batista,Sul,PowerPoint,450
+43736,Marcus,Thomaz Ricardo,Sudeste,PowerPoint,600
+43736,Diego,Nathália Jobim,Sudeste,PowerPoint,600
+43737,Gabriel,Simone Salomao,Centro-Oeste,PowerPoint,450
+43737,Alon,Helena Carneiro,Norte,PowerPoint,300
+43737,Diego,Victória Osman,Sul,PowerPoint,600
+43738,Marcus,David Garambone,Sudeste,PowerPoint,450
+43739,Diego,Melissa Rubin,Sudeste,PowerPoint,600
+43739,Gabriel,Marianne Vinicius,Sudeste,VBA,600
+43739,Alon,Gabrielle Almawi,Norte,Power BI,300
+43739,Diego,Jefferson Arantes,Nordeste,VBA,600
+43739,Paulo,Tayane Batista,Sudeste,Python,450
+43740,Marcus,Katherine Scandiuzzi,Sul,Power BI,300
+43740,Paulo,Philipe Kohn,Norte,PowerPoint,600
+43740,João,César Chaves,Centro-Oeste,PowerPoint,450
+43741,João,Gabriel Ferrer,Sudeste,PowerPoint,600
+43741,Marcus,Yasmim Arineli,Centro-Oeste,PowerPoint,450
+43741,Gabriel,Thaina Fonseca,Centro-Oeste,PowerPoint,300
+43741,Diego,Julianna Amaral,Centro-Oeste,PowerPoint,300
+43742,Paulo,Saranna Accardo,Centro-Oeste,PowerPoint,300
+43742,Marcus,Letícia Brandão,Sudeste,PowerPoint,500
+43743,Gabriel,Thamirez Akerman,Centro-Oeste,PowerPoint,600
+43743,Alon,Natali Miranda,Norte,Python,450
+43743,Gabriel,Tainá Costainara,Sudeste,VBA,600
+43744,Gabriel,Maciela Eduardo,Centro-Oeste,Power BI,300
+43744,Diego,Thuany Perim,Sudeste,Python,450
+43744,Paulo,Sawlo Brasil,Nordeste,Python,450
+43745,João,Luca Rubio,Centro-Oeste,Power BI,300
+43745,João,Luís Barrionuevo,Centro-Oeste,Power BI,300
+43745,João,Nina Suzano,Sul,Python,450
+43746,João,Nicholas Côrte-Real,Sudeste,Excel,500
+43746,Alon,Raissa Erthal,Centro-Oeste,Power BI,300
+43746,Diego,Lívia Rodrigues,Centro-Oeste,Python,450
+43746,Gabriel,Gabriela Totti,Sul,VBA,600
+43747,Paulo,Hygor Cardoso,Sudeste,Python,450
+43747,Alon,Gabryela Aballo,Sul,Power BI,300
+43747,Alon,Nicole Pereira,Sudeste,Power BI,300
+43748,Diego,Cleberson Varanda,Centro-Oeste,VBA,600
+43748,Paulo,Ylana Itapary,Nordeste,Python,450
+43748,Paulo,Verônica Alvarenga,Norte,Excel,500
+43748,Gabriel,Diogo Yumi,Sul,Python,450
+43748,Marcus,Thamirez Anunciação,Sudeste,VBA,600
+43749,João,Jéssica Neviani,Norte,PowerPoint,450
+43749,João,Isabela Costalforne,Norte,PowerPoint,300
+43749,João,Paula Li,Norte,PowerPoint,450
+43749,Gabriel,Vito Batista,Sudeste,VBA,600
+43750,Gabriel,Alberto Rozenbaum,Sudeste,PowerPoint,300
+43750,Paulo,Andreza Bretas,Norte,PowerPoint,300
+43750,Marcus,Mauricio Ventura,Centro-Oeste,PowerPoint,450
+43750,Paulo,Vito Zambrotti,Sul,VBA,600
+43752,Gabriel,Higor Primo,Nordeste,Excel,500
+43752,Paulo,Camilla Vilaça,Sul,PowerPoint,450
+43753,João,Izadora Kalaf,Norte,PowerPoint,300
+43753,Gabriel,Júlia Chousa,Sudeste,VBA,600
+43753,Alon,Ives Arouca,Sudeste,VBA,600
+43753,Paulo,Jeferson Villar,Nordeste,VBA,600
+43753,Diego,Juliane Grion,Nordeste,Excel,500
+43753,Marcus,Rhanna Sodré,Norte,Excel,500
+43753,Alon,Giovana Accardo,Sudeste,Power BI,300
+43753,Gabriel,Taila Paula,Sul,Power BI,300
+43753,Paulo,Camille Sara,Sudeste,VBA,600
+43753,Gabriel,Nathália Nacif,Sul,Power BI,300
+43754,Gabriel,Chan Mosqueira,Norte,Power BI,300
+43754,Paulo,Daiana Akerman,Sudeste,VBA,600
+43754,Diego,Breno Orind,Nordeste,VBA,600
+43754,Marcus,Marisol Pires,Nordeste,VBA,600
+43754,Alon,Liz Reis,Norte,Python,450
+43755,João,Michel Júnior,Sul,Python,450
+43755,Diego,Adrielle Emmerick,Sudeste,Python,450
+43755,Gabriel,Karen Alvarez,Sudeste,Excel,500
+43755,João,Kassia Eid,Norte,Power BI,300
+43755,João,Juann Antonio,Nordeste,Excel,500
+43755,Alon,Yuri Villar,Sudeste,VBA,600
+43756,Gabriel,Caroline Moreira,Sudeste,Python,450
+43756,Gabriel,Ravena Faria,Nordeste,VBA,600
+43756,João,Alessandro Caetano,Nordeste,Excel,500
+43756,Diego,Aline Gitirana,Centro-Oeste,Python,450
+43757,Alon,Gabrielle Henrique,Sul,Python,450
+43757,João,Vívian Galera,Norte,Excel,500
+43757,Marcus,Ivana Azevedo,Norte,VBA,600
+43758,João,Débora Sant'Anna,Centro-Oeste,Power BI,300
+43758,Marcus,Deysiane Carreira,Nordeste,Power BI,300
+43759,Gabriel,Denilton Accardo,Nordeste,Excel,500
+43759,Alon,Camille Kohn,Norte,Power BI,300
+43759,Paulo,Barbara Sant'Anna,Nordeste,Excel,500
+43759,Paulo,Natali Rozenbaum,Norte,Power BI,300
+43759,Diego,Jonathas Bachini,Sudeste,VBA,600
+43759,Paulo,Thauan Nemitz,Nordeste,Excel,500
+43760,Diego,Sandro Centurione,Nordeste,Python,450
+43760,Diego,Domenik Piero,Norte,Power BI,300
+43760,Diego,Rafaella Barcelos,Nordeste,Excel,500
+43760,Gabriel,Camila Zambrotti,Nordeste,VBA,600
+43761,Diego,Giselia Soibelman,Sudeste,Word,600
+43761,Paulo,Raul Emmerick,Sudeste,Word,500
+43761,Alon,Erik Guilherme,Sul,Power BI,300
+43761,Alon,Izabel Labanca,Sudeste,Word,600
+43761,Marcus,Yasmim Bensdorp,Norte,Python,450
+43762,Alon,Érica Yang,Sul,Python,450
+43762,Alon,Artur Coelli,Nordeste,Python,450
+43763,Diego,César Paulino,Norte,Python,450
+43763,Alon,Cleberson Bello,Nordeste,Word,500
+43764,Paulo,Beatriz Falcão,Sul,Python,450
+43764,João,Yan Scalercio,Sudeste,Word,600
+43764,Gabriel,Mayná Perim,Sudeste,Word,600
+43764,Paulo,Andre Coutinho,Sul,Power BI,300
+43765,João,Nivea Ivo,Norte,Python,450
+43765,João,Jessica Garambone,Norte,Power BI,300
+43766,Alon,Thayná Gabriel,Sudeste,Word,600
+43766,João,Davi Pinto,Sul,Python,450
+43766,Marcus,Amanda Gomes,Centro-Oeste,Power BI,300
+43766,Gabriel,Jennifer Caetano,Norte,Python,450
+43767,Alon,Joao Rabelo,Norte,Word,500
+43767,Alon,Mauricio Cezar,Centro-Oeste,Python,450
+43767,Diego,Giulia Soibelman,Nordeste,Power BI,300
+43767,Gabriel,Cláudia Paulino,Sudeste,Word,600
+43768,Marcus,Átila Amaral,Nordeste,Power BI,300
+43768,Diego,Júlio José,Sudeste,Power BI,300
+43769,Alon,Loreni Pisani,Sul,Word,500
+43769,João,Thárcila Neiva,Sudeste,Word,600
+43769,João,Drielly Azevedo,Norte,Power BI,300
+43769,Diego,Yan Victor,Nordeste,Word,600
+43769,Marcus,Natali Piccinini,Centro-Oeste,Word,600
+43770,Marcus,Victor Maciel,Centro-Oeste,Python,450
+43770,Alon,Thales Blanc,Norte,Word,600
+43770,Gabriel,Alexandra Caldas,Centro-Oeste,Power BI,300
+43771,Marcus,Dayane Tsuyoshi,Sudeste,Word,500
+43772,Paulo,Danielle Villela,Nordeste,Word,500
+43772,Alon,Hugo Leivyson,Nordeste,Word,500
+43773,Alon,Iago Malavolti,Sul,Power BI,300
+43773,Diego,Venan Gitirana,Centro-Oeste,Power BI,300
+43773,João,Nicholas Tostes,Norte,Power BI,300
+43773,Alon,Jéssica Neviani,Nordeste,Excel,500
+43773,Paulo,Walter Lopez,Sudeste,VBA,600
+43773,Paulo,Julio Bogossian,Norte,Power BI,300
+43774,Marcus,Iasmim Monte,Norte,Power BI,300
+43774,Alon,Wen Neves,Sudeste,VBA,600
+43774,Diego,Lais Silva,Nordeste,Power BI,300
+43774,Alon,Cynthia Bezerra,Sudeste,VBA,600
+43774,Alon,Morgana Centurione,Sudeste,Power BI,300
+43774,Diego,Thaís Zambrotti,Norte,Excel,500
+43774,Marcus,Julio Freixo,Sul,Excel,500
+43774,Diego,Olívia Stellet,Norte,Power BI,300
+43774,Paulo,Cinthia Palhota,Sul,Excel,500
+43775,Diego,Gianluca Helena,Sudeste,VBA,600
+43775,Alon,Taila Baruki,Norte,Excel,500
+43776,Alon,Yuske Kohn,Centro-Oeste,Python,450
+43776,Marcus,Giselia Junqueira,Norte,VBA,600
+43777,Marcus,Giovanna Alana,Norte,Power BI,300
+43777,Gabriel,Karollayne Veríssimo,Norte,Python,450
+43777,João,Marcelle Cardoso,Sul,VBA,600
+43777,Diego,Rodney Trinta,Nordeste,Python,450
+43777,Diego,Renato Zickwolf,Sudeste,Power BI,300
+43778,Alon,Nayne Baptista,Norte,VBA,600
+43778,Alon,Leandro Farias,Sul,Excel,500
+43778,Gabriel,Cynthia Andrade,Sudeste,Excel,500
+43779,Marcus,Débora Barrionuevo,Centro-Oeste,Power BI,300
+43780,Alon,Francyne Bomfim,Norte,Python,450
+43781,Marcus,Ariel Silvestre,Norte,Excel,500
+43782,Marcus,Joao Baltar,Nordeste,Excel,500
+43783,Gabriel,Wagner Mello,Sudeste,Python,450
+43783,Alon,Jose Sone,Norte,Python,450
+43783,Gabriel,Denilton Luísa,Norte,Power BI,300
+43783,Gabriel,Valentina Fontenele,Sul,VBA,600
+43783,Gabriel,Alberto Luiz,Centro-Oeste,Python,450
+43783,Diego,Karoline Gitirana,Centro-Oeste,Power BI,300
+43783,Diego,Arnôr Júnior,Norte,Power BI,300
+43783,Alon,César Carneiro,Centro-Oeste,Python,450
+43783,Diego,Hannah Heleno,Sudeste,VBA,600
+43784,Diego,Nivea Lye,Sudeste,Power BI,300
+43784,João,Sabrina Barroso,Nordeste,Excel,500
+43784,Marcus,Tatiana Praxedes,Nordeste,VBA,600
+43785,Diego,Raissa Fioravante,Centro-Oeste,Power BI,300
+43785,Marcus,Christiane Taylor,Norte,Power BI,300
+43785,Alon,Karollayne Cardoso,Norte,Power BI,300
+43785,Alon,Sarah Guimarães,Nordeste,VBA,600
+43785,Diego,Alana Nuñez,Sudeste,Python,450
+43786,João,Marcella Lopez,Norte,Excel,500
+43786,Marcus,Nina Orind,Sul,Power BI,300
+43787,João,Leonardo Francisca,Sudeste,Excel,500
+43787,Diego,Giselia Rodrigues,Nordeste,Power BI,300
+43787,Gabriel,Yasmin Whitaker,Nordeste,Python,450
+43787,Alon,Bernardo Fasano,Norte,Excel,500
+43788,Paulo,Venan Fontenelle,Norte,VBA,600
+43788,Alon,Isis Priscilla,Sul,Power BI,300
+43788,Paulo,Cesar Alvim,Norte,Excel,500
+43789,Diego,Nathalia Franca,Norte,Python,450
+43789,Marcus,Jéssica Anunciação,Norte,Python,450
+43789,Alon,Marianne Godinho,Sudeste,VBA,600
+43789,Paulo,Danielle Andréa,Sudeste,Python,450
+43789,Gabriel,Artur Fontenelle,Norte,Excel,500
+43789,Alon,Aline Li,Norte,Excel,500
+43790,Alon,Gabryela Monte,Sudeste,VBA,600
+43790,João,Thainá Lopez,Centro-Oeste,Power BI,300
+43791,Marcus,Nicholas Kalaf,Centro-Oeste,Python,450
+43792,Marcus,Cláudia Jalles,Nordeste,Excel,500
+43792,Alon,Beatriz Tkotz,Nordeste,Excel,500
+43792,Alon,Lorena Carrera,Sul,Excel,500
+43792,Paulo,Mariana Bernhardt,Norte,Python,450
+43793,Alon,Alex Semeraro,Sudeste,Excel,500
+43793,Diego,Patricia Medeiros,Sudeste,VBA,600
+43793,Diego,Nicolas Peixoto,Norte,Power BI,300
+43793,Diego,Hugo Rosa,Nordeste,Excel,500
+43793,Paulo,Raísa Fontenelle,Sudeste,VBA,600
+43794,Gabriel,Nina Titonelli,Nordeste,Excel,500
+43794,Marcus,Amanda Fontes,Centro-Oeste,VBA,600
+43794,Diego,Karoline Monteiro,Sudeste,Python,450
+43794,Paulo,Taynná Bandeira,Nordeste,Excel,500
+43795,João,Arnôr Ontiveros,Norte,Excel,500
+43795,Alon,Rafael Thadeu,Norte,Power BI,300
+43795,Alon,Davi Lopez,Sul,Power BI,300
+43795,Marcus,Iasmim Rosario,Sul,Power BI,300
+43795,Marcus,Hiaiune Abranches,Sudeste,Excel,500
+43796,Marcus,Luís Zickwolf,Sudeste,VBA,600
+43796,Marcus,Christiana Hudson,Norte,Excel,500
+43796,Diego,Micaele Morais,Sudeste,Excel,500
+43796,Marcus,Felipe Amaral,Centro-Oeste,Power BI,300
+43796,Alon,Julliana Tostes,Centro-Oeste,Power BI,300
+43796,Alon,Higor Catarino,Norte,Power BI,300
+43797,Marcus,Renata Fuchs,Sudeste,VBA,600
+43797,Gabriel,Julie Franciele,Sudeste,VBA,600
+43798,Paulo,Jackson Costalforne,Norte,Power BI,300
+43798,Alon,César Rubinstein,Norte,Python,450
+43798,Gabriel,Giselia Baldanzi,Sudeste,Excel,500
+43798,Marcus,Venan Jalles,Nordeste,Python,450
+43799,Paulo,Emmanuel Almawi,Centro-Oeste,VBA,600
+43799,João,Alex Sofia,Centro-Oeste,Python,450
+43799,João,Mariana Henrique,Centro-Oeste,Python,450
+43799,João,Patrícia Jean,Norte,Excel,500
+43800,Alon,Jackson Franciele,Centro-Oeste,Power BI,300
+43800,Paulo,Nathalia Jean,Norte,Excel,500
+43801,Gabriel,Mariane Mercês,Sudeste,Excel,500
+43801,João,Lucca Silva,Sul,VBA,600
+43801,Diego,Izadora Gabrielen,Nordeste,Python,450
+43802,Alon,Bernard Rubin,Norte,VBA,600
+43802,Marcus,Sandro Lana,Norte,Python,450
+43802,Alon,Jeferson Bandeira,Sudeste,VBA,600
+43803,Gabriel,Leonardo Orind,Norte,Excel,500
+43803,Alon,Gisely Mollica,Sudeste,Excel,500
+43803,Diego,Michel Kohn,Norte,VBA,600
+43803,Paulo,Wendela Zambrotti,Sudeste,Excel,500
+43804,Gabriel,Flávia Madeira,Sudeste,Power BI,300
+43804,Paulo,Álvaro Hippertt,Norte,VBA,600
+43804,Gabriel,Bruno Tostes,Sudeste,Power BI,300
+43804,João,Hiago Cristine,Nordeste,Excel,500
+43804,Gabriel,Katharina Jobim,Sudeste,Excel,500
+43804,Diego,Teresa Silotti,Sudeste,VBA,600
+43805,Paulo,Nicholas Bretas,Centro-Oeste,VBA,600
+43805,Alon,Layssa Kirk,Norte,VBA,600
+43805,Alon,jucelia Moreira,Norte,Python,450
+43806,Gabriel,Marcelly Brito,Sudeste,VBA,600
+43807,Alon,Andreza Orind,Sul,VBA,600
+43807,Diego,Hiago Leão,Sudeste,Excel,500
+43807,Gabriel,Raiam Arantes,Centro-Oeste,Power BI,300
+43807,Alon,Jeter Brasil,Norte,Excel,500
+43808,Gabriel,Wagner Luisa,Sul,Power BI,300
+43808,Marcus,Cassia Alvarenga,Nordeste,Excel,500
+43809,Marcus,Gianluca Lauzana,Norte,Python,450
+43809,Alon,Audir Franca,Centro-Oeste,Python,450
+43809,Alon,Chan Jundi,Sudeste,VBA,600
+43809,Diego,Raíssa Rotava,Sudeste,Excel,500
+43809,Diego,Platini Freire,Sul,Power BI,300
+43809,Paulo,Julia Madruga,Centro-Oeste,VBA,600
+43809,Gabriel,Jose Rozenbaum,Sul,Python,450
+43809,Alon,Vinicius Soibelman,Norte,Excel,500
+43810,João,Haroldo Silva,Centro-Oeste,Excel,500
+43810,Paulo,Julyana Farah,Centro-Oeste,Python,450
+43810,João,Thayli Yang,Norte,Python,450
+43810,Alon,Júlia Trevisan,Centro-Oeste,Power BI,300
+43810,Alon,Joyce Roberto,Centro-Oeste,Power BI,300
+43811,Paulo,Hiaiune Moss,Sudeste,VBA,600
+43812,Marcus,Samir Rosales,Norte,VBA,600
+43812,João,Gizele Renato,Sul,Power BI,300
+43813,Gabriel,Vitoria Caffaro,Norte,Python,450
+43813,Marcus,Thainá Espinosa,Sul,Power BI,300
+43814,Alon,Camilla Eid,Sul,Power BI,300
+43814,Paulo,Adrielle Abranches,Nordeste,Excel,500
+43814,Diego,Luís Lima,Sul,Power BI,300
+43814,Gabriel,Isabela Linhares,Norte,Power BI,300
+43814,Gabriel,Gizele Colacino,Norte,VBA,600
+43815,Alon,Jessika Volpi,Sul,Python,450
+43815,João,Rebecca Sarria,Norte,Power BI,300
+43816,Diego,Stella Martins,Sul,PowerPoint,450
+43817,Diego,Raiam Riany,Norte,Power BI,300
+43817,Gabriel,Carlos Bitencourt,Centro-Oeste,Excel,500
+43817,Marcus,Raíssa Maia,Norte,VBA,600
+43817,Gabriel,Manuela Silva,Sul,Power BI,300
+43818,Diego,Micaele Ramos,Norte,Excel,500
+43818,Alon,Helga Hermsdorff,Centro-Oeste,Python,450
+43818,Diego,Iasmim Vinicius,Sul,Power BI,300
+43819,João,Mariane Fioretti,Sudeste,Power BI,300
+43819,Paulo,Henrique Jordania,Norte,Python,450
+43819,João,Andressa Scandiuzzi,Sudeste,VBA,600
+43820,Diego,jucelia Teles,Sul,Excel,500
+43820,Diego,Patrick Rabelo,Sudeste,Excel,500
+43820,João,Stephanie Cruz,Nordeste,VBA,600
+43821,Diego,Carlos Rey,Sul,Python,450
+43821,Paulo,Ylana Caffaro,Norte,Excel,500
+43822,Paulo,Graziela Amorim,Norte,Excel,500
+43822,Diego,Victor Freixo,Nordeste,Python,450
+43822,Paulo,Samantha Hermano,Sudeste,Power BI,300
+43822,Marcus,Samuel Williams,Sudeste,Excel,500
+43822,Paulo,Antonio Barbosa,Sul,Python,450
+43822,Diego,Karollayne Tiradentes,Norte,Python,450
+43822,Diego,Vivianne Rangel,Sudeste,Python,450
+43822,João,Higor Gabrielen,Sudeste,Python,450
+43823,João,Cynthia Ferrer,Norte,Excel,500
+43823,João,Arnaldo Andréa,Norte,VBA,600
+43823,Gabriel,Yuske Veloso,Norte,VBA,600
+43823,Alon,Geam Azevedo,Norte,Python,450
+43823,João,Tainah Leticia,Centro-Oeste,Python,450
+43825,Paulo,Alon Carrera,Norte,Excel,500
+43825,Alon,Tainá Magalhaes,Sudeste,Excel,500
+43825,Gabriel,Sergio Leivyson,Norte,Excel,500
+43825,Gabriel,Daniella Lucas,Sudeste,VBA,600
+43826,Gabriel,Willian Cavadas,Norte,Power BI,300
+43827,Gabriel,Rebecca Roças,Centro-Oeste,Power BI,300
+43828,Paulo,Paulo César,Sul,Python,450
+43828,João,Glaucia Borges,Centro-Oeste,Power BI,300
+43828,João,Álvaro Pellegrini,Nordeste,Python,450
+43828,Marcus,Giselia Blanc,Norte,Excel,500
+43829,Gabriel,Thaís Rotava,Sudeste,VBA,600
+43830,Alon,Taila Guedes,Nordeste,Excel,500
+43830,Diego,Tainah Gerhad,Nordeste,Excel,500
+43830,Gabriel,César Stellet,Centro-Oeste,VBA,600
+43830,Diego,Carolina Vilas,Centro-Oeste,PowerPoint,300
+43830,João,Alex Garambone,Norte,Excel,500
+43830,Marcus,Natali Campos,Nordeste,Excel,500
+43831,Alon,Nicole Linhares,Centro-Oeste,PowerPoint,300
+43831,Marcus,Taiza Gallo,Centro-Oeste,PowerPoint,300
+43831,Gabriel,Platini Azevedo,Centro-Oeste,PowerPoint,450
+43831,Alon,Marianna Pedro,Norte,PowerPoint,450
+43831,Gabriel,Lucca Renato,Centro-Oeste,PowerPoint,300
+43831,João,Cézar Hudson,Sudeste,VBA,600
+43832,João,Giovanni Pellegrini,Centro-Oeste,PowerPoint,300
+43832,Alon,Natália Arantes,Sudeste,PowerPoint,300
+43833,Marcus,Ailton Bailly,Norte,PowerPoint,450
+43834,Alon,Nayne Salomao,Sudeste,PowerPoint,300
+43834,Paulo,Etiene Vinicius,Nordeste,Excel,500
+43835,Alon,Breno Aziz,Sudeste,Excel,500
+43835,Marcus,Yasmine Ladogano,Nordeste,Excel,500
+43836,João,Brenno Mendonça,Sudeste,PowerPoint,450
+43836,Marcus,Vitória Messias,Centro-Oeste,PowerPoint,300
+43836,Marcus,Elisa Anunciação,Sudeste,VBA,600
+43836,Alon,Ysabella Cristine,Sudeste,PowerPoint,300
+43837,Gabriel,Luísa Morais,Sudeste,VBA,600
+43837,João,Sergio Stellet,Centro-Oeste,Excel,500
+43837,Diego,André Iris,Centro-Oeste,PowerPoint,450
+43837,Alon,Erick Sousa,Centro-Oeste,PowerPoint,450
+43837,Alon,Fabiano Primo,Sudeste,VBA,600
+43838,Gabriel,Melissa Spata,Norte,Excel,500
+43838,João,Mariane Rosa,Nordeste,VBA,600
+43838,Alon,Cícero Barbosa,Centro-Oeste,PowerPoint,300
+43838,João,Liara Bizzo,Nordeste,PowerPoint,450
+43838,Diego,Katarine Paulino,Norte,PowerPoint,300
+43839,Alon,Nélio Bogossian,Centro-Oeste,VBA,600
+43839,Alon,Thayane Accardo,Nordeste,VBA,600
+43839,Marcus,Breno Viana,Sul,PowerPoint,300
+43839,Diego,Talline Nuñez,Sudeste,VBA,600
+43840,Paulo,Jeter Henriques,Norte,VBA,600
+43840,Gabriel,Ysabella Espinosa,Centro-Oeste,VBA,600
+43840,João,Thayane Palha,Centro-Oeste,PowerPoint,450
+43840,Gabriel,Gabriel Rubinstein,Centro-Oeste,VBA,600
+43841,Marcus,Elana Rosales,Centro-Oeste,VBA,600
+43841,João,Giselia Aballo,Sudeste,VBA,600
+43841,Paulo,Daniele Kirk,Sudeste,PowerPoint,300
+43841,Marcus,Leticia Godinho,Sul,Excel,500
+43841,João,Kallena Moraes,Sul,PowerPoint,450
+43842,Paulo,Edson Batista,Sul,PowerPoint,450
+43842,Gabriel,Ericka Itapary,Sul,PowerPoint,450
+43843,Alon,Rebeca Stellet,Nordeste,PowerPoint,300
+43843,Gabriel,Kelly Silotti,Sudeste,VBA,600
+43843,Gabriel,Hyago Comas,Nordeste,Excel,500
+43844,Diego,Larissa Nunes,Norte,PowerPoint,300
+43845,João,Júlia Azevedo,Sudeste,Excel,500
+43845,Diego,Raísa Faller,Nordeste,PowerPoint,300
+43845,Diego,Monique Souza,Sul,VBA,600
+43846,Diego,Lara Gerhad,Centro-Oeste,VBA,600
+43846,Alon,Gleisy Lara,Sudeste,PowerPoint,450
+43846,Alon,Talline Ione,Sul,VBA,600
+43847,João,Juan Yehudah,Nordeste,PowerPoint,450
+43847,João,Karollayne Centurione,Centro-Oeste,PowerPoint,450
+43849,Gabriel,Hiaiune Penna,Sudeste,Excel,500
+43849,Diego,Tainah Rosario,Nordeste,PowerPoint,450
+43849,Marcus,Camilla Coelho,Sudeste,VBA,600
+43849,João,Nicolas Baldanzi,Centro-Oeste,Excel,500
+43849,Gabriel,Thamires Ferrer,Sul,PowerPoint,300
+43850,Marcus,Eriko Luisa,Nordeste,PowerPoint,450
+43850,Diego,Morgana Vilaça,Sul,PowerPoint,450
+43850,Marcus,Elena Crespo,Norte,VBA,600
+43850,Paulo,Nayne Iris,Norte,PowerPoint,450
+43850,Gabriel,Thais Araújo,Norte,PowerPoint,300
+43850,Paulo,Alexsandro Luisa,Nordeste,Excel,500
+43850,Marcus,Talline Penedo,Norte,Excel,500
+43850,Gabriel,Nina César,Nordeste,PowerPoint,300
+43850,Gabriel,Etiene Cristine,Nordeste,PowerPoint,300
+43851,Alon,Wendela Baruki,Sudeste,PowerPoint,450
+43851,Marcus,Marcus Guedes,Centro-Oeste,Excel,500
+43851,Diego,Mayara Maria,Centro-Oeste,Excel,500
+43852,Diego,Leandro Castello,Norte,Excel,500
+43853,Alon,Vitória Stockler,Centro-Oeste,Excel,500
+43854,Paulo,Diogo Andrade,Sul,PowerPoint,450
+43854,Alon,Nathália Fróes,Centro-Oeste,Excel,500
+43854,Paulo,Sebastião Navega,Nordeste,PowerPoint,450
+43854,Marcus,Flávia Salomao,Nordeste,Excel,500
+43855,Gabriel,Iasmim Valle,Nordeste,PowerPoint,300
+43855,Paulo,Ana Heleno,Norte,Excel,500
+43856,Gabriel,Nina Franca,Sudeste,Excel,500
+43856,Alon,Yla Beatriz,Sudeste,VBA,600
+43856,Alon,Cleo Domingues,Sudeste,VBA,600
+43856,Diego,Fabiane Frossard,Norte,PowerPoint,450
+43858,Paulo,Samantha Gomes,Sul,PowerPoint,300
+43858,João,Nattalya Sant'Anna,Nordeste,PowerPoint,300
+43858,Marcus,Dayane Fioravante,Nordeste,Excel,500
+43858,Diego,Nickole Rosario,Nordeste,Excel,500
+43859,Gabriel,Daniella Zambrotti,Centro-Oeste,PowerPoint,300
+43859,Diego,Juann Alvim,Nordeste,Excel,500
+43859,Alon,Artur Zambrotti,Norte,VBA,600
+43860,Gabriel,Vladimir Naveiro,Norte,PowerPoint,300
+43860,Diego,Thainá Rachel,Nordeste,PowerPoint,450
+43860,Marcus,Andreia Portella,Centro-Oeste,PowerPoint,300
+43860,Alon,Yasser Ferrer,Sudeste,PowerPoint,450
+43860,Marcus,Sabrina Leivyson,Nordeste,PowerPoint,300
+43860,Diego,Silvio Bello,Nordeste,Excel,500
+43861,Paulo,Rayssa Vilas,Norte,VBA,600
+43861,João,Andrew Rebello,Nordeste,Excel,500
+43861,Diego,Adrian Garcia,Nordeste,Excel,500
+43861,Marcus,Adrielle Barros,Nordeste,PowerPoint,450
+43861,Marcus,Pedro Ricardo,Sul,PowerPoint,450
+43861,Gabriel,Thomáz Amor,Sul,VBA,600
+43861,Marcus,Fabiane Said,Centro-Oeste,VBA,600
+43862,Marcus,Giulia Rebello,Nordeste,PowerPoint,450
+43862,Marcus,Glenda Hippertt,Sudeste,VBA,600
+43862,Marcus,Emmanuel Costalila,Sudeste,VBA,600
+43862,Gabriel,Simone Pacheco,Norte,PowerPoint,300
+43862,Paulo,Millena Henriques,Nordeste,Excel,500
+43862,Alon,Yohanan Montenegro,Sul,Excel,500
+43862,Gabriel,Yasmin Esquenazi,Norte,VBA,600
+43862,Diego,Fabio Crespo,Nordeste,PowerPoint,450
+43863,Alon,Luiz Tostes,Sudeste,Excel,500
+43863,Gabriel,Marcio Froufe,Nordeste,PowerPoint,450
+43863,João,Haroldo Villar,Nordeste,PowerPoint,300
+43864,Diego,Frederico Anunciação,Sudeste,VBA,600
+43864,Paulo,Jeter Duarte,Norte,PowerPoint,300
+43865,João,Isabella Jalles,Sudeste,VBA,600
+43866,Alon,Livia Cozendey,Sudeste,VBA,600
+43866,Marcus,Carolina Florêncio,Norte,PowerPoint,300
+43866,Diego,Ylana Neves,Sudeste,VBA,600
+43867,Diego,Alexandra Ávila,Nordeste,Excel,500
+43867,Marcus,Elvis Madruga,Sul,PowerPoint,300
+43867,Diego,Jonas Yehudah,Sudeste,VBA,600
+43868,Marcus,Gizella Barrionuevo,Sul,Excel,500
+43868,Marcus,Nathalie Rebelo,Nordeste,PowerPoint,450
+43868,Gabriel,Khaio Montenegro,Centro-Oeste,PowerPoint,300
+43869,Alon,Catarina Ban,Norte,Excel,500
+43869,Diego,Giovana Thome,Nordeste,PowerPoint,450
+43869,Diego,Walmyr Tostes,Sudeste,Excel,500
+43870,Marcus,Marília Rayol,Sudeste,VBA,600
+43870,João,Thomas Barreira,Nordeste,PowerPoint,300
+43870,Gabriel,Renan Pires,Sudeste,Excel,500
+43870,Diego,Sarah Monteiro,Centro-Oeste,PowerPoint,450
+43870,Gabriel,Taiza Domingues,Centro-Oeste,PowerPoint,450
+43870,Alon,Jeferson Carvalho,Nordeste,VBA,600
+43871,Paulo,Denilton Nacif,Nordeste,PowerPoint,300
+43871,Diego,Elisa Messias,Sudeste,VBA,600
+43871,João,Emmanuel Rotava,Sudeste,PowerPoint,450
+43872,Gabriel,Gabrielle Bastos,Sudeste,PowerPoint,300
+43872,Gabriel,Mateus dos,Norte,PowerPoint,450
+43872,Alon,Marco Amorim,Nordeste,Excel,500
+43872,Marcus,Thauan Franciele,Sudeste,Python,450
+43872,Marcus,Kallena Moss,Nordeste,Power BI,300
+43873,Gabriel,Thayane Scalercio,Norte,Python,450
+43873,Gabriel,Gil Sara,Nordeste,Python,450
+43874,Alon,Joao Vilaça,Sudeste,Excel,500
+43874,João,Athos Nobili,Sudeste,Python,450
+43875,Marcus,Sergio Alves,Centro-Oeste,Power BI,300
+43875,Alon,Leticia Max,Nordeste,Python,450
+43875,Paulo,Luize Thome,Sudeste,VBA,600
+43875,Gabriel,Rosana Primo,Norte,Excel,500
+43876,Paulo,Eugênio Cossich,Sudeste,VBA,600
+43876,João,Hugo Alves,Centro-Oeste,VBA,600
+43876,Gabriel,Liara Marcio,Centro-Oeste,Python,450
+43876,Paulo,Wen Bomfim,Sudeste,VBA,600
+43876,João,Thuany Baltar,Sudeste,VBA,600
+43877,Alon,Marisol Freire,Norte,Power BI,300
+43877,João,Sawlo Erthal,Norte,VBA,600
+43878,Paulo,Raul Novarino,Nordeste,Excel,500
+43879,Marcus,Gabriela Mendes,Centro-Oeste,Python,450
+43879,João,Paulo Chaves,Sudeste,VBA,600
+43879,Diego,Haroldo Tiradentes,Sul,Power BI,300
+43879,Gabriel,Luciana Brandão,Sudeste,Excel,500
+43880,Diego,Suellen Accardo,Nordeste,PowerPoint,300
+43880,Marcus,Marianne Senderowicz,Norte,Excel,500
+43881,Diego,Yla Cristine,Sudeste,VBA,600
+43881,João,Isaac Victor,Sul,Excel,500
+43881,Marcus,Taila Frossard,Nordeste,Excel,500
+43881,Marcus,Sebastião Brandão,Sudeste,Excel,500
+43882,João,Mateus Gabrielen,Sul,PowerPoint,450
+43882,Marcus,Alfredo Coelli,Norte,Excel,500
+43884,Paulo,Arnôr Praxedes,Nordeste,PowerPoint,450
+43884,Marcus,Willian Iane,Centro-Oeste,VBA,600
+43885,João,Samuel Fontes,Nordeste,VBA,600
+43885,Paulo,Giuseppe Cordeiro,Sudeste,VBA,600
+43885,Diego,Ravena Kalaf,Norte,PowerPoint,300
+43885,Diego,Verônica Rubinstein,Nordeste,PowerPoint,300
+43886,Paulo,Érica Essaber,Sudeste,VBA,600
+43886,Paulo,Cynthia Caffaro,Norte,Excel,500
+43886,Marcus,Rosana Amor,Sul,PowerPoint,450
+43887,Paulo,Rodolfo Gomes,Centro-Oeste,VBA,600
+43887,Paulo,Agnes Silva,Norte,PowerPoint,300
+43887,Paulo,João Lobato,Norte,Power BI,300
+43887,Diego,Rachel Batista,Sul,Excel,500
+43888,Paulo,Mylla Barroso,Nordeste,Excel,500
+43889,Paulo,Breno Fangueiro,Sul,VBA,600
+43889,Paulo,Rafaela Mosqueira,Sudeste,VBA,600
+43889,Alon,Chan Neiva,Nordeste,Python,450
+43889,Alon,Érica Carelli,Sul,Python,450
+43889,Paulo,Liz Junqueira,Sudeste,Power BI,300
+43890,Paulo,Stephanie Stockler,Sudeste,VBA,600
+43890,Diego,Naiara Villela,Sul,Python,450
+43891,Diego,Teresa Sodré,Norte,Python,450
+43891,Gabriel,Karina Cassabian,Sudeste,Excel,500
+43891,Paulo,Joel Serra,Sudeste,VBA,600
+43891,Paulo,Edson Domingues,Norte,Power BI,300
+43892,Diego,Adrielle Priscilla,Nordeste,Excel,500
+43892,Paulo,Gil Aziz,Sudeste,VBA,600
+43892,Paulo,Bianca Bittencourt,Nordeste,VBA,600
+43893,Gabriel,Wendel Malavolti,Norte,Power BI,300
+43893,Marcus,Gabryela Corrêa,Sul,Python,450
+43894,João,Yasser Stellet,Norte,Power BI,300
+43894,Paulo,Nina Freixo,Nordeste,VBA,600
+43894,Paulo,Christiane Totti,Sudeste,Power BI,300
+43894,João,Thauan Gracio,Sudeste,Excel,500
+43894,Gabriel,Ananda Baruki,Sudeste,Excel,500
+43894,Gabriel,Victor Almawi,Nordeste,Power BI,300
+43895,Marcus,Julianna Campelo,Sul,Python,450
+43895,Paulo,Lucca Osman,Sudeste,VBA,600
+43895,Paulo,Sebastião Lopes,Sudeste,Python,450
+43895,Alon,Gizele Barros,Nordeste,Power BI,300
+43895,Paulo,Clarissa Vilaça,Sudeste,VBA,600
+43895,Paulo,Julio Osman,Sudeste,Excel,500
+43896,Diego,Sandy Mendes,Centro-Oeste,Python,450
+43896,Paulo,Helga Monteiro,Sul,Power BI,300
+43897,Paulo,Yla Piero,Sudeste,VBA,600
+43897,Gabriel,Jade Maia,Sudeste,Power BI,300
+43897,Diego,Giovanni Rotava,Norte,Excel,500
+43897,Paulo,Manuela Carrera,Sudeste,Power BI,300
+43897,Marcus,Josefe Cozendey,Sul,Python,450
+43898,Gabriel,Marisol Faria,Nordeste,Python,450
+43898,Diego,Nickole Baptista,Nordeste,Power BI,300
+43898,Gabriel,Ludmila Riany,Sudeste,Power BI,300
+43898,Alon,Elio Fracalossi,Norte,Python,450
+43898,Diego,jucelia Oliveira,Sul,Python,450
+43898,Alon,Alex Simões,Sul,Power BI,300
+43899,Gabriel,Filippo Campos,Sudeste,Python,450
+43900,Paulo,Yasser Fernandes,Sudeste,VBA,600
+43900,Diego,Marcos Barreto,Norte,Power BI,300
+43900,Diego,Vinicius Thome,Centro-Oeste,VBA,600
+43901,Marcus,Marcus Brendalina,Centro-Oeste,Python,450
+43901,Diego,Alfredo Fangueiro,Sudeste,PowerPoint,300
+43901,João,Antonia do,Sudeste,PowerPoint,300
+43901,Gabriel,Luiz Veríssimo,Sudeste,Excel,500
+43901,Diego,Vinícius Beatriz,Sudeste,Word,600
+43902,Marcus,Jefferson Maia,Norte,Word,300
+43902,Diego,Raiane Moulin,Nordeste,Word,300
+43902,Diego,Igor Alledi,Centro-Oeste,Word,500
+43903,Alon,Isabelly Velucci,Norte,Word,500
+43903,Alon,Bárbara Reis,Sul,Word,600
+43904,Alon,Raiam Silvestre,Norte,Word,450
+43904,Marcus,Raiza Whitaker,Nordeste,Word,450
+43904,Paulo,Marina Naveiro,Sudeste,Word,600
+43904,Gabriel,Gabriella Smolarek,Centro-Oeste,Word,600
+43905,Paulo,Rogério Smolarek,Sudeste,Word,450
+43905,Alon,Mariana Vannier,Centro-Oeste,Word,500
+43905,Alon,Marco Luis,Sudeste,Word,600
+43906,Diego,Jonnathan Rubim,Sudeste,Word,600
+43906,João,Julyana Iris,Centro-Oeste,Word,300
+43906,Gabriel,Patrícia Chein,Sul,Word,300
+43907,Diego,Luís Mollica,Norte,Word,450
+43907,João,Alan Limp,Sul,Word,450
+43908,Marcus,Paula Queiroz,Nordeste,Word,450
+43908,Diego,Cláudia Kranz,Nordeste,Word,300
+43908,Diego,Saranna Hejda,Sudeste,Word,500
+43908,Marcus,Daniella Felix,Sul,Word,450
+43909,Diego,Walter Pflueger,Centro-Oeste,Word,300
+43909,Marcus,Maciela Gerhad,Centro-Oeste,Word,300
+43909,João,Catarina Vasconcelos,Norte,Word,600
+43909,Alon,Thamires Cunha,Nordeste,Word,500
+43910,Marcus,Thayza Alvim,Sul,Word,600
+43910,Marcus,Jeter Areias,Sudeste,Word,600
+43910,Marcus,Carlos Muniz,Nordeste,Power BI,300
+43910,Gabriel,Elizeu Yumi,Norte,Word,500
+43911,Marcus,Helvio Ventura,Centro-Oeste,Python,450
+43911,Gabriel,Nathalia Leivyson,Sudeste,Power BI,300
+43911,Paulo,Andreia Aballo,Sul,Power BI,300
+43912,Diego,Lorena Primo,Norte,Power BI,300
+43912,Marcus,Thaís Junqueira,Centro-Oeste,Python,450
+43912,Gabriel,Leticia Amorim,Norte,Python,450
+43912,Diego,Ariel Ognibene,Centro-Oeste,Power BI,300
+43913,João,Lívia Lopez,Sudeste,Word,600
+43914,Paulo,Emilaine Roças,Sul,Word,500
+43914,Paulo,Victor Fangueiro,Centro-Oeste,Python,450
+43915,Alon,Giovani Lacerda,Norte,Word,500
+43915,Diego,Luize Albuquerque,Nordeste,Word,500
+43916,João,Karine Neviani,Sudeste,Python,450
+43916,João,Evelyn Carrera,Sudeste,Word,600
+43917,João,Wendel Yen,Norte,Word,500
+43917,Gabriel,Karline Anunciação,Norte,Power BI,300
+43917,Diego,Wen Alves,Norte,Power BI,300
+43917,João,Jennifer Veloso,Norte,Word,500
+43917,Alon,Yan Rayol,Norte,Power BI,300
+43918,João,Denilton Bogossian,Centro-Oeste,Word,600
+43918,Diego,Alexandra Hermano,Sudeste,Word,600
+43918,João,Christiana Teles,Sudeste,Word,600
+43918,João,Samir Mercês,Centro-Oeste,Word,500
+43919,Alon,Silvana Rosales,Norte,Word,600
+43919,João,Erick Lucas,Centro-Oeste,Python,450
+43919,João,Marina Barreto,Sudeste,Word,600
+43919,Alon,Dayane Franco,Nordeste,Word,600
+43919,Diego,Glenda Bastos,Nordeste,Word,600
+43920,João,Wesley Rabelo,Sul,Python,450
+43920,Gabriel,Julyana Rangel,Centro-Oeste,Word,600
+43920,Gabriel,Vinícius Ferrer,Sul,Python,450
+43921,Gabriel,Ylana Kohn,Nordeste,Word,500
+43921,João,Nina Júnior,Norte,Word,500
+43921,Gabriel,Amanda Miehrig,Norte,Python,450
+43921,Alon,Hiaiune Lopes,Sul,Power BI,300
+43922,Alon,Filippo Diogo,Centro-Oeste,Python,450
+43922,Alon,Thuany Monteiro,Norte,Word,500
+43923,Marcus,Karollayne Siqueira,Norte,Word,500
+43923,Marcus,Barbara Schincariol,Sudeste,Word,500
+43924,João,Mateus Francisca,Norte,Python,450
+43924,Alon,Ully Farah,Sudeste,Word,600
+43924,Alon,Raiam Chein,Sudeste,Word,500
+43924,Diego,Viviane Raggi,Norte,Word,500
+43925,Paulo,Ana Osman,Sul,Python,450
+43926,Gabriel,Isabela Abi-Ramia,Nordeste,Word,500
+43926,João,Micaele Balbi,Centro-Oeste,Word,500
+43926,Diego,Paloma Ladogano,Norte,Word,600
+43926,Paulo,Vitoria Pedro,Nordeste,Word,600
+43926,Diego,Elizeu Dória,Sudeste,Word,600
+43927,Paulo,Vívian Mendes,Nordeste,Power BI,300
+43927,Paulo,Renato Madruga,Norte,Power BI,300
+43927,Alon,Camilla Alledi,Sudeste,Power BI,300
+43927,Marcus,Ighor Titonelli,Norte,Word,500
+43927,Paulo,Eduardo Rodino,Nordeste,Python,450
+43928,Marcus,Heitor Taylor,Norte,Python,450
+43928,Diego,Camille Orind,Centro-Oeste,Word,600
+43928,Diego,Eduarda Miura,Nordeste,Power BI,300
+43929,Marcus,Tatiane La,Norte,Word,500
+43929,Alon,Yasmine Azevedo,Norte,Power BI,300
+43929,Paulo,Alessandro Fuchs,Nordeste,Word,500
+43929,Paulo,Jonnathan Arslanian,Norte,Word,600
+43930,Gabriel,Hannah Dourado,Nordeste,Power BI,300
+43930,Diego,Helena Carmo,Sul,Power BI,300
+43930,Diego,Thauan Fontenelle,Norte,Python,450
+43931,Alon,Ramon Alvarez,Sudeste,Power BI,300
+43931,Paulo,Adriano Gonzalez,Sudeste,Word,600
+43931,Marcus,Tayna Mosqueira,Sudeste,Python,450
+43931,Marcus,Walter Cassabian,Norte,Word,500
+43932,Alon,Thaiz Scaldini,Norte,Word,600
+43932,Diego,Christiana Bailly,Nordeste,Word,500
+43932,Diego,Diogo Areias,Sudeste,Word,500
+43932,Alon,Julio Esquenazi,Sudeste,Word,500
+43933,Gabriel,Marianna Tostes,Sudeste,Python,450
+43935,Alon,Wellington Balbi,Centro-Oeste,Python,450
+43935,Diego,Raísa Albuquerque,Sudeste,Power BI,300
+43936,João,Evelyn Tribuzy,Sul,Python,450
+43936,João,Giovana Vilaça,Nordeste,Power BI,300
+43936,Diego,Athos Orind,Sudeste,Word,600
+43936,Paulo,Stella Nacif,Norte,Power BI,300
+43936,Diego,Cláudia Goulart,Centro-Oeste,Power BI,300
+43937,Gabriel,Rodrigo Bailly,Norte,Word,500
+43937,Diego,Giovani Braga,Centro-Oeste,Power BI,300
+43937,Marcus,Desirée Ontiveros,Centro-Oeste,Python,450
+43938,Paulo,Vitória Abramovitz,Sul,Power BI,300
+43938,Marcus,Reila Andréa,Nordeste,Word,500
+43938,Alon,Gizele Cruz,Sul,Word,600
+43938,Marcus,Raissa Pellegrini,Sudeste,Word,500
+43939,Marcus,Thauan Bastos,Centro-Oeste,Word,600
+43939,Paulo,Jéssica Cassabian,Norte,Word,500
+43939,Diego,Cláudia Bitencourt,Sudeste,Word,500
+43939,João,Marcus Luísa,Norte,Power BI,300
+43940,Marcus,Emilaine Fontana,Norte,Power BI,300
+43940,Alon,Graziela Zidan,Centro-Oeste,Power BI,300
+43941,João,Ana Franciele,Norte,Word,500
+43941,Alon,Antonia Thome,Centro-Oeste,Power BI,300
+43941,Paulo,Thaís Nemitz,Norte,Word,500
+43941,Gabriel,Flávia Jalles,Norte,Word,500
+43941,Gabriel,Alessandra Ferreirinha,Norte,Python,450
+43941,Diego,Laiza Catarino,Norte,Word,500
+43942,Diego,Izabella Amorim,Norte,Power BI,300
+43942,Diego,Priscilla Rosolia,Nordeste,Word,500
+43942,Diego,Edgard Menaged,Sul,Power BI,300
+43943,Paulo,Rômulo Eduardo,Norte,Word,600
+43943,Paulo,Mauricio Brandão,Norte,Power BI,300
+43943,Diego,José Thury,Sul,Python,450
+43944,Gabriel,Giovanni Benvinda,Nordeste,Word,600
+43944,Gabriel,Iris Stockler,Sudeste,Word,600
+43945,Paulo,Ester Madeira,Sudeste,Word,600
+43945,Gabriel,Raiam Villela,Sudeste,Power BI,300
+43946,Gabriel,Luã Marcolini,Centro-Oeste,Excel,500
+43946,Paulo,Sabrina Cavalcanti,Sul,Python,450
+43947,João,Arnôr Felippe,Centro-Oeste,Excel,500
+43947,Diego,Rilson Tsuyoshi,Norte,Power BI,300
+43947,João,Natália Russo,Sul,Python,450
+43947,Diego,Yuske Albano,Sudeste,VBA,600
+43947,Gabriel,Alfredo Titonelli,Sul,Power BI,300
+43948,Diego,Thayssa Antônio,Sul,Power BI,300
+43948,Gabriel,Mariane Yang,Norte,Power BI,300
+43949,Alon,Patrícia Castello,Norte,Excel,500
+43949,Alon,Cícero Arouca,Norte,VBA,600
+43950,Paulo,Laís Coimbra,Centro-Oeste,Excel,500
+43950,João,Alfredo Alves,Norte,Excel,500
+43950,Diego,Gabriel Felippe,Sudeste,Excel,500
+43950,Paulo,Philipe Mesquita,Sudeste,VBA,600
+43950,João,Talissa Domingues,Norte,VBA,600
+43950,João,Katarine Nuñez,Nordeste,VBA,600
+43951,Gabriel,Renan Carneiro,Centro-Oeste,Python,450
+43951,Diego,Camilla Akerman,Sul,Excel,500
+43951,Diego,Sebastião Cossich,Nordeste,Python,450
+43952,Alon,Enrique Carvalhal,Norte,Excel,500
+43952,Diego,Carlos Montenegro,Norte,Power BI,300
+43952,Alon,Manuela Montenegro,Norte,VBA,600
+43953,Gabriel,Julianna Yudi,Centro-Oeste,Power BI,300
+43953,Gabriel,Dykson Primo,Nordeste,Excel,500
+43954,Diego,Sandy Guilhem,Sudeste,Python,450
+43954,Gabriel,Karollayne Martelotte,Sudeste,VBA,600
+43955,Gabriel,Nicolas Barbosa,Nordeste,Excel,500
+43955,João,Mariane Helena,Norte,Python,450
+43955,Alon,Wendela Mendonça,Centro-Oeste,Python,450
+43956,Gabriel,Raul Hippertt,Nordeste,Excel,500
+43956,Paulo,Suelen Rubinstein,Norte,VBA,600
+43957,Gabriel,Ylana Cossich,Centro-Oeste,VBA,600
+43957,Gabriel,Paulo Farah,Norte,VBA,600
+43957,Alon,Thadeu Chagas,Norte,Power BI,300
+43957,Gabriel,Renan Kirk,Nordeste,VBA,600
+43958,Alon,Henrique Mercês,Nordeste,Power BI,300
+43958,Paulo,Tainara Duarte,Norte,VBA,600
+43958,Gabriel,Rosana Guedes,Norte,Python,450
+43958,Gabriel,Tainah Tiradentes,Nordeste,Python,450
+43958,Alon,Célio Malavolti,Sudeste,Power BI,300
+43958,Gabriel,Angelo Hejda,Sudeste,VBA,600
+43958,Paulo,Arnôr Hippertt,Norte,Excel,500
+43958,Paulo,Jeronimo Stockler,Norte,Python,450
+43958,Paulo,Francyne Martins,Norte,Excel,500
+43958,João,Edjailma Fangueiro,Sul,Python,450
+43958,Alon,Higor Caffaro,Centro-Oeste,Excel,500
+43959,João,Lucca Rangel,Sudeste,VBA,600
+43959,Gabriel,Lígia Torres,Norte,Python,450
+43959,Gabriel,Luisa Madruga,Sudeste,VBA,600
+43960,Gabriel,Davi Ontiveros,Sudeste,VBA,600
+43960,Diego,Yasser Pedro,Centro-Oeste,VBA,600
+43960,Marcus,Ariel Lucas,Sudeste,VBA,600
+43960,Diego,Hygor Paes,Sudeste,Excel,500
+43960,Gabriel,Natali Mendes,Sul,Power BI,300
+43961,João,Hiaiune Felipe,Norte,Excel,500
+43961,Marcus,Marcelly Reis,Centro-Oeste,Python,450
+43961,Paulo,Alan Lucas,Sul,Power BI,300
+43962,Gabriel,Thayane Spata,Nordeste,Power BI,300
+43962,João,Katarine Costa,Norte,Python,450
+43962,Marcus,Victor Naveiro,Sudeste,Power BI,300
+43962,Alon,Breno Abranches,Nordeste,Excel,500
+43962,Gabriel,Marcos Póvoa,Sudeste,Python,450
+43963,Marcus,Vitor Yudi,Nordeste,Excel,500
+43963,Paulo,Leandro Fioretti,Norte,Power BI,300
+43963,João,Lorena Faria,Nordeste,Excel,500
+43964,Paulo,Juan Gitirana,Norte,Python,450
+43964,Alon,Venan Goulart,Centro-Oeste,Power BI,300
+43964,Paulo,Livia Fernandez,Norte,VBA,600
+43964,Paulo,Rogério José,Sul,VBA,600
+43964,Paulo,Erick Vaz,Norte,VBA,600
+43964,João,Daniel Franco,Sudeste,Excel,500
+43965,Marcus,Helvio Souza,Sudeste,Python,450
+43965,Marcus,Liara Sant'Anna,Sul,Python,450
+43965,Paulo,Wilson Palha,Centro-Oeste,Python,450
+43965,Diego,Sandro Ventura,Norte,Python,450
+43965,Alon,Priscilla Ferreira,Sudeste,Excel,500
+43966,Alon,Monique Flavio,Norte,Power BI,300
+43966,Paulo,Edgard Flávia,Sudeste,Excel,500
+43966,Paulo,Thaiz Jiun,Sudeste,VBA,600
+43967,Alon,Kelly Emmerick,Centro-Oeste,Python,450
+43967,Diego,Lucas Cortes,Nordeste,Power BI,300
+43968,Alon,Andre Villar,Centro-Oeste,Power BI,300
+43968,Marcus,Dayane Campos,Sul,Power BI,300
+43968,Alon,Elaine Veríssimo,Nordeste,Excel,500
+43968,Paulo,Stefan Cristine,Sudeste,Python,450
+43968,João,Tainah Martins,Centro-Oeste,Python,450
+43968,Gabriel,Juliane Lopes,Centro-Oeste,Excel,500
+43969,Diego,Giovana Magahães,Centro-Oeste,Python,450
+43969,Paulo,Ysabella Cavadas,Centro-Oeste,Power BI,300
+43969,Alon,André Tavares,Centro-Oeste,Power BI,300
+43970,Paulo,Samir Halinck,Centro-Oeste,VBA,600
+43970,João,Jéssica Gouveia,Norte,Power BI,300
+43970,Paulo,Beatriz Costalforne,Centro-Oeste,VBA,600
+43970,Gabriel,Letícia Villar,Nordeste,Python,450
+43971,Marcus,Yohanan La,Sul,Python,450
+43971,Marcus,Jonnathan Azeredo,Centro-Oeste,Python,450
+43971,Gabriel,Daniela longo,Centro-Oeste,Python,450
+43971,Marcus,Roberta Lacerda,Centro-Oeste,Power BI,300
+43972,Marcus,Iasmim Azevedo,Centro-Oeste,Python,450
+43972,João,Izadora Morgado,Sul,Power BI,300
+43972,Marcus,Cristiane Ventura,Sul,Python,450
+43972,Paulo,Tomas Lacerda,Norte,Python,450
+43973,João,Thomáz Alledi,Norte,Excel,500
+43973,Marcus,Bernardo Baltar,Sudeste,Python,450
+43973,Marcus,Thaís Hermano,Sul,Excel,500
+43973,Alon,Lígia Zambrotti,Sul,Python,450
+43973,Paulo,Guilherme Barreira,Sudeste,VBA,600
+43974,Alon,Adrielle Mineiro,Norte,Python,450
+43974,Paulo,Paulo Lisboa,Sudeste,Python,450
+43974,Paulo,Jessica Marcio,Sudeste,VBA,600
+43974,Alon,Brenno Gouvêa,Centro-Oeste,Power BI,300
+43974,Gabriel,Filippo Primo,Norte,Power BI,300
+43974,Marcus,Thuany Rebello,Sul,Power BI,300
+43974,Paulo,Nathália Nogueira,Norte,Excel,500
+43975,Paulo,Mauricio Magno,Sudeste,VBA,600
+43975,Diego,Hiago Mercês,Sudeste,Power BI,300
+43975,Paulo,Mirian Espinosa,Sudeste,Power BI,300
+43975,João,Ruan Gomes,Sudeste,Python,450
+43975,Paulo,Nuno Farah,Norte,VBA,600
+43975,Alon,Jessica Tkotz,Norte,Python,450
+43976,Alon,Daniel Garambone,Nordeste,Python,450
+43976,Paulo,Igor Smolarek,Nordeste,VBA,600
+43976,Gabriel,Cláudia Carolina,Norte,Python,450
+43977,Diego,Nina Lisboa,Norte,Python,450
+43977,Marcus,Flávio Iane,Sudeste,VBA,600
+43977,Diego,Thamires Neiva,Norte,Excel,500
+43978,Gabriel,Ysabella Ramos,Centro-Oeste,VBA,600
+43978,Marcus,Rafaela Ghiorzi,Sudeste,VBA,600
+43979,Gabriel,Cícero Cerqueira,Norte,Excel,500
+43979,Marcus,Marianne Freire,Sudeste,Excel,500
+43980,João,Elio Azevedo,Nordeste,Python,450
+43980,Alon,Thadeu Couto,Sudeste,VBA,600
+43980,Gabriel,Átila Fasano,Sudeste,Power BI,300
+43981,Gabriel,Antônio Prota,Norte,VBA,600
+43981,Diego,Tatiane Kohn,Sudeste,Excel,500
+43981,Marcus,Luana Amaral,Centro-Oeste,VBA,600
+43981,João,Tomas Correa,Centro-Oeste,Power BI,300
+43981,João,Christine Berlandez,Sudeste,Power BI,300
+43982,João,Julyanna Lessa,Nordeste,VBA,600
+43982,Alon,Giovanni Caroline,Sudeste,Excel,500
+43982,Diego,Danielle Mello,Norte,VBA,600
+43982,Paulo,Alan Batista,Sudeste,Power BI,300
+43983,Alon,Aledio Eduardo,Sudeste,Excel,500
+43983,João,Thayssa Marcolini,Sul,Excel,500
+43983,Paulo,Adrian Jobim,Norte,Excel,500
+43984,Alon,Millena Morais,Norte,Excel,500
+43984,Marcus,César Accardo,Sudeste,Power BI,300
+43984,Paulo,Thamirez Julia,Nordeste,Power BI,300
+43985,Alon,Ariel Fernandez,Centro-Oeste,Excel,500
+43985,Marcus,Fellipe Souza,Sudeste,Excel,500
+43985,Paulo,Luiza Abranches,Sudeste,Power BI,300
+43985,João,Arnôr Centurione,Norte,Excel,500
+43986,Paulo,Elida Ladogano,Norte,Python,450
+43986,Paulo,Stephanie Tiradentes,Norte,VBA,600
+43986,Paulo,Cinthia Navega,Sul,Power BI,300
+43986,Alon,Rojane Brasil,Norte,Excel,500
+43986,Marcus,Yasmini Fogacia,Sul,Python,450
+43988,Paulo,Hiago Jordania,Centro-Oeste,Excel,500
+43988,Paulo,Wilson Leivyson,Sudeste,Excel,500
+43988,Diego,Marcio Tavares,Sudeste,Python,450
+43988,João,Tiago Espinosa,Norte,Power BI,300
+43988,Alon,William Eduardo,Centro-Oeste,Power BI,300
+43988,Marcus,Priscila Jardim,Norte,VBA,600
+43989,Gabriel,Sarah Totti,Sul,Excel,500
+43989,Diego,Júlia Schneebeli,Sudeste,Power BI,300
+43989,Gabriel,Alessandra Provenzano,Centro-Oeste,Power BI,300
+43990,Alon,Adrian Luiza,Norte,Power BI,300
+43990,Diego,Daniel Peixoto,Sudeste,Power BI,300
+43990,João,Yuske Catarino,Nordeste,Excel,500
+43990,Marcus,Itai Osman,Norte,Python,450
+43990,Alon,Rodrigo Helena,Centro-Oeste,Excel,500
+43991,Paulo,Raffael Fernandes,Centro-Oeste,Excel,500
+43991,Diego,Nicholas Mello,Norte,Power BI,300
+43991,Paulo,Francisco Franca,Sudeste,Python,450
+43991,Marcus,Luã Cristine,Sudeste,Python,450
+43991,João,Yuri Zacharias,Sudeste,Python,450
+43992,Gabriel,Yasmine Figueiredo,Nordeste,Python,450
+43993,Paulo,Ciro Kalaf,Norte,Python,450
+43993,João,Filippo Li,Norte,Excel,500
+43993,Diego,Alexsandro Paes,Norte,VBA,600
+43993,Gabriel,Yago Renato,Centro-Oeste,Power BI,300
+43993,Alon,Filippo Arineli,Nordeste,Python,450
+43994,Gabriel,Marcela Rosario,Centro-Oeste,Power BI,300
+43994,Alon,Danilo Rabelo,Sudeste,Excel,500
+43994,Gabriel,Rubyson Jardim,Norte,Python,450
+43995,Marcus,Mylla Heleno,Sul,Excel,500
+43995,Marcus,Yasmin Sodré,Nordeste,VBA,600
+43995,Marcus,Ester Palha,Norte,Python,450
+43995,Gabriel,Jennifer Rangel,Sudeste,VBA,600
+43995,Gabriel,Daniele Alves,Nordeste,Power BI,300
+43996,João,Ary Paulino,Sul,Power BI,300
+43997,Paulo,Jonnathan Fernando,Sul,Python,450
+43997,Gabriel,Rafaela Chagas,Nordeste,Excel,500
+43997,Marcus,Thaiz Fernando,Centro-Oeste,Power BI,300
+43997,João,Thayza Netto,Sudeste,VBA,600
+43997,Paulo,Raíssa Rotava,Sudeste,Python,450
+43997,Marcus,Breno Veríssimo,Norte,VBA,600
+43998,João,Saranna Brendalina,Norte,Excel,500
+43998,Marcus,Rafaela Bezerra,Norte,Python,450
+43998,Alon,Sawlo Frederico,Centro-Oeste,VBA,600
+43998,Gabriel,Luíza Navega,Centro-Oeste,Excel,500
+43998,Alon,Thauan Pires,Centro-Oeste,Python,450
+43999,Marcus,Kallena Moraes,Sudeste,Python,450
+43999,Marcus,Cassio Caldas,Nordeste,Power BI,300
+44000,Paulo,Elaine Lucas,Sul,VBA,600
+44000,Alon,Ailton Florêncio,Nordeste,Power BI,300
+44001,Marcus,Nicolas Grion,Sudeste,Excel,500
+44001,Marcus,Rojane Yumi,Norte,Power BI,300
+44001,Paulo,Ericka Fernandez,Centro-Oeste,Python,450
+44001,Diego,Giselia Bailly,Sudeste,Python,450
+44001,Alon,Carla Marcolini,Nordeste,Excel,500
+44001,Diego,Carolina Beatriz,Nordeste,Excel,500
+44002,Alon,Henrique Tribuzy,Sul,VBA,600
+44002,Paulo,Carol Vinicius,Norte,Excel,500
+44002,Diego,Valentina Mendonça,Norte,VBA,600
+44002,Marcus,jucelia Silva,Norte,Excel,500
+44002,Marcus,Eriko Borges,Nordeste,Excel,500
+44002,Marcus,Ludmila Andrade,Nordeste,Excel,500
+44003,Marcus,Erik Baptista,Sudeste,Excel,500
+44003,Diego,Renan Pflueger,Norte,Python,450
+44004,Alon,Alex Mercês,Centro-Oeste,Python,450
+44004,Marcus,Cézar Carneiro,Norte,Python,450
+44004,Marcus,Geam Goulart,Sul,Power BI,300
+44005,Alon,Mariana Ferreirinha,Nordeste,Excel,500
+44005,Diego,Sabrina Dourado,Nordeste,Excel,500
+44005,Alon,Venan Cruz,Sudeste,Excel,500
+44005,João,Mateus Hermano,Norte,Power BI,300
+44005,Paulo,Débora Valladares,Sudeste,Python,450
+44006,Diego,Mauricio Castro,Sudeste,Excel,500
+44007,Marcus,Thays Côrte-Real,Sul,Power BI,300
+44007,Gabriel,Melissa Brasil,Sudeste,VBA,600
+44007,João,Gabriela Felippe,Sudeste,VBA,600
+44007,Alon,Myllena Bernardo,Norte,Power BI,300
+44008,Paulo,Renato Jorge,Centro-Oeste,Python,450
+44009,Alon,Sandy Pessoa,Norte,Python,450
+44009,Diego,Cristiane Sodré,Centro-Oeste,Python,450
+44009,Marcus,Karina Falcão,Norte,Excel,500
+44010,João,Etiene Baldanzi,Norte,VBA,600
+44010,Alon,Glenda Valladares,Norte,VBA,600
+44011,João,Adrizia Montenegro,Norte,Python,450
+44011,Gabriel,Jeronimo Thadeu,Norte,Power BI,300
+44011,Diego,Luiza Lessa,Norte,Excel,500
+44011,Alon,Tayane Piccinini,Sul,Excel,500
+44011,Alon,Izadora Caroline,Centro-Oeste,Excel,500
+44011,Gabriel,Cassandra Amor,Nordeste,Python,450
+44012,Gabriel,Thaís Bittencourt,Norte,Power BI,300
+44012,Diego,Arnôr Cunha,Sudeste,VBA,600
+44012,Paulo,Zilma Paulo,Sudeste,VBA,600
+44013,Paulo,Heitor Sant'Anna,Norte,Excel,500
+44013,Alon,Morgana Sant'Anna,Norte,VBA,600
+44013,João,Daniella Naveiro,Nordeste,Excel,500
+44013,João,Antonio Veríssimo,Centro-Oeste,VBA,600
+44013,Diego,Ingra Rubinstein,Sul,Power BI,300
+44013,Paulo,Thadeu Fontenelle,Sudeste,VBA,600
+44013,Diego,Fátima Flôr,Norte,VBA,600
+44014,Paulo,Dandara Lopes,Sudeste,Power BI,300
+44014,Paulo,Manuela Fioretti,Centro-Oeste,Python,450
+44014,Gabriel,Eduardo Centurione,Sudeste,VBA,600
+44014,Marcus,Giulia dos,Sudeste,Excel,500
+44014,Paulo,Jade Florêncio,Norte,Python,450
+44014,Marcus,Izabella Nogueira,Sul,Power BI,300
+44015,João,Thais Piccinini,Sudeste,Python,450
+44015,Alon,Josefe Mac,Centro-Oeste,Python,450
+44015,Diego,Gizella Bastos,Centro-Oeste,Python,450
+44015,Paulo,Luana Iane,Nordeste,Power BI,300
+44016,Paulo,Yasser Goldoni,Sudeste,VBA,600
+44017,Paulo,Alberto Provenzano,Norte,Excel,500
+44017,João,Nathalya Rodrigues,Sudeste,Python,450
+44017,Marcus,Leonardo Brasil,Centro-Oeste,Excel,500
+44017,Diego,Pietro Paes,Sul,Python,450
+44017,João,Leila Duque,Centro-Oeste,Power BI,300
+44018,Gabriel,Lais Carneiro,Nordeste,Power BI,300
+44019,Alon,Wesley Barbosa,Centro-Oeste,Python,450
+44019,Paulo,Mariana Colacino,Nordeste,Power BI,300
+44019,Paulo,Thais Chein,Centro-Oeste,Power BI,300
+44019,Paulo,Christiana Raggi,Sudeste,Excel,500
+44019,Paulo,Ylana Freire,Sudeste,Power BI,300
+44020,Alon,Lorena Godinho,Norte,Python,450
+44020,Alon,Jean Sodré,Nordeste,Excel,500
+44020,João,Lorena Cisneiros,Centro-Oeste,Python,450
+44020,Gabriel,Jean Kalaf,Sul,Power BI,300
+44020,Paulo,Dykson Luiza,Sudeste,Power BI,300
+44021,Gabriel,Tainah Licurci,Sudeste,Power BI,300
+44021,João,Andrew Farah,Sudeste,Excel,500
+44021,Paulo,Jackson Barbosa,Sudeste,VBA,600
+44021,Alon,Jônatas Cromwell,Norte,Power BI,300
+44022,Paulo,Saranna Julia,Sul,Power BI,300
+44023,João,Andreia Ognibene,Norte,Python,450
+44024,Paulo,Gleisy Smolarek,Sul,Power BI,300
+44024,Diego,Raul Lima,Nordeste,Python,450
+44024,Gabriel,Taila Alvarenga,Norte,Python,450
+44024,Marcus,Amanda Pereira,Norte,Python,450
+44024,Diego,Karen Moss,Sudeste,VBA,600
+44024,Diego,Daniella Brandão,Sul,Power BI,300
+44025,Alon,Cleberson Penedo,Centro-Oeste,Excel,500
+44025,João,Olívia Arouca,Centro-Oeste,Power BI,300
+44026,Paulo,Érica Flores,Centro-Oeste,Excel,500
+44026,Marcus,Jose Bittencourt,Sudeste,VBA,600
+44026,Paulo,Olívia Baldanzi,Norte,Excel,500
+44026,Marcus,Ingra Silotti,Norte,Excel,500
+44027,Paulo,Hanna Luz,Norte,Excel,500
+44027,Diego,Josefe Orind,Sudeste,VBA,600
+44027,Diego,Helga Coimbra,Norte,VBA,600
+44028,Diego,Beatriz Praxedes,Centro-Oeste,VBA,600
+44028,Gabriel,Emilaine Jundi,Norte,Excel,500
+44028,Paulo,Viviane Vinicius,Nordeste,Python,450
+44028,Paulo,Mylla Rosolia,Nordeste,Python,450
+44028,João,Letícia Spata,Nordeste,Excel,500
+44029,João,Érica Ricardo,Norte,Power BI,300
+44029,João,Micaele Baldanzi,Nordeste,Excel,500
+44029,Alon,Constantino Frederico,Nordeste,Excel,500
+44029,Paulo,Joyce Simões,Norte,Python,450
+44029,Gabriel,Ana Felix,Sul,Python,450
+44030,Gabriel,Nivea Guimarães,Nordeste,Excel,500
+44030,João,Ighor Jorge,Norte,Excel,500
+44030,Diego,Erik Fernandes,Nordeste,VBA,600
+44031,Gabriel,Nathalia Medeiros,Sul,Excel,500
+44031,Gabriel,Isabella Montenegro,Norte,Power BI,300
+44031,Alon,Pablo Barreira,Norte,Excel,500
+44031,Diego,Thayna Volpi,Nordeste,Python,450
+44031,Paulo,Igor Jardim,Sul,Power BI,300
+44032,Diego,Stella Heleno,Sul,Python,450
+44033,Gabriel,Átila Cesar,Nordeste,Excel,500
+44033,Marcus,Arnôr César,Sudeste,Excel,500
+44033,Diego,Ylana Luís,Sul,Excel,500
+44034,Paulo,Thárcila Santana,Sudeste,VBA,600
+44034,Alon,Vitor Cromwell,Sudeste,Power BI,300
+44035,Diego,Vicente Sofia,Norte,Excel,500
+44035,João,Vicente Lobo,Sul,Python,450
+44035,Paulo,Samir Portella,Nordeste,Excel,500
+44035,Alon,Taila Costainara,Nordeste,Excel,500
+44035,João,Katarine Chein,Nordeste,Excel,500
+44035,Marcus,Karen Barreto,Norte,Excel,500
+44036,Diego,Joel Teles,Centro-Oeste,Excel,500
+44036,Gabriel,Thayssa Navega,Nordeste,Power BI,300
+44036,Diego,Karoliny Fontenelle,Sul,Excel,500
+44036,Diego,Alice Marcio,Norte,Excel,500
+44036,Paulo,Luísa Comas,Norte,Power BI,300
+44036,Diego,Cleo Nascimento,Norte,Excel,500
+44036,Alon,José Chvaicer,Centro-Oeste,Power BI,300
+44036,João,Rebecca Jalles,Nordeste,Power BI,300
+44037,João,Jade Campos,Sudeste,Power BI,300
+44038,Gabriel,Isabelly Roberto,Nordeste,Power BI,300
+44038,Diego,Beatriz Francisca,Sul,Power BI,300
+44038,Paulo,Wendela Júnior,Norte,Python,450
+44038,Gabriel,Daniele Moraes,Sul,VBA,600
+44039,Marcus,Mônica Espíndola,Centro-Oeste,Python,450
+44039,Alon,Andreza Baltar,Centro-Oeste,Power BI,300
+44039,Paulo,Gabriela Menezes,Norte,Power BI,300
+44040,João,Maurício Ferreirinha,Nordeste,Power BI,300
+44040,Diego,Isis Victório,Norte,Python,450
+44040,Gabriel,César Nobrega,Norte,VBA,600
+44040,Marcus,Mauricio Tkotz,Sul,Power BI,300
+44040,Diego,Evelyn Fontenele,Nordeste,Power BI,300
+44040,Diego,Maciela Ontiveros,Sudeste,Excel,500
+44041,Paulo,Lorena Titonelli,Sudeste,Power BI,300
+44041,Marcus,Marcio Caldana,Norte,Python,450
+44041,Paulo,Thaiz Lopez,Sul,VBA,600
+44041,João,Ana Fontana,Norte,Excel,500
+44041,João,Jefferson Gracio,Norte,Python,450
+44041,João,Alana Mello,Sul,Python,450
+44042,Marcus,Vicente Gouvêa,Nordeste,Power BI,300
+44042,Diego,Viviane Domingues,Sul,VBA,600
+44042,Marcus,Thainá Gabrielle,Sudeste,Power BI,300
+44043,Marcus,Thaisa Franco,Centro-Oeste,VBA,600
+44043,Paulo,Rebeca Tiradentes,Norte,Python,450
+44043,Alon,João Sodré,Sudeste,VBA,600
+44043,Alon,Saranna Queiroz,Sudeste,VBA,600
+44044,Diego,Micaele Borba,Sul,Python,450
+44044,Gabriel,Yasmine Tavares,Sudeste,VBA,600
+44044,Paulo,Érica Moss,Sudeste,VBA,600
+44045,Paulo,Iago Fioravante,Centro-Oeste,Python,450
+44046,Paulo,Cassandra Souza,Centro-Oeste,Python,450
+44046,Gabriel,Thomas Bernardo,Nordeste,Excel,500
+44046,Gabriel,Luiz Borba,Sudeste,VBA,600
+44046,Gabriel,Julianna Vilachã,Sudeste,Python,450
+44046,João,Ailton Cristina,Sudeste,VBA,600
+44046,Marcus,Ysabella Rocha,Nordeste,Excel,500
+44047,Paulo,Luize Carmo,Centro-Oeste,VBA,600
+44047,Diego,Cassandra Lund,Nordeste,Python,450
+44048,Paulo,Alexandre José,Sudeste,VBA,600
+44048,Paulo,Giuseppe Francisca,Sudeste,Word,600
+44048,Paulo,Heitor Provenzano,Norte,Word,600
+44048,Paulo,Yasmine Penedo,Centro-Oeste,Word,600
+44048,Gabriel,Marianna Villela,Norte,Power BI,300
+44049,Gabriel,Leticia Soares,Sudeste,Word,600
+44049,Paulo,Karollayne Arineli,Norte,Word,500
+44050,Paulo,Lenon Fontenelle,Sul,Power BI,300
+44050,Alon,Lígia Perim,Sudeste,Word,600
+44051,Gabriel,Luize Luisa,Sudeste,Word,600
+44051,Gabriel,Ives Miehrig,Sudeste,Word,600
+44051,João,Itai Paula,Centro-Oeste,Power BI,300
+44051,Marcus,Leticia Vaz,Norte,Power BI,300
+44051,Paulo,Nathalie Castello,Sudeste,Word,600
+44051,Diego,Giovanni Jean,Sudeste,Word,500
+44051,Marcus,Marianne Sofia,Sudeste,Python,450
+44052,João,Jorge Morais,Nordeste,Word,500
+44052,Diego,Renata Malavolti,Sul,Word,500
+44052,Marcus,Mauricio Faller,Sudeste,Word,600
+44052,Alon,Livia Ventura,Centro-Oeste,Python,450
+44052,João,Tomas Ambrosio,Sul,Word,500
+44052,Diego,Laiza Licurci,Nordeste,VBA,600
+44053,Gabriel,Willian Faria,Norte,Power BI,300
+44053,Alon,Yuske Baruki,Norte,Python,450
+44053,Paulo,Hiaiune Essaber,Sudeste,Power BI,300
+44053,Gabriel,Eriko Costainara,Sudeste,Power BI,300
+44054,João,Thiago Iane,Nordeste,Excel,500
+44054,Alon,José Silva,Sudeste,VBA,600
+44054,Diego,Barbara Reyna,Centro-Oeste,Python,450
+44054,Diego,Luana Moutinho,Sul,Python,450
+44055,Alon,Luana Nemitz,Sudeste,VBA,600
+44055,João,Breno Amorim,Norte,Excel,500
+44055,Alon,Fillipe Monteiro,Sudeste,Excel,500
+44055,Gabriel,Yasmin Gallo,Sul,Power BI,300
+44056,Alon,Débora Stockler,Sudeste,VBA,600
+44056,Paulo,Graziela Silveira,Sudeste,Python,450
+44056,Diego,Kassia Infante,Norte,Power BI,300
+44056,Marcus,Julyanna Suzano,Sudeste,VBA,600
+44056,Diego,Leonardo Nogueira,Norte,VBA,600
+44057,Gabriel,Tainá Williams,Nordeste,Excel,500
+44057,Gabriel,Lorena Hermano,Nordeste,Excel,500
+44057,Diego,Yla Sousa,Sul,Python,450
+44057,João,Suelen Nascimento,Norte,Excel,500
+44058,Marcus,Higor Ronfini,Norte,Power BI,300
+44058,Diego,Geani Brasil,Norte,Power BI,300
+44058,Marcus,Iago Gouveia,Sul,Excel,500
+44058,Diego,Nickole Figueiredo,Nordeste,Power BI,300
+44058,Paulo,Isis Akerman,Sudeste,VBA,600
+44058,Paulo,Julio Bello,Nordeste,Power BI,300
+44058,Marcus,Andre Lima,Nordeste,Python,450
+44058,Gabriel,Raffael Milani,Centro-Oeste,Python,450
+44058,Marcus,Julia Baruki,Norte,Power BI,300
+44059,João,Izadora Lobo,Sul,Power BI,300
+44059,Alon,Daiana Fuchs,Sul,Power BI,300
+44059,Marcus,Gizele Hermano,Norte,VBA,600
+44059,Paulo,Nuno Smolarek,Centro-Oeste,Power BI,300
+44060,Gabriel,Karollayne Helena,Sudeste,Excel,500
+44060,Diego,Thayane Côrte-Real,Nordeste,Power BI,300
+44060,Diego,Marcus Bensdorp,Sul,Power BI,300
+44060,Alon,Pablo Madruga,Norte,VBA,600
+44060,Gabriel,Ailton Cesar,Centro-Oeste,Power BI,300
+44061,Paulo,Joel Cezar,Nordeste,Python,450
+44062,Gabriel,Wesley Tostes,Centro-Oeste,Python,450
+44062,Gabriel,Norman Costalforne,Nordeste,Power BI,300
+44063,Gabriel,Rosana Freixo,Norte,Excel,500
+44063,Diego,Chan Ferrer,Nordeste,Excel,500
+44063,Marcus,Yasmine Filgueiras,Norte,VBA,600
+44063,Diego,Sandro Coimbra,Norte,Python,450
+44064,Gabriel,Melissa Bandeira,Centro-Oeste,VBA,600
+44064,Gabriel,Heitor Nunes,Norte,VBA,600
+44064,Paulo,Yasser Azeredo,Nordeste,Power BI,300
+44065,Diego,Arnôr Raggi,Sudeste,VBA,600
+44065,Paulo,Joao Emmerick,Nordeste,Excel,500
+44065,Alon,Thamirez Domingues,Norte,Python,450
+44065,Diego,Cecília Beatriz,Nordeste,Excel,500
+44066,Diego,Marco Accardo,Sul,Excel,500
+44067,Alon,Luize Francisca,Norte,Power BI,300
+44068,Diego,Rebecca Furtado,Centro-Oeste,VBA,600
+44068,Diego,Denilton Fagundes,Nordeste,Excel,500
+44068,João,Daniella Fontenelle,Sul,Excel,500
+44069,Gabriel,Rafael Lara,Sul,Python,450
+44069,João,Lorena Peixoto,Sudeste,Power BI,300
+44069,João,Fabio Miura,Norte,Power BI,300
+44070,Alon,Leandro Paes,Sudeste,VBA,600
+44070,Diego,Vivianne Duarte,Sul,Power BI,300
+44070,Gabriel,Jose Essaber,Sul,Power BI,300
+44070,Gabriel,Roberto Fontenelle,Sudeste,Excel,500
+44071,Alon,Lohany Valladares,Centro-Oeste,Python,450
+44071,Gabriel,Ângelo Ferreirinha,Sul,VBA,600
+44073,João,Daniele Póvoa,Sudeste,Excel,500
+44073,João,Giovanni Frederico,Sul,Python,450
+44074,Paulo,Cynthia Montenegro,Norte,VBA,600
+44074,Paulo,Wilson Magalhães,Norte,Python,450
+44074,Diego,Arnôr Borba,Sul,Power BI,300
+44074,Gabriel,Wendel Rubinstein,Centro-Oeste,Excel,500
+44074,João,Taynná Carneiro,Sul,Python,450
+44075,Alon,Raísa Moreno,Nordeste,Python,450
+44076,João,Daniele Bezerra,Nordeste,Excel,500
+44076,Gabriel,Thomaz Pellegrini,Nordeste,Power BI,300
+44077,Paulo,Rafael Zidan,Nordeste,Power BI,300
+44077,Alon,Roger Corrêa,Sudeste,Excel,500
+44077,Gabriel,Wesley Barroso,Sul,VBA,600
+44078,Marcus,Isabella Yumi,Nordeste,Python,450
+44078,Paulo,Helvio Medeiros,Nordeste,Excel,500
+44079,Marcus,Barbara Moss,Nordeste,Excel,500
+44079,Marcus,Thadeu Soibelman,Sul,Power BI,300
+44080,João,Marcia Leão,Sudeste,Python,450
+44080,Diego,Jéssica Marcio,Norte,Power BI,300
+44080,Alon,Cézar Naveiro,Nordeste,Excel,500
+44081,Alon,Jeferson Froufe,Norte,Python,450
+44081,Marcus,Bernardo Thamires,Norte,Python,450
+44081,Paulo,Gerald Garcia,Sudeste,VBA,600
+44082,Diego,Adriane Pires,Sudeste,VBA,600
+44082,Alon,Ariel Francisco,Centro-Oeste,Power BI,300
+44082,Gabriel,Raiza Scandiuzzi,Nordeste,Power BI,300
+44084,Paulo,Tiago César,Sudeste,Power BI,300
+44084,Alon,Alvaro Rubio,Nordeste,Excel,500
+44084,Paulo,Nicholas Carelli,Centro-Oeste,Excel,500
+44084,Marcus,Christian Jiun,Norte,Power BI,300
+44084,Paulo,Jonnathan Tassara,Nordeste,Excel,500
+44084,Paulo,Thamara Cozendey,Sudeste,Power BI,300
+44084,Marcus,Alberto Cabral,Centro-Oeste,Power BI,300
+44085,Alon,Yuske Rebello,Norte,Power BI,300
+44085,Diego,Suelen Stellet,Nordeste,Excel,500
+44086,Marcus,Paula Scalercio,Nordeste,Python,450
+44086,Alon,Tomas Fangueiro,Sudeste,Excel,500
+44086,Diego,Kallena Semeraro,Norte,Python,450
+44087,João,Raiza Moraes,Sudeste,VBA,600
+44088,Alon,Marcello Julia,Sudeste,Excel,500
+44088,Diego,Marcus Gallo,Norte,VBA,600
+44088,Gabriel,Wesley Guedes,Nordeste,Excel,500
+44089,Marcus,Luca Fontenelle,Norte,VBA,600
+44089,João,Ingra Aragão,Centro-Oeste,Excel,500
+44089,Diego,Paula Cavalca,Sul,VBA,600
+44089,Marcus,Enrico Borowicz,Sudeste,Python,450
+44090,Paulo,Eriko Veloso,Sul,Excel,500
+44090,Diego,Júlia Goulart,Nordeste,VBA,600
+44090,Paulo,Daiana Moraes,Sul,VBA,600
+44090,Alon,Josefe Fioretti,Nordeste,VBA,600
+44091,Gabriel,Naiara Serra,Sudeste,Excel,500
+44091,Gabriel,Joao Jorge,Sul,PowerPoint,300
+44091,Marcus,Nathalia Neiva,Nordeste,Excel,500
+44091,Marcus,Catarina Azevedo,Norte,VBA,600
+44092,Marcus,Yuri Fernando,Sul,PowerPoint,450
+44092,Marcus,Raul Espinosa,Nordeste,Excel,500
+44093,Marcus,Clarissa Helena,Nordeste,PowerPoint,300
+44093,Marcus,Alberto Balassiano,Sudeste,PowerPoint,300
+44093,Gabriel,Adailton Chaves,Nordeste,PowerPoint,450
+44093,Marcus,Wen Gabrielen,Nordeste,PowerPoint,450
+44093,João,Maryanna Alledi,Sudeste,Word,600
+44094,Marcus,Adrian Tostes,Norte,Word,500
+44094,Alon,Vitor Ávila,Nordeste,Word,500
+44094,Gabriel,Michelle Trevisan,Centro-Oeste,Word,450
+44095,Paulo,Raiza Viana,Norte,Word,500
+44095,Marcus,Luísa Costalforne,Centro-Oeste,Word,300
+44095,Gabriel,Ingra Jorge,Sudeste,Word,500
+44097,Diego,Cynthia Silvagasperi,Centro-Oeste,Word,600
+44097,Diego,Eriko Jalles,Centro-Oeste,Word,300
+44097,Alon,Edgard Sarria,Nordeste,Word,500
+44097,Gabriel,Mirian Mendes,Norte,Word,300
+44098,Marcus,Rodney Yumi,Sudeste,Word,600
+44099,Diego,Rubyson Reyna,Norte,Power BI,300
+44099,Alon,Izabella Jorge,Sudeste,Word,600
+44100,Alon,Rodolfo Li,Norte,Power BI,300
+44100,João,Laura Reis,Centro-Oeste,Power BI,300
+44100,Marcus,Laiza Garambone,Sul,Power BI,300
+44100,Gabriel,Raiza Rubin,Norte,Power BI,300
+44101,Alon,Jennifer Salomao,Centro-Oeste,Python,450
+44101,Paulo,Thales Miura,Nordeste,Power BI,300
+44102,Marcus,Lara Reyna,Sudeste,Python,450
+44102,Paulo,Raiam Rosa,Sul,Word,600
+44102,Gabriel,Yasser Rozenbaum,Norte,Power BI,300
+44102,Marcus,Isabela Emmerick,Norte,Word,600
+44102,Alon,Paola La,Norte,Power BI,300
+44102,Gabriel,Thauan Kohn,Centro-Oeste,Word,500
+44102,Marcus,Venan Rossi,Norte,Excel,500
+44102,Marcus,Flavio Arslanian,Nordeste,Excel,500
+44103,Alon,Ingra Thury,Sul,Python,450
+44103,Gabriel,Antonia Jundi,Sul,Python,450
+44104,João,Wendel Coimbra,Nordeste,VBA,600
+44104,Marcus,Reinaldo Fecha,Sudeste,VBA,600
+44104,João,Ivan Yumi,Nordeste,Python,450
+44104,Paulo,Alexandra do,Sudeste,Python,450
+44104,Alon,Paloma Bretas,Norte,Power BI,300
+44104,Gabriel,Yuske Furtado,Norte,Power BI,300
+44104,Alon,Karine José,Norte,VBA,600
+44105,João,Glenda Thome,Sudeste,Power BI,300
+44105,Diego,Rebeca Fecha,Centro-Oeste,Python,450
+44105,Diego,Caroll José,Norte,VBA,600
+44105,Alon,Roger Menaged,Norte,Power BI,300
+44105,Marcus,Ighor Sayuri,Centro-Oeste,Power BI,300
+44106,Diego,Henrique Torres,Sudeste,Power BI,300
+44106,Marcus,Karina Ventura,Nordeste,Excel,500
+44106,Marcus,Luís Gitirana,Centro-Oeste,Power BI,300
+44106,Diego,Bruno Berlandez,Sudeste,VBA,600
+44107,Marcus,Bianca Rubim,Norte,Excel,500
+44107,Marcus,Sandy Tavares,Centro-Oeste,Python,450
+44107,Diego,Hiaiune Junqueira,Sul,Power BI,300
+44107,Paulo,Mônica Casal,Sul,Power BI,300
+44107,Diego,Lázaro Carelli,Nordeste,Power BI,300
+44108,Paulo,Beatriz Silva,Norte,Excel,500
+44108,João,Juliane Limp,Nordeste,Power BI,300
+44109,Diego,Norbertho Carneiro,Sudeste,Power BI,300
+44109,Marcus,Teresa Ferrer,Norte,VBA,600
+44109,Marcus,Daniella Jalles,Norte,Python,450
+44109,Diego,Thuany Garcia,Nordeste,Excel,500
+44109,Marcus,Helvio Fioravante,Centro-Oeste,Power BI,300
+44110,Diego,Alberto Bandeira,Sudeste,Power BI,300
+44110,Alon,Elaine Eid,Sul,Excel,500
+44110,Paulo,Cláudia Vilhena,Nordeste,Python,450
+44110,Paulo,Leandro Gabrielle,Norte,Python,450
+44110,Diego,Renato Berlandez,Nordeste,Python,450
+44111,João,Alberto Neves,Sul,VBA,600
+44111,Marcus,Tainah Freire,Sudeste,Python,450
+44112,Paulo,Álvaro Vilachã,Sudeste,VBA,600
+44112,João,Ivan Troccoli,Sul,VBA,600
+44112,Alon,Eduardo Carmo,Sul,VBA,600
+44113,Diego,Gleydson Vilaça,Sudeste,Power BI,300
+44113,João,Glenda Madeira,Sul,VBA,600
+44113,Alon,Helga Nemitz,Centro-Oeste,VBA,600
+44114,Marcus,Marcela Madeira,Nordeste,Python,450
+44115,Gabriel,Jackson Erthal,Centro-Oeste,Excel,500
+44115,Gabriel,Marianne Leão,Sudeste,Excel,500
+44115,Alon,Cleberson Helena,Sudeste,VBA,600
+44115,Gabriel,Vinicius Veloso,Sudeste,VBA,600
+44115,Diego,Nina Abramovitz,Centro-Oeste,Python,450
+44116,Marcus,Marcio Nemitz,Nordeste,Excel,500
+44116,Gabriel,Venan Bretas,Sudeste,Power BI,300
+44117,Diego,Nuno Machado,Sudeste,VBA,600
+44117,Marcus,Ives Casal,Norte,Python,450
+44117,Diego,Walter Jiun,Sudeste,Excel,500
+44118,Gabriel,Vívian Azeredo,Sudeste,Power BI,300
+44118,Alon,Filipe Abranches,Centro-Oeste,Python,450
+44118,Alon,Thayli Franca,Nordeste,Excel,500
+44118,Alon,Livia Vinicius,Centro-Oeste,Excel,500
+44118,Alon,Mirian Andréa,Sudeste,VBA,600
+44119,João,Luana Vanzo,Sul,VBA,600
+44119,Marcus,Luís Chagas,Sudeste,VBA,600
+44119,Marcus,Vanessa Fioravante,Nordeste,Excel,500
+44120,Paulo,Raíssa Perim,Norte,Python,450
+44120,Paulo,Alex Freire,Sudeste,Power BI,300
+44120,Gabriel,Silvana Garcia,Nordeste,Excel,500
+44121,Alon,Nathália Paes,Sul,Python,450
+44121,Diego,Julia Halinck,Centro-Oeste,Python,450
+44121,Marcus,Arnôr Mac,Sudeste,Power BI,300
+44122,Diego,Angelo Azevedo,Nordeste,Excel,500
+44122,Marcus,Raffael Franca,Nordeste,Excel,500
+44122,Diego,Andreia Rosario,Sudeste,VBA,600
+44123,João,Thamires Mattos,Sudeste,Excel,500
+44123,João,Dilson Carolina,Sudeste,VBA,600
+44123,Diego,Khaio Campos,Sudeste,Power BI,300
+44123,Alon,Mirian Ribas,Norte,Power BI,300
+44123,Marcus,Denilton Monteiro,Norte,Excel,500
+44123,Paulo,Hanna Baltar,Norte,Power BI,300
+44124,Gabriel,Nuno Yosef,Sudeste,Python,450
+44124,Alon,Thaiz Monte,Sul,VBA,600
+44124,Diego,Silvio Yen,Sudeste,Excel,500
+44124,João,Luísa Hermsdorff,Centro-Oeste,Power BI,300
+44126,Paulo,Ary Francisco,Nordeste,Excel,500
+44126,Diego,Cassio Yudi,Nordeste,Excel,500
+44126,Paulo,Vinicius Halinck,Centro-Oeste,Python,450
+44126,Diego,Poline Accardo,Norte,Excel,500
+44126,João,Raul Latgé,Norte,Excel,500
+44127,Marcus,Joyce Bernhardt,Sudeste,VBA,600
+44127,Alon,Eduardo Li,Norte,Power BI,300
+44127,Marcus,Mariane Fioravante,Norte,VBA,600
+44128,Marcus,Julliana Gerhad,Nordeste,Power BI,300
+44128,Diego,Giuseppe Senderowicz,Nordeste,Power BI,300
+44129,Paulo,Ariel Ramos,Nordeste,Python,450
+44130,João,Isabelle Fontenele,Sudeste,Excel,500
+44132,Alon,Luiza Caetano,Sul,VBA,600
+44132,Alon,Thaiz Freitas,Norte,Power BI,300
+44132,João,Luiz Infante,Nordeste,Python,450
+44133,Diego,Yla Silveira,Norte,Power BI,300
+44133,Diego,Clarissa Fioravante,Norte,Excel,500
+44133,Marcus,Adailton Baldanzi,Norte,VBA,600
+44134,Gabriel,Álvaro Coimbra,Norte,Power BI,300
+44134,Diego,Caroll Bruna,Sul,Python,450
+44134,Marcus,Vicente Borba,Nordeste,Excel,500
+44135,Paulo,Kassia Navega,Nordeste,Excel,500
+44136,Alon,Helen Roças,Sul,Power BI,300
+44136,Diego,Carolina Freitas,Norte,Python,450
+44137,João,Raiza Montenegro,Norte,VBA,600
+44137,João,Vladimir Fernandez,Sudeste,VBA,600
+44137,Marcus,Marcos Abreu,Norte,Excel,500
+44137,Marcus,Paula Piccinini,Norte,Python,450
+44138,Marcus,Rubyson Caldas,Centro-Oeste,Excel,500
+44138,Marcus,Adrian Stellet,Sudeste,VBA,600
+44138,Marcus,Liara Martelotte,Sudeste,VBA,600
+44138,João,Rhuan Pellegrini,Centro-Oeste,Power BI,300
+44139,Marcus,Jonnathan Guilhem,Sudeste,VBA,600
+44139,Marcus,Thomas Santos,Sudeste,VBA,600
+44139,Alon,Stela Naveiro,Norte,VBA,600
+44139,João,Julliana Coimbra,Sul,VBA,600
+44139,Paulo,Karina Essaber,Centro-Oeste,VBA,600
+44139,Alon,Luiza Felipe,Norte,PowerPoint,300
+44140,Gabriel,Fabio Corrêa,Centro-Oeste,PowerPoint,300
+44140,Gabriel,Julliana Gonzalez,Nordeste,PowerPoint,300
+44140,Alon,Maike Titonelli,Sul,PowerPoint,450
+44141,Paulo,Jessika Villar,Nordeste,Excel,500
+44141,Gabriel,Leonardo Aballo,Norte,PowerPoint,300
+44142,Gabriel,Julianna Helena,Centro-Oeste,Excel,500
+44142,Gabriel,Barbara Abranches,Sudeste,PowerPoint,300
+44142,João,Giulia Diogo,Norte,Excel,500
+44143,Gabriel,Ivan Alledi,Norte,VBA,600
+44143,Diego,Thomas Stockler,Norte,VBA,600
+44143,Diego,Elio Moutinho,Norte,PowerPoint,450
+44143,Gabriel,Yve Grion,Norte,PowerPoint,450
+44143,João,Raianne Fróes,Sudeste,PowerPoint,300
+44144,Diego,Tatiana Morais,Sudeste,PowerPoint,300
+44144,Alon,Vinícius Jalles,Sul,PowerPoint,450
+44144,Diego,Érico Silvastri,Norte,Excel,500
+44144,Alon,Fabiane Rosario,Sudeste,PowerPoint,300
+44145,Diego,Victória Elisa,Norte,Excel,500
+44145,Alon,Yve Costalforne,Centro-Oeste,Excel,500
+44145,Gabriel,Hiago Fioretti,Sudeste,PowerPoint,300
+44145,Gabriel,Elizeu Miguel,Sudeste,PowerPoint,300
+44145,Paulo,Igor Froufe,Sul,PowerPoint,450
+44146,Marcus,Antonia Riany,Sudeste,VBA,600
+44147,Paulo,Thales Antônio,Sudeste,VBA,600
+44147,Paulo,Samuel Priscilla,Sudeste,PowerPoint,300
+44147,Diego,Isis Franca,Sudeste,VBA,600
+44147,Marcus,Lívia Limp,Nordeste,Excel,500
+44147,Alon,Letícia Rubinstein,Sudeste,VBA,600
+44148,João,Álvaro Ban,Norte,PowerPoint,450
+44149,Gabriel,Luana Alledi,Norte,Python,450
+44150,Paulo,Karline Thadeu,Norte,Excel,500
+44151,Paulo,Emmanuel Costainara,Sudeste,VBA,600
+44151,Marcus,Jonas Junqueira,Sudeste,Power BI,300
+44151,Diego,Mariane Greici,Nordeste,Python,450
+44151,Marcus,Paulo Rubinstein,Sudeste,Power BI,300
+44152,Paulo,Andreia Felix,Sul,VBA,600
+44152,Gabriel,Andreza Alves,Norte,Python,450
+44153,Paulo,Dayane Costainara,Norte,Python,450
+44153,Gabriel,Filippo Ribeiro,Norte,Excel,500
+44154,Alon,Tiago Diogo,Sudeste,VBA,600
+44154,Marcus,Teresa Abreu,Norte,Excel,500
+44154,Marcus,Maria Henriques,Norte,Excel,500
+44155,João,Nayne Baruki,Norte,Excel,500
+44155,Paulo,Edgard Baltar,Nordeste,Power BI,300
+44155,Paulo,Raiane Palha,Nordeste,VBA,600
+44155,Alon,Luisa Júnior,Sul,Power BI,300
+44156,Paulo,Gabriela Palha,Sudeste,Power BI,300
+44156,Diego,Yohana Bretas,Centro-Oeste,Python,450
+44156,Paulo,Gabrielle Moreno,Centro-Oeste,Python,450
+44157,Paulo,Suelen Silvestre,Norte,Excel,500
+44157,Marcus,Catarina Menezes,Nordeste,Excel,500
+44157,Paulo,Willian Queiroz,Nordeste,VBA,600
+44157,João,Wendela Coelho,Norte,Excel,500
+44158,Marcus,Dilson Noronha,Centro-Oeste,Excel,500
+44159,Paulo,Andre Bastos,Sudeste,Excel,500
+44159,Alon,Micaele Machado,Sudeste,VBA,600
+44159,Diego,Cláudia Campos,Norte,Python,450
+44159,Alon,Leonardo Campos,Norte,Excel,500
+44159,Gabriel,Micaele Fangueiro,Norte,Power BI,300
+44160,Diego,Júlio Bitencourt,Sul,PowerPoint,450
+44160,Paulo,Helga Caetano,Nordeste,PowerPoint,450
+44161,Diego,Juan Farah,Centro-Oeste,PowerPoint,450
+44161,Gabriel,Yasser Alves,Centro-Oeste,PowerPoint,300
+44161,Diego,Ulisses Roças,Nordeste,PowerPoint,450
+44161,Gabriel,Saranna Miranda,Norte,PowerPoint,300
+44161,João,Vivianne Navega,Nordeste,VBA,600
+44162,Marcus,Andréia La,Nordeste,PowerPoint,450
+44163,João,Norbertho Ione,Norte,PowerPoint,300
+44164,João,Alessandra Gitirana,Centro-Oeste,Excel,500
+44165,Diego,Wen Fragoso,Sul,PowerPoint,300
+44165,Marcus,Liz Gouveia,Norte,VBA,600
+44166,Alon,Yohanan Prota,Nordeste,PowerPoint,450
+44166,Marcus,Caroll Comas,Norte,PowerPoint,300
+44166,Gabriel,Leandro Freitas,Norte,Power BI,300
+44166,Paulo,Raul Rozenbaum,Centro-Oeste,VBA,600
+44166,João,Cleo Cesar,Centro-Oeste,Power BI,300
+44166,Alon,Ana Freire,Norte,Excel,500
+44166,Gabriel,Breno Rabelo,Nordeste,Excel,500
+44168,Marcus,Francisco Rayol,Nordeste,Excel,500
+44168,Gabriel,Vitor Pinto,Centro-Oeste,Python,450
+44168,Marcus,Paula Cerqueira,Sudeste,VBA,600
+44168,Marcus,Luize Luís,Sudeste,VBA,600
+44168,João,Thaiz Costainara,Nordeste,Python,450
+44168,Gabriel,Joel Fernandes,Norte,Python,450
+44169,Marcus,Fernanda Freixo,Norte,Python,450
+44169,João,Alfredo Barrionuevo,Norte,Python,450
+44169,Paulo,Jackson Roberto,Sul,Power BI,300
+44170,Paulo,Wilson Bandeira,Norte,Excel,500
+44170,Gabriel,Mariana Thadeu,Nordeste,Excel,500
+44170,Diego,Cinthia Roças,Nordeste,Excel,500
+44170,Alon,Bárbara Cristine,Norte,Excel,500
+44170,João,Amanda Flôr,Sudeste,Power BI,300
+44171,Gabriel,Bernardo Cortes,Norte,VBA,600
+44171,Alon,Mariana Carelli,Centro-Oeste,Excel,500
+44171,Gabriel,Jonnathan Gabrielle,Sudeste,VBA,600
+44172,João,Edjailma Chaves,Sudeste,Python,450
+44172,Alon,Isabelly Flavio,Norte,Power BI,300
+44172,Marcus,Geani Mello,Sudeste,VBA,600
+44173,João,César Luiza,Norte,VBA,600
+44173,Paulo,Deysiane Mineiro,Norte,Excel,500
+44173,Marcus,Krissia Teles,Norte,VBA,600
+44174,Diego,Millena César,Nordeste,VBA,600
+44174,Gabriel,Manuela Monteiro,Sudeste,VBA,600
+44174,Paulo,Itai Nobili,Nordeste,Excel,500
+44174,Marcus,César Flores,Sudeste,Excel,500
+44174,Diego,Evelyn Bailly,Norte,VBA,600
+44174,Alon,Roger Morais,Sudeste,VBA,600
+44174,Gabriel,Alexandre Stockler,Nordeste,Excel,500
+44175,Paulo,Sandy Andréa,Sudeste,Python,450
+44175,Diego,Leon Monte,Nordeste,Excel,500
+44175,Gabriel,Samuel Monteiro,Norte,Python,450
+44175,Alon,Elvis Miranda,Sudeste,Python,450
+44175,Marcus,Ângelo Andréa,Sudeste,Python,450
+44176,Gabriel,Lucca Pisani,Sul,VBA,600
+44176,João,Yasser Aballo,Sul,VBA,600
+44177,Diego,Glaucia Hudson,Norte,Excel,500
+44177,Diego,Jose Berlandez,Centro-Oeste,Python,450
+44177,João,Clarissa Sant'Anna,Norte,VBA,600
+44177,Diego,Murillo Correa,Sul,Power BI,300
+44177,Alon,Ailton Pires,Sul,Power BI,300
+44178,João,Cesar Tkotz,Norte,VBA,600
+44178,João,Venan Fernando,Centro-Oeste,Python,450
+44178,Alon,Filippo Vilas,Centro-Oeste,Excel,500
+44178,Gabriel,Marcia Villela,Centro-Oeste,Excel,500
+44179,Alon,Jeronimo Said,Sudeste,Excel,500
+44179,Gabriel,Gizele Gomes,Centro-Oeste,Excel,500
+44179,Marcus,Thaisa Otavio,Nordeste,VBA,600
+44180,Marcus,Giovanna Coutinho,Sudeste,Power BI,300
+44180,Gabriel,Suelen Henrique,Sudeste,Excel,500
+44181,Paulo,Marcele Rosa,Sudeste,Power BI,300
+44181,Marcus,Saranna Jalles,Sul,VBA,600
+44181,João,Ian Póvoa,Sul,Power BI,300
+44181,Paulo,Daniella Rocha,Sudeste,VBA,600
+44182,Marcus,Roberta Stockler,Norte,Python,450
+44182,Gabriel,Raul Yumi,Centro-Oeste,Python,450
+44182,Marcus,Ester Ban,Sul,VBA,600
+44182,Gabriel,Ruan Castello,Norte,Power BI,300
+44183,Gabriel,Arthur Blanc,Sudeste,VBA,600
+44183,Diego,Hiago Cisneiros,Sudeste,Power BI,300
+44183,Alon,Cinthia Miura,Nordeste,Python,450
+44183,Diego,Alan Caffaro,Centro-Oeste,Python,450
+44183,Marcus,Rayssa Palhota,Norte,Python,450
+44184,Marcus,Juan Barrionuevo,Sudeste,VBA,600
+44184,Diego,Eduardo Hejda,Sul,Power BI,300
+44184,Diego,Vladimir Freire,Sudeste,VBA,600
+44185,Paulo,Yohanan Farah,Norte,Excel,500
+44185,Paulo,Mariane Pisani,Sudeste,VBA,600
+44185,Paulo,Jéssica Rosa,Centro-Oeste,VBA,600
+44186,João,Isabelle Russo,Nordeste,Power BI,300
+44186,Marcus,Catarina Russo,Sudeste,VBA,600
+44186,João,Jessika Cabral,Norte,Excel,500
+44186,Marcus,Ariel Borba,Sul,Python,450
+44186,Marcus,Glaucia Perim,Sudeste,VBA,600
+44187,Diego,Christine Lopes,Centro-Oeste,Power BI,300
+44187,Gabriel,Juan Ferreirinha,Nordeste,VBA,600
+44187,Gabriel,Carlos Aya,Norte,VBA,600
+44187,João,Júlia Cravo,Sudeste,VBA,600
+44187,Alon,Alex Aparecida,Sul,VBA,600
+44188,Diego,Julyanna Alvarez,Centro-Oeste,Python,450
+44188,Gabriel,Raiam Ognibene,Sudeste,VBA,600
+44188,Gabriel,Raíza Linhares,Centro-Oeste,Python,450
+44189,Gabriel,Leandro Whitaker,Sul,Power BI,300
+44189,Diego,Júlia Bizzo,Sul,Python,450
+44189,Alon,Sylvia Mosqueira,Centro-Oeste,Power BI,300
+44189,Marcus,Thomaz Filgueiras,Nordeste,Excel,500
+44189,Alon,Mauricio Ziegler,Norte,Power BI,300
+44189,Gabriel,Alessandra Chaves,Sul,Python,450
+44189,Paulo,Taís Mendes,Norte,Power BI,300
+44190,Gabriel,Mateus Motta,Centro-Oeste,Python,450
+44190,João,Filippo Brendalina,Nordeste,PowerPoint,450
+44191,João,Caroll Primo,Centro-Oeste,PowerPoint,450
+44191,Paulo,Cesar Brasil,Sul,PowerPoint,450
+44192,Alon,Gil Zidan,Centro-Oeste,PowerPoint,300
+44192,Gabriel,Helga Williams,Norte,Excel,500
+44192,Paulo,Suellen Torres,Nordeste,Excel,500
+44192,Alon,Ramon Said,Centro-Oeste,VBA,600
+44192,Marcus,Bárbara Souza,Sul,Excel,500
+44193,Alon,Pedro Aragão,Sudeste,VBA,600
+44194,Paulo,Saranna Andréa,Sul,PowerPoint,300
+44194,Gabriel,Adrian Sofia,Sudeste,PowerPoint,450
+44194,Marcus,Luize Luiz,Sul,PowerPoint,300
+44194,Paulo,Gabrielle Madrid,Sul,PowerPoint,300
+44195,Paulo,Érico Bernhardt,Sul,PowerPoint,300
+44195,Marcus,Daniele Bailly,Centro-Oeste,PowerPoint,450
+44195,João,Liara Portillo,Nordeste,Excel,500
+44196,Diego,Thayza Beatriz,Sudeste,VBA,600
+44196,Gabriel,Raíza Vaz,Norte,Excel,500
+44196,Gabriel,Cícero Brasil,Sudeste,PowerPoint,450
+44196,Paulo,Emilaine Yang,Nordeste,Excel,500
+44196,Gabriel,Átila Fernandes,Sudeste,VBA,600
+44197,Paulo,Ruan Esquenazi,Sudeste,VBA,600
+44197,Marcus,Marcella Arthur,Sul,PowerPoint,450
+44197,João,Thiago Iris,Nordeste,VBA,600
+44198,Diego,Victória Neiva,Sudeste,Excel,500
+44198,Diego,Michelle Roberto,Sudeste,VBA,600
+44198,Diego,Priscilla Provenzano,Norte,VBA,600
+44199,Gabriel,Ericka Lopez,Norte,VBA,600
+44199,Alon,Samantha Amaral,Nordeste,VBA,600
+44200,Alon,Thalles Rosa,Sudeste,VBA,600
+44200,Marcus,Luísa Coelli,Sudeste,VBA,600
+44200,Marcus,José Hippertt,Norte,Excel,500
+44200,Gabriel,Leandro Fontenelle,Nordeste,PowerPoint,450
+44200,Gabriel,Victória Abranches,Sul,PowerPoint,300
+44201,João,Gabriella Chousa,Sudeste,VBA,600
+44201,Diego,Mayná Vianna,Norte,Excel,500
+44201,Alon,Cláudia Lacerda,Sudeste,VBA,600
+44201,Gabriel,Tadeu Accardo,Sudeste,VBA,600
+44202,João,Andre Madrid,Norte,VBA,600
+44202,Alon,Itai Silva,Sudeste,VBA,600
+44203,Paulo,Joel Fracalossi,Norte,Excel,500
+44203,João,Zilma Thamires,Norte,Excel,500
+44205,João,Constantino Gerhad,Sul,Power BI,300
+44205,Alon,Antonia Hejda,Sudeste,VBA,600
+44205,Paulo,Emilaine Barboza,Nordeste,Python,450
+44206,Diego,Letícia Bittencourt,Norte,Excel,500
+44206,Gabriel,Rodney Casal,Sul,Python,450
+44207,Paulo,Thomas Araujo,Sudeste,Excel,500
+44207,Alon,Nuno Rocha,Sudeste,VBA,600
+44207,Diego,Diogo Portella,Centro-Oeste,Excel,500
+44208,Alon,Millena Sena,Norte,VBA,600
+44208,Marcus,Joao Ramos,Sudeste,Excel,500
+44208,Marcus,Marisol Lima,Norte,Python,450
+44209,Marcus,Karollayne Sodré,Sul,VBA,600
+44210,Gabriel,Gabryela Coelli,Sudeste,Python,450
+44210,João,Nélio Bittencourt,Nordeste,Excel,500
+44210,João,Arnôr Raggi,Sul,Python,450
+44210,Alon,Yla Kohn,Sul,Python,450
+44210,Alon,Silvana Faria,Sul,Power BI,300
+44210,Marcus,Adrizia Júnior,Sudeste,Excel,500
+44210,João,Yohanan Dourado,Norte,Python,450
+44211,Diego,Wellington Gitirana,Centro-Oeste,Python,450
+44212,João,Nuno Póvoa,Sudeste,Python,450
+44213,Gabriel,Ericka Baldanzi,Nordeste,Excel,500
+44213,Paulo,Jônatas Rozenbaum,Norte,Excel,500
+44213,Paulo,Gil Felippe,Sudeste,VBA,600
+44213,Diego,Jamile Pereira,Sul,Power BI,300
+44214,Marcus,Débora Baptista,Sudeste,VBA,600
+44214,Diego,Andre Cassia,Sudeste,VBA,600
+44214,Diego,Gabryela Monteiro,Sul,Power BI,300
+44214,Gabriel,Raul Gabrielen,Norte,VBA,600
+44214,Marcus,Giovani Madruga,Norte,VBA,600
+44215,João,Angelo Seidensticker,Centro-Oeste,Excel,500
+44216,João,Lucas Antônio,Centro-Oeste,Python,450
+44216,Marcus,Luca Yang,Sul,Power BI,300
+44218,Alon,Cassio Martins,Nordeste,Excel,500
+44218,Paulo,Thiago Torres,Sul,Power BI,300
+44218,Paulo,Thayane Vannier,Nordeste,Excel,500
+44218,Marcus,Gil Cravo,Sudeste,Python,450
+44218,João,Nathália Flávia,Sul,Power BI,300
+44219,Marcus,Glenda Veloso,Sudeste,PowerPoint,300
+44220,Marcus,Iuri Morgado,Norte,Excel,500
+44220,Marcus,Karollayne Mac,Nordeste,PowerPoint,300
+44221,Gabriel,Edjailma Rosales,Sudeste,PowerPoint,450
+44221,Marcus,Julyana Ladogano,Nordeste,PowerPoint,450
+44221,Marcus,Carol Aziz,Nordeste,PowerPoint,450
+44221,Gabriel,Mylla Mathias,Norte,PowerPoint,450
+44221,Marcus,Sofia Figueiredo,Centro-Oeste,Excel,500
+44221,Alon,Nathalya Zidan,Nordeste,PowerPoint,450
+44222,Gabriel,Lucas Silva,Sudeste,Excel,500
+44222,Diego,Cynthia Freire,Norte,Excel,500
+44222,Gabriel,Jennifer Guilhem,Sul,PowerPoint,300
+44223,Marcus,Lohany Campelo,Nordeste,PowerPoint,450
+44223,Diego,Walmyr Sodré,Nordeste,PowerPoint,450
+44223,Alon,Walter Priscilla,Norte,PowerPoint,450
+44224,Alon,Christine Francisca,Centro-Oeste,Excel,500
+44224,João,Ian Luiza,Centro-Oeste,PowerPoint,450
+44224,Paulo,Marcele Cossich,Nordeste,Excel,500
+44224,Paulo,Maria Taylor,Centro-Oeste,PowerPoint,450
+44224,Marcus,Francisco Cassabian,Sudeste,PowerPoint,450
+44224,João,Emanuella Fernando,Sudeste,Excel,500
+44224,Marcus,Débora Aparecida,Sul,PowerPoint,300
+44224,João,Alvaro Rabelo,Sul,VBA,600
+44224,João,Norman Suzano,Nordeste,PowerPoint,450
+44224,Alon,Igor Borges,Sudeste,Excel,500
+44225,Paulo,Ylana Paula,Centro-Oeste,Excel,500
+44225,Alon,Isabelle Baptista,Centro-Oeste,PowerPoint,300
+44225,Diego,Adriano Semeraro,Norte,Excel,500
+44225,Diego,Karen Balassiano,Nordeste,VBA,600
+44225,Gabriel,Flávia Dourado,Sudeste,PowerPoint,450
+44226,Alon,Cynthia Ronfini,Sudeste,VBA,600
+44226,Marcus,Vicente Rivero,Centro-Oeste,VBA,600
+44226,Paulo,Enrique Messias,Sul,PowerPoint,300
+44226,Marcus,Nina Sérgius,Norte,Excel,500
+44227,Alon,Isabella Villela,Norte,VBA,600
+44227,Diego,Gabryela Rozenbaum,Sudeste,VBA,600
+44227,João,Jonathas Anunciação,Nordeste,Excel,500
+44227,Gabriel,Frederico Hudson,Norte,Excel,500
+44228,Paulo,Francyne Cossich,Nordeste,PowerPoint,300
+44228,Paulo,Glenda Vilas,Sudeste,Power BI,300
+44228,Diego,Carla Mateus,Nordeste,Excel,500
+44229,Paulo,Venan Valladares,Sudeste,Excel,500
+44229,Paulo,Izadora Albano,Centro-Oeste,Power BI,300
+44230,Gabriel,Leonardo Marendino,Centro-Oeste,Python,450
+44230,Paulo,Lyandra Neiva,Centro-Oeste,Power BI,300
+44230,Marcus,Thayssa Bogossian,Norte,Power BI,300
+44230,Gabriel,jucelia Ione,Sudeste,Power BI,300
+44230,Paulo,Daniella Bizzo,Sul,Python,450
+44231,Marcus,Ananda Whitaker,Sudeste,VBA,600
+44232,Paulo,Antônio Morais,Sudeste,Power BI,300
+44232,João,Gizele Madeira,Sudeste,VBA,600
+44232,Diego,Breno Felix,Norte,Excel,500
+44233,João,Ester Kohn,Sudeste,Excel,500
+44233,Alon,Julia Paes,Norte,Power BI,300
+44233,Marcus,Loreni Amor,Norte,VBA,600
+44234,Diego,Tadeu Palha,Nordeste,Excel,500
+44234,Marcus,Giovanna Perim,Sul,Excel,500
+44235,João,Diogo Abi-Ramia,Nordeste,Excel,500
+44236,Marcus,Karina Baltar,Centro-Oeste,VBA,600
+44236,Marcus,Sylvia Ferrer,Nordeste,Power BI,300
+44236,Alon,Carlos Miguel,Sudeste,VBA,600
+44236,João,Victória Rosa,Sudeste,Excel,500
+44236,Alon,Izabelle Lobato,Norte,VBA,600
+44236,Alon,Jefferson Semeraro,Sudeste,Power BI,300
+44238,Diego,Emmanuel Victório,Centro-Oeste,Power BI,300
+44238,João,Platini Iane,Centro-Oeste,Python,450
+44238,João,Leandro Júnior,Sudeste,Python,450
+44238,João,Alan Caffaro,Sul,Python,450
+44238,Gabriel,Érica Felix,Nordeste,Excel,500
+44238,João,Alon Blumberg,Sudeste,Python,450
+44238,Diego,Davi Póvoa,Centro-Oeste,Power BI,300
+44239,Alon,Ludmila Póvoa,Sudeste,VBA,600
+44239,Alon,Yuri Sant'Anna,Sudeste,VBA,600
+44239,Alon,Iasmim Espíndola,Sudeste,Power BI,300
+44239,João,Daniel Senderowicz,Nordeste,Python,450
+44239,Diego,Mateus Fernando,Norte,VBA,600
+44239,Gabriel,Marisol Fróes,Sul,Python,450
+44240,João,Livia Bernhardt,Sul,Power BI,300
+44240,Paulo,Jade Smolarek,Sudeste,Excel,500
+44240,Alon,Luã Portillo,Sudeste,Excel,500
+44240,Diego,Érica Valle,Sudeste,VBA,600
+44240,Marcus,Rodolfo Varanda,Sudeste,VBA,600
+44241,Alon,Iasmim Emmerick,Nordeste,Excel,500
+44241,Gabriel,Mauricio Fogacia,Nordeste,Excel,500
+44242,Diego,Yasser Vinicius,Norte,VBA,600
+44242,Diego,Davi Scaldini,Sudeste,Python,450
+44242,João,Nina Andréa,Sudeste,VBA,600
+44243,Gabriel,Rhanna Suzano,Norte,Excel,500
+44243,Alon,Renato Silva,Norte,Python,450
+44243,Paulo,Ericka Thadeu,Nordeste,Excel,500
+44243,Paulo,Tainah Ricardo,Sudeste,VBA,600
+44243,Marcus,Walter Fontes,Sudeste,VBA,600
+44243,João,Breno Magalhães,Sudeste,Python,450
+44243,Paulo,Anna Felix,Nordeste,VBA,600
+44243,Paulo,Cecília Gallo,Sul,Python,450
+44244,Gabriel,Thauan Bandeira,Nordeste,Python,450
+44244,Marcus,Gil Marques,Nordeste,Excel,500
+44244,Paulo,Bernardo Praxedes,Sudeste,Excel,500
+44245,Marcus,Denilton Baptista,Centro-Oeste,Python,450
+44245,Paulo,Hugo Yudi,Nordeste,Excel,500
+44245,Paulo,Juliane Coelli,Sudeste,Excel,500
+44246,Alon,Julie Maria,Sul,Power BI,300
+44246,Diego,Marjorie Guilhem,Sul,Python,450
+44246,Gabriel,Flávia Jardim,Sudeste,VBA,600
+44246,João,Nicolas Monte,Centro-Oeste,Power BI,300
+44246,Gabriel,Giovana Amorim,Sudeste,Excel,500
+44247,Alon,William Fragoso,Norte,Python,450
+44247,Gabriel,Marianna Pedro,Norte,Excel,500
+44247,Diego,Vitória Paulino,Sudeste,Python,450
+44248,Marcus,Gabriela Kranz,Centro-Oeste,Excel,500
+44248,Gabriel,Cícero Carvalhal,Sul,VBA,600
+44248,Alon,Daniele Pisani,Nordeste,Power BI,300
+44249,João,Hanna Salomão,Sudeste,Excel,500
+44249,Marcus,Patricia Rosales,Centro-Oeste,Power BI,300
+44250,João,Érico Silveira,Nordeste,Excel,500
+44250,Paulo,Sebastião Paes,Centro-Oeste,Python,450
+44250,Paulo,Katarine Lucas,Sudeste,Power BI,300
+44250,João,Raianne Amor,Norte,Power BI,300
+44250,Diego,Pâmella Ribas,Norte,VBA,600
+44252,Gabriel,Yan Lucas,Norte,VBA,600
+44252,Gabriel,Camille Rubinstein,Sudeste,Power BI,300
+44252,João,Ary Yehudah,Sudeste,VBA,600
+44252,Paulo,Ives Piero,Sudeste,Python,450
+44253,Alon,Thamires Rubio,Norte,Python,450
+44253,Alon,Silvio Bento,Sudeste,VBA,600
+44253,João,Ciro Menezes,Sudeste,VBA,600
+44253,João,Elisa Franca,Norte,Excel,500
+44253,João,Morgana Roedel,Norte,Excel,500
+44254,Diego,Nathan Cravo,Sudeste,Power BI,300
+44254,João,Barbara Trevisan,Sul,Excel,500
+44254,João,Philipe Tkotz,Sul,Power BI,300
+44254,Paulo,Taila Guimarães,Nordeste,Excel,500
+44254,Paulo,Haroldo Rosolia,Nordeste,Excel,500
+44254,Diego,Philipe Moreira,Sul,Python,450
+44254,Marcus,Thadeu Franco,Sul,Excel,500
+44254,Paulo,Lucca Lauzana,Centro-Oeste,Python,450
+44254,João,Ana Ferreirinha,Centro-Oeste,VBA,600
+44255,Marcus,Marjorie Pellegrini,Nordeste,VBA,600
+44255,Gabriel,Gabryela Zambrotti,Sudeste,VBA,600
+44256,Marcus,Thays Goldoni,Norte,Python,450
+44256,Gabriel,Thayna Valladares,Sudeste,VBA,600
+44256,Alon,Marcella Balbi,Centro-Oeste,Power BI,300
+44256,Gabriel,Marisol Marendino,Sudeste,VBA,600
+44256,Paulo,Barbara Almawi,Nordeste,Python,450
+44256,Marcus,Igor Martins,Norte,VBA,600
+44257,João,Gleydson Blumgrund,Norte,Excel,500
+44257,Paulo,Yuske Tkotz,Sudeste,VBA,600
+44257,João,Anna Cristine,Sul,Excel,500
+44257,Paulo,Júlio Heleno,Nordeste,Excel,500
+44258,Marcus,Emilaine Bailly,Sul,Power BI,300
+44258,Alon,Ary Zacharias,Norte,Excel,500
+44259,Gabriel,Adrielle Monteiro,Sudeste,VBA,600
+44260,Paulo,Andrew Cavalcante,Nordeste,VBA,600
+44260,Gabriel,Izadora Riany,Nordeste,Excel,500
+44260,João,Cézar Castello,Sudeste,VBA,600
+44260,Marcus,Marjorie Vanzo,Sul,Excel,500
+44260,João,Sandy Totti,Norte,Excel,500
+44261,João,Norbertho Campelo,Nordeste,Python,450
+44262,Marcus,Cézar Souza,Sul,Python,450
+44263,Paulo,Alberto Barrionuevo,Sudeste,Excel,500
+44263,João,Rhuan Coelli,Sudeste,Python,450
+44263,João,Fillipe Arslanian,Sudeste,VBA,600
+44263,Gabriel,Vitória Cunha,Sudeste,Python,450
+44264,Gabriel,Carla Beatriz,Sudeste,Excel,500
+44264,João,Thomaz Jardim,Sudeste,Excel,500
+44265,Alon,Allan Rosolia,Norte,Power BI,300
+44265,Gabriel,Marjorie do,Norte,Power BI,300
+44265,João,Daniele Guilherme,Norte,Power BI,300
+44266,Paulo,Leticia Brandão,Nordeste,Power BI,300
+44266,Marcus,Rodney Frossard,Sudeste,Excel,500
+44266,Gabriel,Fillipe Jalles,Nordeste,VBA,600
+44266,Marcus,João Silvestre,Norte,Excel,500
+44266,Marcus,Alvaro Nemitz,Sudeste,Excel,500
+44267,Gabriel,Jonas Thome,Centro-Oeste,PowerPoint,450
+44267,Diego,Raiam Junqueira,Sudeste,Excel,500
+44267,Paulo,Emanuella Kohn,Norte,PowerPoint,450
+44267,Diego,Thauan Villela,Sudeste,VBA,600
+44268,Alon,Alexia Tkotz,Sul,PowerPoint,300
+44268,Gabriel,Jorge Castello,Sudeste,VBA,600
+44268,João,Danielle Campelo,Norte,Excel,500
+44269,João,Paula Chein,Norte,Excel,500
+44269,Alon,Leandro Coimbra,Sudeste,VBA,600
+44269,Diego,Leila Miehrig,Sul,Excel,500
+44270,João,Thomáz Junqueira,Sudeste,PowerPoint,300
+44271,Marcus,Priscila Silva,Sudeste,PowerPoint,300
+44271,Gabriel,Thayna Fontana,Sudeste,VBA,600
+44272,João,Christian Taylor,Norte,PowerPoint,450
+44272,João,Thomaz Silva,Centro-Oeste,VBA,600
+44272,Paulo,Danielle Fernando,Centro-Oeste,VBA,600
+44273,Gabriel,Ruan Baruki,Nordeste,Excel,500
+44274,Gabriel,Vicente Volpi,Sudeste,VBA,600
+44275,Paulo,Pâmella Júnior,Nordeste,PowerPoint,450
+44275,Alon,Érico Rocha,Sudeste,VBA,600
+44275,Diego,Gabriela Firmo,Sul,PowerPoint,300
+44276,Gabriel,Dykson Junqueira,Centro-Oeste,PowerPoint,300
+44276,Marcus,Andrew Guilherme,Centro-Oeste,Excel,500
+44276,João,Samantha Cromwell,Sudeste,VBA,600
+44276,Gabriel,Norbertho Rottas,Norte,VBA,600
+44278,Diego,Débora Sara,Sudeste,VBA,600
+44278,Paulo,Nina Paes,Nordeste,PowerPoint,300
+44278,Diego,Luã Vargas,Nordeste,PowerPoint,450
+44279,Alon,Paulo Abreu,Nordeste,PowerPoint,450
+44279,Diego,Raul Abramovitz,Norte,PowerPoint,300
+44280,João,Renato do,Norte,Excel,500
+44280,Paulo,Yohanan Bandeira,Nordeste,Excel,500
+44281,Paulo,Lucca Rosa,Centro-Oeste,PowerPoint,450
+44281,Gabriel,Karline Rottas,Sudeste,Power BI,300
+44281,Alon,Heitor Tkotz,Norte,Python,450
+44282,Paulo,Taís Praxedes,Sul,Python,450
+44282,Gabriel,Thayza Aragão,Norte,Python,450
+44282,Gabriel,Cleberson Jundi,Norte,Power BI,300
+44282,Diego,Alvaro Osman,Sul,Python,450
+44282,João,Thomaz Troccoli,Norte,Power BI,300
+44282,João,Raul Montenegro,Sudeste,VBA,600
+44283,Alon,Francisco Rey,Sudeste,VBA,600
+44284,Marcus,Renata Bakman,Centro-Oeste,Python,450
+44284,Paulo,Wendela Gitirana,Norte,VBA,600
+44284,Marcus,Nivea Vanzo,Nordeste,Power BI,300
+44284,João,Gabriela Cossich,Norte,Power BI,300
+44284,Alon,Igor Piccinini,Nordeste,Python,450
+44284,Paulo,Emilaine Otavio,Sul,Power BI,300
+44285,Alon,Edgard Augusto,Norte,Python,450
+44285,Diego,Marcelle Neviani,Norte,VBA,600
+44285,Gabriel,Thayssa Viana,Sudeste,VBA,600
+44286,Gabriel,Ighor Tribuzy,Centro-Oeste,VBA,600
+44286,Alon,Sergio Heleno,Sudeste,VBA,600
+44287,Gabriel,Andreza Vilachã,Centro-Oeste,VBA,600
+44287,Gabriel,Murillo Bello,Nordeste,Power BI,300
+44287,João,Sandy Lauzana,Sudeste,Power BI,300
+44288,Diego,Giovanna Tavares,Norte,Excel,500
+44288,Marcus,Valentina Carmo,Nordeste,Python,450
+44288,João,Reinaldo Aguiar,Norte,Power BI,300
+44289,Gabriel,Breno Ricardo,Centro-Oeste,Python,450
+44289,Alon,Alessandra Soibelman,Nordeste,Excel,500
+44289,Diego,Manuela Amaral,Norte,Excel,500
+44289,João,Camille Paes,Centro-Oeste,Python,450
+44289,Alon,Norman Francisco,Norte,Excel,500
+44289,João,Alfredo Bailly,Centro-Oeste,Python,450
+44290,João,Nathalie Nogueira,Centro-Oeste,Python,450
+44291,Diego,Domenik Troccoli,Norte,Power BI,300
+44291,Diego,Myllena Albano,Norte,Power BI,300
+44291,João,Izabella Cardoso,Nordeste,Python,450
+44291,Marcus,Mayná Almeida,Norte,Power BI,300
+44291,Gabriel,Rafaela Amor,Sudeste,Power BI,300
+44291,Paulo,Cláudia Bailly,Centro-Oeste,Excel,500
+44292,Marcus,Douglas Rabelo,Norte,VBA,600
+44292,João,Andressa Sodré,Sudeste,Python,450
+44292,Gabriel,Tayna Yosef,Norte,Excel,500
+44292,Paulo,Ramon Barros,Sudeste,Excel,500
+44292,Diego,Elida Domingues,Sudeste,VBA,600
+44292,João,Matheus Trinta,Centro-Oeste,VBA,600
+44293,Diego,Rojane César,Sudeste,VBA,600
+44293,Alon,Isabelle Jose,Sul,Power BI,300
+44293,Paulo,Wesley Brasil,Nordeste,Power BI,300
+44293,Alon,Helen Mendes,Norte,Excel,500
+44294,Gabriel,Rogério Primo,Sudeste,Power BI,300
+44294,João,Cecília Bello,Norte,Excel,500
+44294,Alon,Geani Farah,Norte,VBA,600
+44295,Alon,Suelen Latgé,Sudeste,Excel,500
+44296,João,Karoline Rossi,Nordeste,Python,450
+44296,Paulo,Iris Maia,Norte,Power BI,300
+44297,João,Vivian Cesar,Centro-Oeste,Python,450
+44297,Diego,Giuseppe Borba,Sudeste,Power BI,300
+44297,João,Elena Madrid,Nordeste,Python,450
+44297,Diego,Davi Novaes,Sul,Power BI,300
+44298,João,Taila Vilachã,Norte,VBA,600
+44298,Diego,Alexandre Rebello,Norte,Excel,500
+44298,Marcus,Ingra Machado,Sudeste,VBA,600
+44299,Alon,Geani Corrêa,Sul,Excel,500
+44299,João,Christine Alvim,Sudeste,VBA,600
+44299,Diego,Rafaela Villela,Norte,Python,450
+44299,Paulo,Maurício Jalles,Norte,Python,450
+44299,Diego,Geam Azeredo,Nordeste,Power BI,300
+44299,João,Priscila Goulart,Sudeste,Excel,500
+44300,Paulo,Melissa Junqueira,Nordeste,VBA,600
+44300,João,Felipe Marcio,Nordeste,Excel,500
+44300,Paulo,Jessika Comas,Sudeste,Word,600
+44300,João,Gisely Lopez,Nordeste,Word,500
+44301,João,Rachel Silvalmas,Norte,Python,450
+44301,João,Cláudia Aguiar,Nordeste,Word,500
+44301,João,Valéria Falcão,Norte,Python,450
+44302,Marcus,Marcello Póvoa,Sudeste,Python,450
+44302,João,Marisol Souza,Sudeste,Python,450
+44302,Gabriel,Debora Albano,Norte,Python,450
+44302,João,Marcus Costa,Sudeste,PowerPoint,300
+44302,Gabriel,Stela Palha,Norte,Word,600
+44303,João,Ysabella Itapary,Sul,Word,500
+44303,Alon,Yasmim Freixo,Centro-Oeste,Power BI,300
+44303,Gabriel,Jorge Gabrielle,Norte,Word,600
+44304,Marcus,Adelino Abreu,Sul,Python,450
+44304,Marcus,Wellington Bezerra,Sul,Word,600
+44305,Alon,Carlos Piccinini,Centro-Oeste,Python,450
+44305,Paulo,Tadeu Rubio,Sudeste,Word,600
+44305,Alon,Ylana Caldas,Sudeste,Python,450
+44306,Alon,Lohany Comas,Sudeste,Word,600
+44306,Gabriel,Sara Muniz,Sul,Word,500
+44306,Gabriel,Jean Villar,Nordeste,Word,500
+44306,João,Eduarda Sofia,Sul,Word,600
+44306,João,Douglas Cassabian,Norte,PowerPoint,450
+44306,Gabriel,Jennifer Ban,Centro-Oeste,PowerPoint,300
+44307,João,Thauan Baptista,Sul,PowerPoint,450
+44307,Marcus,Etiene Priscilla,Sul,PowerPoint,300
+44307,Paulo,Alfredo Bartholo,Nordeste,PowerPoint,300
+44308,Marcus,Giulia Sena,Centro-Oeste,PowerPoint,450
+44308,Marcus,Ylana Silveira,Centro-Oeste,PowerPoint,450
+44308,João,Iris Luiz,Sul,PowerPoint,450
+44309,João,Cícero Tassara,Norte,PowerPoint,500
+44310,Paulo,Gizele Madeira,Nordeste,PowerPoint,450
+44310,Marcus,Izabel Souza,Sudeste,PowerPoint,300
+44310,Paulo,Adriane Rivero,Centro-Oeste,PowerPoint,500
+44310,João,Barbara Macedo,Sul,PowerPoint,300
+44310,Gabriel,Isaac Galera,Norte,PowerPoint,600
+44311,Marcus,Laura Reyna,Centro-Oeste,PowerPoint,450
+44311,Diego,Thayli Bastos,Sul,Word,600
+44311,Marcus,Zilma Paula,Nordeste,Python,450
+44312,Alon,Marco Cristine,Nordeste,Python,450
+44312,Diego,Monique Fagundes,Sudeste,VBA,600
+44312,Gabriel,Rodolfo Mello,Norte,Python,450
+44313,Paulo,Geam Yudi,Norte,Excel,500
+44313,Marcus,Hiaiune Fontenele,Norte,Excel,500
+44314,João,Jose Primo,Sudeste,VBA,600
+44315,Gabriel,Lucas Mac,Sudeste,Excel,500
+44316,Marcus,Rilson Alvarenga,Norte,VBA,600
+44316,Alon,Cláudia Tkotz,Nordeste,Python,450
+44317,Diego,Carlos Sousa,Sudeste,VBA,600
+44317,Paulo,Daniella Heleno,Norte,Python,450
+44317,Diego,Nuno Rozenbaum,Norte,Excel,500
+44317,Marcus,Jessica Costalforne,Sul,Power BI,300
+44317,Gabriel,Rilson Cavadas,Nordeste,Excel,500
+44318,Gabriel,Cristina Florêncio,Centro-Oeste,Python,450
+44318,João,Jose Coelli,Sul,Power BI,300
+44318,Marcus,Gianluca Barros,Sudeste,Excel,500
+44319,Gabriel,Bernard Machado,Sul,Power BI,300
+44319,Paulo,Micaele Spata,Sudeste,VBA,600
+44319,Marcus,Jéssica Gameiro,Nordeste,Excel,500
+44320,Alon,Dalvan Campos,Sul,Power BI,300
+44320,Marcus,Enrico Jobim,Nordeste,Python,450
+44320,Marcus,Taís Abranches,Centro-Oeste,Excel,500
+44321,Diego,Giovanna Silvagasperi,Norte,VBA,600
+44321,Paulo,Danielle La,Norte,Python,450
+44321,Marcus,Rebecca Vilachã,Sul,VBA,600
+44321,João,Daniele Gomes,Sul,Power BI,300
+44321,Paulo,Vitória Furtado,Nordeste,Excel,500
+44322,Alon,Thamara Pires,Sudeste,Excel,500
+44322,Paulo,Rebeca Bittencourt,Centro-Oeste,Excel,500
+44322,Paulo,Izabel Menaged,Sul,Python,450
+44322,Paulo,Lígia Sena,Sul,VBA,600
+44323,Marcus,Nathalie Tavares,Centro-Oeste,VBA,600
+44324,Marcus,Breno Valladares,Norte,Python,450
+44324,Paulo,Ricardo Marino,Norte,VBA,600
+44324,Marcus,Heitor Carelli,Sul,Power BI,300
+44324,João,Alon Hermano,Nordeste,VBA,600
+44326,Gabriel,Thayssa Luz,Sudeste,VBA,600
+44326,Gabriel,Gleydson Brasil,Sul,Power BI,300
+44326,Gabriel,Davi Guilhem,Sudeste,VBA,600
+44326,Alon,Nicholas Penedo,Sudeste,VBA,600
+44327,João,Samantha Silva,Nordeste,Power BI,300
+44327,João,Walter Jose,Norte,Power BI,300
+44328,Alon,Verônica Fecha,Norte,Python,450
+44329,Paulo,Andre Cromwell,Nordeste,Power BI,300
+44329,Paulo,Yasser Anunciação,Norte,VBA,600
+44329,Alon,Amanda Suzano,Sudeste,Power BI,300
+44330,João,Jamile Gabriel,Sudeste,VBA,600
+44330,Paulo,Nathália José,Nordeste,Power BI,300
+44330,Diego,Artur Morgado,Sudeste,VBA,600
+44330,Alon,Erik Taylor,Norte,Power BI,300
+44330,Alon,Jonas Tkotz,Norte,VBA,600
+44330,Marcus,Giuseppe Ferrer,Centro-Oeste,Excel,500
+44330,Marcus,Helena Francisco,Centro-Oeste,Python,450
+44330,Marcus,Andrew Bitencourt,Sul,PowerPoint,450
+44330,João,Christiane Novaes,Sul,PowerPoint,450
+44332,Paulo,Pâmella Flavio,Centro-Oeste,PowerPoint,600
+44332,Gabriel,Stela Sérgius,Norte,PowerPoint,500
+44333,Alon,Izabella Moura,Centro-Oeste,PowerPoint,600
+44334,Alon,Adailton Pires,Norte,PowerPoint,300
+44334,Paulo,Denilton Batista,Centro-Oeste,PowerPoint,300
+44334,Alon,Alex Yumi,Norte,PowerPoint,500
+44334,Gabriel,Rodolfo Silotti,Centro-Oeste,PowerPoint,300
+44335,Gabriel,Jessica Torres,Sul,PowerPoint,300
+44335,Alon,Danielle Miehrig,Nordeste,PowerPoint,300
+44335,Gabriel,Maurício Cavalca,Sul,PowerPoint,300
+44335,Marcus,Glenda Felippe,Sul,PowerPoint,600
+44335,Alon,Ana Aragão,Nordeste,PowerPoint,450
+44336,João,Leon Madruga,Nordeste,PowerPoint,500
+44336,João,Talline Coimbra,Sul,PowerPoint,500
+44337,João,Renan Bastos,Sudeste,PowerPoint,600
+44337,Paulo,Edgard Mizrahy,Sudeste,PowerPoint,600
+44337,Marcus,Eduardo Alvim,Norte,PowerPoint,450
+44338,Gabriel,Lorena Riany,Centro-Oeste,PowerPoint,600
+44338,Diego,Jessica Halinck,Sudeste,PowerPoint,600
+44339,João,Jennifer Caroline,Sudeste,PowerPoint,500
+44339,Paulo,Domenik Vaz,Sul,PowerPoint,300
+44339,Marcus,Venan Cravo,Norte,PowerPoint,450
+44340,João,Hiago Ribeiro,Norte,PowerPoint,500
+44340,João,Thomas Costa,Norte,PowerPoint,300
+44340,Paulo,Wagner Garambone,Norte,VBA,600
+44341,Alon,Yan Caffaro,Sudeste,VBA,600
+44341,Diego,Thaisa Lopez,Norte,Excel,500
+44342,Marcus,Simone Guimarães,Sudeste,VBA,600
+44342,Alon,Khaio Moreno,Sudeste,Excel,500
+44342,Paulo,Catarina Tribuzy,Sudeste,Excel,500
+44342,Marcus,Andre Souza,Nordeste,Python,450
+44342,João,Flávio Raggi,Norte,Excel,500
+44342,Gabriel,Jônatas Rabelo,Sudeste,Python,450
+44343,Gabriel,Juliana Vilachã,Nordeste,Python,450
+44343,Paulo,Cristina Pisani,Sul,Python,450
+44343,Gabriel,Walmyr Peixoto,Nordeste,Power BI,300
+44343,João,Alexia Orind,Sul,Excel,500
+44344,Diego,Isis Francisco,Sul,Power BI,300
+44344,João,Mayná Domingues,Norte,Python,450
+44344,João,Juliane Lara,Sul,Python,450
+44344,João,Marcele Kranz,Norte,Python,450
+44345,Marcus,Debora Magalhaes,Norte,Excel,500
+44345,João,Isis Kohn,Centro-Oeste,Python,450
+44346,João,Cleberson Campos,Centro-Oeste,Python,450
+44346,Alon,Graziela Alves,Nordeste,Excel,500
+44346,João,Thayane Godinho,Sudeste,VBA,600
+44346,Gabriel,Hugo Pinto,Sul,Power BI,300
+44346,Alon,Cristiane Elisa,Norte,Python,450
+44346,Marcus,Lorena Brendalina,Nordeste,VBA,600
+44347,Paulo,Valentina Bittencourt,Centro-Oeste,Power BI,300
+44347,Marcus,Giselia Medeiros,Nordeste,Python,450
+44347,Diego,Francyne Arantes,Nordeste,Power BI,300
+44347,Paulo,Karina Rubinstein,Norte,VBA,600
+44347,Diego,Catarina Montenegro,Norte,Python,450
+44347,Alon,Lígia Araujo,Centro-Oeste,Python,450
+44347,João,Mayná Lencastre,Norte,Power BI,300
+44348,Diego,Fabio Fernandez,Sul,Python,450
+44348,Diego,Daniel Guilherme,Sudeste,VBA,600
+44349,Alon,Marcelly Li,Norte,Python,450
+44350,Marcus,Leandro Flavio,Norte,Word,300
+44350,João,Wilson Veloso,Norte,Word,450
+44351,Alon,Mauricio Silva,Nordeste,Word,300
+44352,João,Haroldo Mainente,Nordeste,Word,500
+44352,Paulo,Andreia Brendalina,Nordeste,Word,500
+44352,Gabriel,Tayna Vilaça,Centro-Oeste,Word,300
+44353,Paulo,Artur José,Centro-Oeste,Word,600
+44353,Gabriel,Thárcila Chousa,Sul,Word,600
+44353,Diego,Rosana Fecha,Norte,Word,600
+44353,Gabriel,Tiago Corrêa,Nordeste,Power BI,300
+44354,Paulo,Marjorie Balbi,Sul,Python,450
+44354,Alon,Lucca Coimbra,Centro-Oeste,VBA,600
+44355,Gabriel,Leandro Diogo,Centro-Oeste,Python,450
+44355,Gabriel,Tainah Yumi,Norte,Power BI,300
+44355,Diego,Tainá Fasano,Nordeste,Python,450
+44355,Paulo,Raísa longo,Centro-Oeste,Python,450
+44355,João,Julianna Abranches,Sudeste,VBA,600
+44355,Gabriel,Jonathas Baltar,Sudeste,VBA,600
+44356,Marcus,Hyago Spata,Norte,Python,450
+44356,Gabriel,Leandro Ferrer,Sul,Python,450
+44357,Paulo,Krissia Faria,Centro-Oeste,VBA,600
+44358,Gabriel,Viviane Schincariol,Nordeste,Python,450
+44359,Diego,Thays Fernandez,Sul,VBA,600
+44359,Alon,Barbara Fogacia,Norte,Python,450
+44359,Paulo,Cynthia Fontenelle,Norte,Power BI,300
+44359,Alon,Wesley Mendes,Nordeste,Excel,500
+44360,Paulo,Thalles Rangel,Sudeste,Python,450
+44360,João,Kim Jalles,Sudeste,VBA,600
+44360,Marcus,Leticia Iane,Sul,Power BI,300
+44360,Gabriel,Yan Junqueira,Nordeste,Excel,500
+44361,Diego,Natali Jordania,Sul,Excel,500
+44361,João,Hércules Thadeu,Centro-Oeste,Excel,500
+44361,Gabriel,Carolina Eduardo,Norte,Word,300
+44362,João,Thomas Hudson,Sul,Word,450
+44362,Paulo,Alfredo Stockler,Centro-Oeste,Word,600
+44363,Gabriel,Thadeu Cunha,Norte,Word,600
+44363,Paulo,Thales Lund,Sul,Word,300
+44363,Paulo,Saranna Madruga,Sul,Word,600
+44363,Alon,Camilla Costalforne,Norte,Word,500
+44364,Alon,Erick Gomes,Centro-Oeste,Word,450
+44365,Marcus,Marcus Riany,Norte,Word,600
+44365,Paulo,Nathália Cassabian,Centro-Oeste,Word,450
+44365,Alon,Thayssa Menaged,Norte,VBA,600
+44365,Alon,Cassandra Carmo,Norte,VBA,600
+44365,Alon,Gabryela Schincariol,Nordeste,Python,450
+44366,Diego,Igor Veríssimo,Sudeste,VBA,600
+44366,Gabriel,Alana Provenzano,Nordeste,Python,450
+44366,João,Douglas Carrera,Norte,Python,450
+44366,Alon,Higor Guedes,Centro-Oeste,Python,450
+44366,Marcus,Natália Moreira,Sudeste,Excel,500
+44366,João,Ciro Novarino,Sudeste,VBA,600
+44366,Paulo,Nicole Barreto,Nordeste,PowerPoint,300
+44367,Paulo,Tomas Siqueira,Sudeste,PowerPoint,450
+44367,João,Sarah Yang,Norte,Excel,500
+44367,Marcus,Luize Aballo,Sudeste,PowerPoint,450
+44368,Gabriel,Marjorie Smolarek,Nordeste,PowerPoint,300
+44368,Diego,Karollayne Bogossian,Nordeste,Excel,500
+44369,Gabriel,Murilo longo,Sul,Excel,500
+44369,Alon,Suelen Freire,Norte,Word,300
+44369,Paulo,Vito Vargas,Sul,Word,450
+44369,Paulo,Izabella Vinícius,Sul,Word,600
+44369,Gabriel,Alan Leão,Sudeste,Word,450
+44369,Paulo,Walmyr Nobili,Sudeste,Word,600
+44370,Paulo,Larissa Roças,Norte,Word,500
+44370,Paulo,Daniela Gabrielen,Sul,Word,450
+44371,Paulo,Francyne Queiroz,Norte,Word,450
+44371,Alon,Igor Siqueira,Sul,Word,450
+44371,João,Denilton Júnior,Centro-Oeste,Word,500
+44371,Alon,Daniele Cristine,Norte,Word,450
+44371,João,Cassandra Madruga,Centro-Oeste,Word,300
+44371,Alon,Nickole Amorim,Nordeste,Excel,500
+44372,Alon,Francyne Pires,Sudeste,VBA,600
+44372,João,Rosana Monte,Norte,Excel,500
+44372,Diego,Adelino Fonseca,Centro-Oeste,PowerPoint,300
+44374,Alon,Luciana Reis,Nordeste,Excel,500
+44374,Gabriel,Kassia Bello,Sul,PowerPoint,300
+44374,João,Walmyr Ferreirinha,Norte,PowerPoint,450
+44374,João,Henrique Infante,Nordeste,PowerPoint,450
+44374,Alon,Alessandra Gabrielen,Nordeste,VBA,600
+44374,Alon,Christian Torres,Sul,VBA,600
+44374,João,Raffael Bensdorp,Norte,PowerPoint,450
+44375,Marcus,Thays Luiza,Sul,PowerPoint,300
+44375,Diego,Marcus Ahnert,Centro-Oeste,Excel,500
+44375,Diego,Dalvan Franciele,Nordeste,Excel,500
+44376,Alon,Rojane Mineiro,Norte,Excel,500
+44376,Paulo,Jeferson Sérgius,Nordeste,Excel,500
+44376,João,Giovani Brandão,Centro-Oeste,PowerPoint,450
+44377,Paulo,Ysabella Portillo,Centro-Oeste,VBA,600
+44377,Paulo,Hiago Penna,Sul,Power BI,300
+44378,João,Hugo Goulart,Norte,VBA,600
+44378,Alon,Renato Azevedo,Sul,VBA,600
+44378,Marcus,Julia Alves,Nordeste,Excel,500
+44378,Marcus,Ruan Pacheco,Norte,Excel,500
+44378,Gabriel,Roberta Valladares,Norte,Excel,500
+44378,João,Jade Ontiveros,Nordeste,Python,450
+44378,Alon,Gabriela Abramovitz,Sul,Power BI,300
+44379,João,Érica Carmo,Sul,Power BI,300
+44379,Gabriel,Mariane Cavalca,Sul,Power BI,300
+44379,Paulo,Wesley Godinho,Sul,Word,450
+44379,Alon,Sergio Vaz,Norte,Word,450
+44380,Paulo,Ingra Rosales,Sudeste,Word,600
+44380,Paulo,Ângelo Bretas,Sul,Word,300
+44380,Paulo,Khaio Veloso,Sul,Word,300
+44380,Diego,Thamara Luís,Norte,Word,500
+44381,Paulo,Michel Paulo,Sul,Word,300
+44381,Marcus,Kallena Marinho,Centro-Oeste,Word,450
+44381,Paulo,Wen Ferrer,Sul,Word,300
+44381,Alon,Rebeca Andréa,Sul,Word,450
+44381,João,Julliana Moulin,Norte,VBA,600
+44382,Diego,Raphael Cavadas,Sudeste,Excel,500
+44382,Diego,Jonnathan Rubin,Nordeste,Excel,500
+44382,Diego,Dilson Machado,Nordeste,Excel,500
+44382,Paulo,Deysiane Salomao,Sul,Power BI,300
+44382,João,Breno Priscilla,Sudeste,Python,450
+44382,Marcus,Tatiana Neviani,Norte,Excel,500
+44383,Diego,Viviane Francisca,Centro-Oeste,Excel,500
+44383,Alon,Rosana Taylor,Sudeste,Python,450
+44384,Paulo,Leticia Nacif,Nordeste,Power BI,300
+44385,Paulo,Cynthia Anunciação,Centro-Oeste,VBA,600
+44385,Paulo,Evelyn Chagas,Norte,Power BI,300
+44385,Diego,Raul Neves,Nordeste,Power BI,300
+44386,João,Patricia Castello,Norte,Power BI,300
+44386,Diego,Victória Ribas,Norte,VBA,600
+44386,Gabriel,Vivianne Fioravante,Sul,Excel,500
+44386,Diego,Christine Costa,Sudeste,Excel,500
+44386,Paulo,Adriano Soibelman,Sudeste,PowerPoint,600
+44387,Gabriel,Thaina Said,Sul,PowerPoint,300
+44387,João,Jonnathan Dourado,Sudeste,PowerPoint,600
+44388,Alon,Cristina Bomfim,Norte,PowerPoint,500
+44388,Diego,Mateus Borba,Norte,PowerPoint,450
+44388,Marcus,Ighor Bello,Sul,PowerPoint,300
+44388,Gabriel,Amanda Mathias,Norte,PowerPoint,500
+44389,Gabriel,Drielly Amor,Sudeste,PowerPoint,500
+44389,Diego,Natali Cunha,Nordeste,PowerPoint,450
+44391,João,Dayane Azevedo,Nordeste,PowerPoint,500
+44391,Diego,Giselia Erthal,Norte,PowerPoint,450
+44391,Gabriel,Raul Vaz,Sudeste,PowerPoint,450
+44391,João,Átila Rubin,Centro-Oeste,PowerPoint,600
+44391,João,Graziela Suzano,Centro-Oeste,PowerPoint,600
+44391,Gabriel,Álvaro Marendino,Centro-Oeste,Power BI,300
+44392,Alon,Maciela Almawi,Sudeste,VBA,600
+44392,Marcus,Higor Abranches,Norte,Power BI,300
+44392,Alon,Raquel Barrionuevo,Centro-Oeste,Power BI,300
+44392,Paulo,Edjailma Julia,Norte,Python,450
+44393,Paulo,Jéssica Castello,Norte,Excel,500
+44393,Alon,Liz Mosqueira,Nordeste,Python,450
+44394,Gabriel,Alan Franciele,Sudeste,VBA,600
+44394,Paulo,Erick Ribas,Sul,Power BI,300
+44395,Paulo,Angelo Andréa,Centro-Oeste,Power BI,300
+44395,João,Daniella Yehudah,Centro-Oeste,Python,450
+44396,João,Thays Paulo,Centro-Oeste,PowerPoint,600
+44396,Diego,Wilson Penedo,Nordeste,PowerPoint,300
+44396,Paulo,Alexia Viana,Sul,PowerPoint,450
+44396,Alon,Nélio Whitaker,Norte,PowerPoint,450
+44397,Alon,Diogo Centurione,Nordeste,PowerPoint,500
+44397,Diego,Bianca Sodré,Sudeste,PowerPoint,450
+44397,Alon,Thaís Amor,Sudeste,Word,600
+44398,Marcus,Yasser Carneiro,Centro-Oeste,Word,300
+44398,Gabriel,Taila Yudi,Sul,Word,450
+44399,Diego,Luca Thamires,Sul,Word,600
+44399,João,Hiaiune Duarte,Nordeste,Word,500
+44399,Alon,Cézar Macedo,Sudeste,Word,450
+44399,Gabriel,Eduardo Ladogano,Centro-Oeste,Word,450
+44399,Marcus,Lucca Luiz,Sul,Word,450
+44399,Diego,Paula Gribel,Norte,Word,500
+44399,Alon,Sergio Balassiano,Centro-Oeste,Word,450
+44399,João,Lígia Gracio,Sudeste,Word,500
+44400,Paulo,Raul Medeiros,Centro-Oeste,Word,300
+44400,Marcus,Victor Titonelli,Sudeste,Word,600
+44400,Diego,Yasmim Franco,Norte,Word,300
+44400,João,Carlos Maria,Nordeste,Python,450
+44401,Diego,Joyce Póvoa,Sul,Python,450
+44401,João,Hygor Novarino,Sul,VBA,600
+44402,Marcus,Ingra Emmerick,Centro-Oeste,Power BI,300
+44402,Diego,Rodrigo Tiradentes,Sudeste,VBA,600
+44402,João,Cézar Felix,Sudeste,VBA,600
+44402,Paulo,Alexandre Flávia,Sudeste,Excel,500
+44402,Alon,Danielle Rotava,Sudeste,VBA,600
+44402,Gabriel,Thales Ban,Nordeste,Excel,500
+44403,Gabriel,Thayssa Furtado,Sudeste,Python,450
+44404,João,Domenik Brendalina,Sudeste,Word,600
+44404,Marcus,Tayane Rosa,Nordeste,Word,500
+44404,Gabriel,Roberto Henrique,Norte,Power BI,300
+44404,João,Cristiane Siqueira,Nordeste,Power BI,300
+44404,Diego,Thais Bogossian,Nordeste,Power BI,300
+44405,Paulo,Thaina Limeira,Norte,Word,600
+44407,Alon,Ana Itapary,Norte,Word,500
+44408,Paulo,Jonas Dourado,Norte,Word,500
+44408,Paulo,Diogo Cravo,Sul,Power BI,300
+44409,Paulo,Diogo Filiphe,Norte,Word,600
+44409,Alon,Alfredo Florêncio,Sul,Python,450
+44409,Alon,Yohanan Jardim,Sudeste,Word,600
+44409,Alon,Luana Pessoa,Sudeste,Word,600
+44409,Gabriel,Mariane Jorge,Nordeste,Word,500
+44410,Paulo,Yan Rodrigues,Nordeste,Word,500
+44410,Alon,Manuela Bachini,Norte,Python,450
+44410,Paulo,Cristiane Carolina,Centro-Oeste,Power BI,300
+44410,Marcus,Claudia Florêncio,Norte,Python,450
+44410,Paulo,Adrielle Aballo,Sul,Python,450
+44410,Gabriel,Thays Ferreirinha,Nordeste,Python,450
+44411,João,Cecília Barboza,Sudeste,Word,450
+44411,Marcus,Edson Fróes,Sudeste,Word,600
+44411,Marcus,Camille Whitaker,Centro-Oeste,Word,450
+44411,Gabriel,Maurício Tribuzy,Centro-Oeste,Word,500
+44412,Paulo,Vinicius Pellegrini,Centro-Oeste,Word,300
+44412,Paulo,Hyago Blumgrund,Nordeste,Word,500
+44412,Marcus,Giovani Jean,Nordeste,Word,500
+44413,Diego,Haroldo Gameiro,Norte,Word,600
+44413,João,Maria Menaged,Nordeste,Word,300
+44413,João,Alberto Alan,Norte,Word,500
+44414,Paulo,Débora Serra,Sul,Word,450
+44414,Diego,Kim Fernandes,Centro-Oeste,Word,300
+44414,Gabriel,Nina Paiva,Sudeste,Word,600
+44414,Gabriel,Pâmella Francisco,Nordeste,Word,450
+44415,Paulo,Thamires Bernardo,Sudeste,Word,500
+44415,Paulo,Suellen Amor,Sul,Word,300
+44415,Diego,Jessica Freitas,Sudeste,Word,300
+44416,Diego,Cassandra Machado,Norte,Power BI,300
+44416,Marcus,Cleberson Elisa,Nordeste,Python,450
+44416,Marcus,Marisol Rocha,Centro-Oeste,Power BI,300
+44417,Alon,Samir Veríssimo,Norte,VBA,600
+44418,Marcus,Artur Riany,Sudeste,Python,450
+44418,Alon,Claudia Florêncio,Norte,Excel,500
+44419,Gabriel,Fabio Semeraro,Sudeste,VBA,600
+44419,Paulo,Izabella Duarte,Norte,Excel,500
+44420,Diego,Stela Varella,Sul,Word,450
+44420,Gabriel,Jayme Luís,Sudeste,Word,600
+44420,Marcus,Ailton Carrera,Norte,Word,500
+44421,Diego,Rojane Baltar,Sul,Word,600
+44422,João,Marco Tiradentes,Sudeste,Word,300
+44422,João,Karollayne Ferrer,Sul,Word,500
+44423,Marcus,Manuela Volpi,Centro-Oeste,Word,450
+44423,Paulo,Eugênio Rosales,Sul,Word,450
+44423,Diego,Beatriz Florêncio,Nordeste,Word,500
+44423,Paulo,Thadeu Teles,Sudeste,Word,500
+44424,Paulo,Thamires Fernando,Norte,Word,300
+44424,João,Zilma Benvinda,Sudeste,PowerPoint,500
+44424,Gabriel,Yve Luz,Sudeste,PowerPoint,600
+44424,Paulo,Renan Pinto,Norte,PowerPoint,300
+44425,Paulo,Izabella Kranz,Centro-Oeste,Excel,500
+44425,Paulo,Carolina Kranz,Sul,PowerPoint,300
+44425,Paulo,Walter Jorge,Nordeste,PowerPoint,300
+44426,João,Bruno Rodino,Norte,PowerPoint,450
+44426,João,Victor Hermsdorff,Nordeste,Excel,500
+44427,Marcus,Isabelle Frossard,Centro-Oeste,Excel,500
+44427,Alon,Marjorie Barrionuevo,Sul,Excel,500
+44428,Alon,Chan Souza,Sudeste,VBA,600
+44428,Gabriel,Luan Cardoso,Sudeste,PowerPoint,450
+44428,Marcus,Pâmella Primo,Nordeste,Excel,500
+44428,Alon,Helena La,Centro-Oeste,PowerPoint,450
+44428,Alon,Willian Aguiar,Centro-Oeste,PowerPoint,450
+44429,Paulo,Fernanda Amorim,Nordeste,Excel,500
+44429,Marcus,Emilaine Silveira,Nordeste,Excel,500
+44429,Diego,Manuela Silvagasperi,Centro-Oeste,PowerPoint,300
+44430,Marcus,Liz Lencastre,Sul,VBA,600
+44430,Marcus,Liz Zacharias,Sudeste,Excel,500
+44431,Alon,Rosana Ivo,Norte,PowerPoint,300
+44431,Diego,Vanessa Sousa,Sul,Excel,500
+44431,Diego,Daniele Penna,Sul,Excel,500
+44432,Paulo,Zilma Ladogano,Sudeste,VBA,600
+44432,Gabriel,Vittorio Totti,Sudeste,VBA,600
+44432,Marcus,Yohanan Miguel,Nordeste,Excel,500
+44433,Gabriel,Catarina Huon,Norte,Power BI,300
+44433,João,Célio Nacif,Sudeste,VBA,600
+44433,Alon,Tadeu Monte,Nordeste,Power BI,300
+44434,Gabriel,Mateus Pinto,Sudeste,Python,450
+44434,Alon,Thárcila Barboza,Centro-Oeste,Python,450
+44434,João,Felipe Cavalca,Centro-Oeste,Excel,500
+44435,Diego,Christiana Jundi,Sul,VBA,600
+44435,Gabriel,Thayane Froufe,Centro-Oeste,Power BI,300
+44435,João,Maciela Tkotz,Sudeste,Python,450
+44435,Diego,Alexandre Florêncio,Norte,Python,450
+44435,Gabriel,Paula Cunha,Sudeste,Python,450
+44436,Marcus,Bernardo Tkotz,Sul,Power BI,300
+44436,Diego,Karollayne Coimbra,Sudeste,Power BI,300
+44437,Paulo,Talissa Erthal,Nordeste,VBA,600
+44437,Diego,Hiago Fioravante,Sudeste,Python,450
+44438,Alon,Rubyson Coelho,Sul,Power BI,300
+44438,Paulo,Karen Pinto,Sudeste,Power BI,300
+44438,Alon,Eduardo Sodré,Nordeste,Power BI,300
+44438,Diego,Filippo Ribas,Sudeste,Excel,500
+44439,João,Rodolfo Infante,Sudeste,Power BI,300
+44439,Alon,Cleo Brendalina,Centro-Oeste,Python,450
+44440,Diego,Marcus Miguel,Nordeste,Excel,500
+44440,João,Thaina Ambrosio,Sudeste,Excel,500
+44441,Gabriel,Rodney Monte,Sul,Power BI,300
+44441,Gabriel,Emilaine Albuquerque,Norte,Power BI,300
+44441,Paulo,Tayna Casal,Norte,VBA,600
+44441,Gabriel,Isaac Corrêa,Centro-Oeste,Excel,500
+44441,João,Sebastião Brito,Sul,Excel,500
+44441,Marcus,Patrícia Fioravante,Norte,Power BI,300
+44442,João,Alon José,Nordeste,Power BI,300
+44442,Marcus,Bárbara Carneiro,Sudeste,Power BI,300
+44442,João,Wendel Gerhad,Centro-Oeste,VBA,600
+44442,Marcus,Marcus Jung,Sudeste,Word,600
+44442,Gabriel,Ysabella Barros,Norte,Word,500
+44443,Gabriel,Paloma Labanca,Sudeste,Word,300
+44443,João,Cynthia Côrte-Real,Nordeste,Word,450
+44443,Paulo,Lorena Varella,Sudeste,Word,600
+44444,Gabriel,Manuela Piccinini,Sudeste,Word,500
+44444,Paulo,Lívia César,Sudeste,Word,300
+44444,João,Alexia Sara,Norte,Word,600
+44445,Paulo,Pietro Costainara,Sul,Word,500
+44445,Alon,Yasser Azevedo,Nordeste,Word,500
+44445,Diego,Julia Capitulo,Norte,Word,450
+44446,Marcus,Luize Tostes,Centro-Oeste,Word,450
+44446,Gabriel,Alexandra Aya,Sul,Word,300
+44446,Diego,Jean Garambone,Sudeste,Word,450
+44446,Gabriel,Ian Nico,Sudeste,Word,450
+44447,Marcus,Raphael Bastos,Norte,Word,500
+44448,Diego,Maciela Augusto,Nordeste,Word,500
+44448,Paulo,Alexsandro Junqueira,Norte,Word,300
+44448,Diego,Alex Froufe,Nordeste,Word,600
+44448,Diego,Wesley Tsuyoshi,Sul,Word,300
+44448,Diego,Thaís Smolarek,Norte,Word,300
+44449,Paulo,Vívian Vitor,Nordeste,Word,500
+44449,Alon,Manuela Tribuzy,Nordeste,Word,500
+44449,Gabriel,Nicole Troccoli,Norte,Word,450
+44449,Alon,Karline Rubim,Centro-Oeste,Word,300
+44449,Gabriel,Giovanni Tribuzy,Sudeste,Word,500
+44449,Paulo,Jamile Osman,Norte,Word,600
+44449,Diego,Bernardo Penna,Norte,Word,600
+44450,Alon,Nickole Li,Sudeste,Word,600
+44450,Marcus,Daniella Corrêa,Norte,Word,300
+44451,Diego,Raíza Mendes,Norte,PowerPoint,600
+44451,Marcus,Yuske Helena,Sudeste,PowerPoint,450
+44452,Alon,Itai Helena,Norte,PowerPoint,600
+44452,Gabriel,Viviane Alves,Sul,PowerPoint,300
+44452,João,Adrielle Otavio,Centro-Oeste,PowerPoint,450
+44452,Diego,Tácio Orind,Centro-Oeste,PowerPoint,300
+44452,Marcus,Ylana Costalforne,Nordeste,PowerPoint,300
+44453,João,Suelen Dourado,Centro-Oeste,PowerPoint,450
+44453,Marcus,Hyago Leticia,Centro-Oeste,PowerPoint,300
+44453,Diego,Rebecca Lund,Centro-Oeste,PowerPoint,450
+44453,Gabriel,Marisol Tkotz,Centro-Oeste,PowerPoint,500
+44453,Marcus,Felipe Mateus,Norte,PowerPoint,300
+44454,Gabriel,Emanuella Gomes,Norte,Excel,500
+44454,Paulo,Tayane Póvoa,Nordeste,Power BI,300
+44455,João,Iris Veloso,Sudeste,VBA,600
+44455,Paulo,Daniele Miguel,Centro-Oeste,Word,450
+44456,Gabriel,Thaina Nuñez,Norte,Word,500
+44456,Alon,Letícia Naveiro,Sudeste,Word,600
+44456,João,Laiza Whitaker,Norte,Word,300
+44456,Gabriel,Ylana Gomes,Sudeste,Word,600
+44457,Alon,Antônio Júnior,Centro-Oeste,Word,450
+44457,Paulo,Adriane Palha,Sudeste,Word,600
+44457,Paulo,Letícia Bomfim,Norte,Python,450
+44457,Paulo,Philipe Pereira,Sudeste,Excel,500
+44457,Marcus,Ylana Limp,Nordeste,Python,450
+44457,Diego,Jéssica Soibelman,Norte,VBA,600
+44457,Marcus,Lucca Yehudah,Nordeste,Excel,500
+44458,Gabriel,Patricia Caroline,Centro-Oeste,Python,450
+44458,Diego,Dalvan Rebello,Nordeste,Excel,500
+44458,Paulo,Andreia Perim,Norte,Python,450
+44458,Paulo,Paloma Cassia,Nordeste,Python,450
+44458,Marcus,Stephanie Scandiuzzi,Norte,PowerPoint,450
+44458,João,Renata Felix,Sudeste,PowerPoint,300
+44458,João,Isis Abreu,Sudeste,Excel,500
+44459,Diego,Sara Miguel,Nordeste,Excel,500
+44459,Gabriel,Dayane Cabral,Norte,Excel,500
+44459,Gabriel,Nayne Tavares,Norte,PowerPoint,450
+44461,Alon,Juann Whitaker,Sudeste,VBA,600
+44461,Marcus,Izabel Aballo,Sul,VBA,600
+44461,Marcus,Francyne Cavalcanti,Norte,Excel,500
+44461,Marcus,Ighor Peixoto,Sudeste,VBA,600
+44461,Alon,Jonnathan Silva,Nordeste,Excel,500
+44461,Paulo,Luan Caroline,Centro-Oeste,VBA,600
+44461,Marcus,Bernard Rebelo,Nordeste,VBA,600
+44462,Diego,Giselia Whitaker,Sul,PowerPoint,450
+44462,Paulo,Arnaldo Fagundes,Nordeste,PowerPoint,300
+44462,João,Laiza Bittencourt,Centro-Oeste,PowerPoint,450
+44462,Alon,Cristina Essaber,Norte,Excel,500
+44462,Diego,Sandro Braga,Sul,PowerPoint,450
+44463,Alon,Marjorie Balassiano,Norte,PowerPoint,450
+44463,João,César Kohn,Nordeste,PowerPoint,300
+44463,Alon,Monique Renato,Nordeste,Excel,500
+44464,João,Victória Naveiro,Centro-Oeste,PowerPoint,300
+44464,Gabriel,Marina Gribel,Sudeste,VBA,600
+44464,Marcus,Murilo Jose,Sul,Excel,500
+44465,Paulo,Paulo Freitas,Nordeste,Excel,500
+44465,João,Alan Licurci,Nordeste,PowerPoint,300
+44465,Diego,Ludmila Fernandes,Sudeste,VBA,600
+44465,Paulo,Angelo Coimbra,Norte,Excel,500
+44466,Alon,Cláudia Moraes,Sul,Power BI,300
+44466,Marcus,Vívian Fangueiro,Centro-Oeste,Python,450
+44466,Paulo,Drielly Freitas,Sudeste,VBA,600
+44466,Paulo,Thaisa Luiza,Norte,VBA,600
+44466,Diego,Isis Brendalina,Norte,Power BI,300
+44466,Paulo,Raiane Villar,Nordeste,Excel,500
+44466,Marcus,Drielly Leão,Norte,Excel,500
+44467,Marcus,Daniella Lund,Norte,Python,450
+44467,João,Iasmim Garambone,Norte,Power BI,300
+44467,João,Giovani Jose,Nordeste,Excel,500
+44468,Alon,Leticia Montenegro,Nordeste,VBA,600
+44468,Diego,Taila Sant'Anna,Sudeste,VBA,600
+44468,João,Myllena Garcia,Nordeste,Excel,500
+44468,Diego,Arnaldo Paes,Norte,Excel,500
+44468,Marcus,Wendela Erthal,Sul,Python,450
+44469,Gabriel,Alberto Frederico,Sudeste,VBA,600
+44469,João,Vladimir Silveira,Nordeste,Python,450
+44470,Diego,Beatriz Caroline,Nordeste,Excel,500
+44471,Marcus,Lígia Sousa,Norte,VBA,600
+44471,Paulo,Joel Vargas,Sul,VBA,600
+44471,João,Pedro Rabelo,Sudeste,VBA,600
+44471,Marcus,Thayli Infante,Sul,Power BI,300
+44471,Alon,Maurício Spata,Sudeste,Power BI,300
+44472,Diego,Marianne Benvinda,Sudeste,Python,450
+44472,João,Edgard Tribuzy,Nordeste,Python,450
+44472,Alon,Luiza Francisca,Centro-Oeste,Power BI,300
+44472,Diego,Rodney Nascimento,Centro-Oeste,VBA,600
+44473,João,Luiza Zickwolf,Centro-Oeste,PowerPoint,450
+44474,Paulo,Bruno Amorim,Sudeste,VBA,600
+44474,Gabriel,Tayna Sofia,Centro-Oeste,PowerPoint,300
+44474,Gabriel,Karen Chagas,Norte,Excel,500
+44475,Paulo,Cláudio Corrêa,Sudeste,VBA,600
+44475,Diego,Marcello Benvinda,Nordeste,PowerPoint,300
+44475,Diego,Alan Comas,Sul,VBA,600
+44475,Paulo,Yuske Andréa,Norte,PowerPoint,300
+44475,Marcus,Luan Iane,Centro-Oeste,PowerPoint,450
+44476,João,Joao Tsuyoshi,Sul,Excel,500
+44476,Gabriel,Giselia Filiphe,Norte,PowerPoint,300
+44476,Alon,Ulisses Cesar,Nordeste,PowerPoint,300
+44476,Alon,Helga Chein,Sul,PowerPoint,300
+44476,Alon,Davi Cabral,Nordeste,Word,500
+44476,Marcus,Alecssander Neves,Centro-Oeste,Word,300
+44477,Paulo,Cláudia Abranches,Norte,Word,500
+44477,Alon,Renato Freixo,Norte,Word,600
+44478,Diego,Marcos Neves,Nordeste,Word,600
+44478,Paulo,Gleydson Santos,Norte,Word,450
+44478,Marcus,Fabiane Goulart,Sudeste,Word,450
+44479,Marcus,Rogério Nemitz,Sudeste,Word,500
+44479,Gabriel,Edgard Henriques,Sudeste,Word,600
+44479,João,Renato Costa,Nordeste,Word,500
+44479,Diego,Erick Santos,Nordeste,Word,500
+44479,João,Ysabella Pinto,Norte,PowerPoint,600
+44480,Gabriel,Ivana Sousa,Nordeste,PowerPoint,300
+44480,Alon,Marcela Zambrotti,Norte,PowerPoint,450
+44480,Diego,Giselia Gomes,Sudeste,PowerPoint,500
+44480,Gabriel,Ives Rodrigo,Sul,PowerPoint,500
+44480,Paulo,Domenik Santos,Nordeste,PowerPoint,450
+44480,Gabriel,Thaina Batista,Nordeste,PowerPoint,450
+44481,Alon,Sara Miranda,Sudeste,PowerPoint,600
+44481,Diego,Lucas César,Sul,PowerPoint,450
+44481,João,Mariana Bogossian,Norte,PowerPoint,300
+44482,Gabriel,Jônatas Florêncio,Sudeste,PowerPoint,600
+44483,Gabriel,Thayná Tsuyoshi,Sudeste,PowerPoint,600
+44483,Marcus,Gizele longo,Norte,PowerPoint,600
+44483,Paulo,Yasmim Bello,Sul,PowerPoint,450
+44483,Paulo,Ysabella Fonseca,Centro-Oeste,PowerPoint,450
+44484,Paulo,Raianne Brendalina,Norte,PowerPoint,500
+44484,Gabriel,Stefan Cossich,Centro-Oeste,PowerPoint,600
+44485,João,Lucca Menezes,Nordeste,PowerPoint,450
+44485,João,Alessandra Cristine,Nordeste,Python,450
+44486,João,Helga Rubio,Nordeste,Word,500
+44486,Diego,Karina Mattos,Nordeste,Power BI,300
+44486,João,Rafaella Chein,Norte,Word,500
+44486,Paulo,Davi Accardo,Sudeste,Word,500
+44486,João,Átila Sofia,Norte,Power BI,300
+44486,Diego,Átila Bachini,Sul,Power BI,300
+44487,João,Poline Sergio,Sul,Python,450
+44488,Alon,Rayane Henrique,Sudeste,Word,600
+44488,Paulo,Isis Garambone,Norte,Python,450
+44488,Diego,Jackson Crespo,Norte,Power BI,300
+44490,Alon,Micaele Bandeira,Nordeste,Word,500
+44490,Paulo,Raffael Penedo,Nordeste,Python,450
+44491,Paulo,Yasmine Reis,Nordeste,Word,600
+44492,Alon,Giuseppe Fróes,Sudeste,Word,600
+44492,Paulo,Patrícia Barrionuevo,Norte,Power BI,300
+44492,Marcus,Sandro Jardim,Sul,Python,450
+44493,Paulo,Kimberly Barberini,Norte,Word,500
+44493,João,Yla Anunciação,Nordeste,Power BI,300
+44493,Alon,Murilo Cassia,Centro-Oeste,Word,500
+44494,Diego,Kallena Sant'Anna,Centro-Oeste,Word,450
+44495,João,Gizele Guilherme,Centro-Oeste,Word,500
+44495,Diego,Etiene Whitaker,Sudeste,Word,600
+44495,Marcus,Paula Bezerra,Centro-Oeste,Word,450
+44495,João,Rebeca Pereira,Norte,Word,600
+44495,Marcus,Manuela Fioretti,Sudeste,Word,450
+44495,Marcus,Thaisa Mesquita,Centro-Oeste,Word,450
+44496,Marcus,Davi Li,Sul,Word,600
+44496,Alon,Platini Frossard,Sudeste,Word,600
+44496,Marcus,Andréia Martelotte,Norte,Word,600
+44496,Diego,Layssa Ferrer,Centro-Oeste,Word,450
+44496,Gabriel,Carolina Navega,Norte,Power BI,300
+44496,João,Stella Nacif,Sul,Excel,500
+44497,Diego,Frederico Balassiano,Centro-Oeste,Power BI,300
+44497,João,Giuseppe Rebello,Sudeste,Python,450
+44497,Paulo,Yohanan Fuchs,Norte,Python,450
+44497,Alon,Jonnathan Barbosa,Norte,Python,450
+44497,Gabriel,Jamile Junqueira,Sudeste,Python,450
+44498,Diego,Ananda Souza,Centro-Oeste,VBA,600
+44498,Paulo,Raianne Thury,Norte,Excel,500
+44498,Gabriel,Bárbara Elisa,Centro-Oeste,Power BI,300
+44498,João,Giuseppe dos,Sudeste,Power BI,300
+44499,Diego,Edson Bittencourt,Norte,Excel,500
+44500,João,Jose Gabrielen,Nordeste,Python,450
+44500,Alon,Walmyr Magalhães,Norte,Python,450
+44500,Diego,Hiaiune Helena,Nordeste,Power BI,300
+44500,João,Pedro Paulino,Norte,Python,450
+44500,Marcus,Ully Tavares,Nordeste,Python,450
+44500,Paulo,Vito Luiza,Norte,Excel,500
+44501,Paulo,Barbara Gitirana,Sudeste,VBA,600
+44501,Alon,Maciela Bello,Sul,Python,450
+44502,Diego,Elida Falcão,Sudeste,VBA,600
+44502,Gabriel,Evelyn Moutinho,Sul,Python,450
+44503,Paulo,Antonia Garambone,Norte,Excel,500
+44503,Marcus,Raianne Catarino,Nordeste,Excel,500
+44504,Marcus,Camilla Dourado,Nordeste,Excel,500
+44504,João,Tainah Victório,Centro-Oeste,Power BI,300
+44504,João,Samantha Mendonça,Centro-Oeste,VBA,600
+44505,Paulo,Melissa Salomão,Norte,Excel,500
+44505,Gabriel,Walmyr Cardoso,Sudeste,PowerPoint,600
+44505,João,Jéssica Fonseca,Sudeste,PowerPoint,450
+44505,Paulo,Leandro Areias,Centro-Oeste,PowerPoint,300
+44505,Gabriel,Raul Ronfini,Sudeste,PowerPoint,600
+44506,Diego,Diogo Pereira,Nordeste,PowerPoint,600
+44506,Paulo,Graziela Carreira,Centro-Oeste,PowerPoint,450
+44507,Alon,Isabella Freitas,Sudeste,PowerPoint,600
+44507,Diego,Arnôr Emmerick,Sudeste,PowerPoint,500
+44507,Gabriel,Raiane Tsuyoshi,Nordeste,PowerPoint,300
+44507,João,Marcelly Vargas,Sudeste,PowerPoint,600
+44507,João,Luisa Pancini,Sul,PowerPoint,500
+44507,Gabriel,Cinthia Rossi,Sul,PowerPoint,450
+44507,Marcus,Raquel Ghiorzi,Norte,PowerPoint,300
+44507,João,Thadeu Silvestre,Norte,PowerPoint,450
+44507,Marcus,Ingra Rozenbaum,Centro-Oeste,PowerPoint,450
+44508,João,Livia Azevedo,Norte,PowerPoint,450
+44508,Marcus,Jefferson Brendalina,Nordeste,PowerPoint,500
+44508,João,Stephanie Fróes,Centro-Oeste,Power BI,300
+44509,Marcus,Eliane Mainente,Norte,Python,450
+44509,Gabriel,Maurício Rosario,Sudeste,Python,450
+44509,Diego,Eriko Bailly,Norte,Power BI,300
+44510,Paulo,Eriko Viana,Sudeste,Excel,500
+44510,Diego,Ully Barreira,Norte,VBA,600
+44510,Paulo,Vivian Junqueira,Norte,Power BI,300
+44510,Gabriel,Izabella Oliveira,Norte,Power BI,300
+44511,Paulo,Carolina Azevedo,Nordeste,VBA,600
+44511,João,Layssa Bastos,Centro-Oeste,Python,450
+44511,Alon,Yasmini Bretas,Nordeste,VBA,600
+44512,Paulo,Yasmini Farah,Sudeste,VBA,600
+44512,Alon,Ulisses Veloso,Norte,VBA,600
+44513,Paulo,Marcus Soibelman,Sul,Python,450
+44513,Diego,Marcelly Sousa,Nordeste,Python,450
+44513,João,Leila Victório,Sudeste,Power BI,300
+44513,Gabriel,Alberto Benvinda,Norte,VBA,600
+44513,Diego,Yasmine Costa,Sudeste,VBA,600
+44514,Paulo,Wen Lencastre,Sul,Power BI,300
+44515,Marcus,Luana Santos,Sul,Power BI,300
+44515,Diego,Gabrielle Zickwolf,Norte,Python,450
+44515,Diego,Rafaella Sara,Sudeste,VBA,600
+44516,Alon,Hannah Erthal,Sudeste,Python,450
+44517,Marcus,Isis Fuchs,Norte,VBA,600
+44517,Alon,Stella Ana,Norte,Python,450
+44517,Alon,Mayná Albano,Sudeste,VBA,600
+44518,Alon,Elaine Moura,Sul,Power BI,300
+44518,Paulo,Vinicius Filiphe,Norte,Python,450
+44518,Diego,Reinaldo Costa,Centro-Oeste,Excel,500
+44519,Gabriel,Cynthia Campelo,Sul,Power BI,300
+44519,Gabriel,Carlos Paes,Sul,Power BI,300
+44519,Gabriel,Giovani Leivyson,Nordeste,Python,450
+44519,Marcus,Ighor Emmerick,Sudeste,VBA,600
+44519,João,Marco Lauzana,Nordeste,Excel,500
+44519,Marcus,Samir Marendino,Centro-Oeste,Python,450
+44519,Paulo,Jean Chaves,Sul,Power BI,300
+44519,João,Evelyn Rosolia,Sul,Power BI,300
+44519,Marcus,Camilla Valiate,Norte,Excel,500
+44520,Marcus,Alberto Barros,Sudeste,VBA,600
+44520,Paulo,Lígia Abreu,Norte,Excel,500
+44520,Alon,Thadeu Araujo,Sul,Power BI,300
+44520,Gabriel,Henrique Paiva,Centro-Oeste,Python,450
+44521,Gabriel,Lyandra Lacerda,Sul,Power BI,300
+44521,Gabriel,Jean Chousa,Sudeste,Python,450
+44521,Alon,Silvana Silva,Sul,Power BI,300
+44522,Paulo,Daniele Marendino,Sul,Power BI,300
+44522,Gabriel,Hiaiune Accardo,Norte,Power BI,300
+44523,Gabriel,Ingra Cardoso,Norte,Python,450
+44523,Paulo,Camille Goldoni,Sudeste,VBA,600
+44523,João,Ives do,Nordeste,Excel,500
+44524,Diego,Verônica Smolarek,Sul,Python,450
+44525,João,Murillo Rangel,Sudeste,VBA,600
+44525,Diego,Ighor Portillo,Sul,Power BI,300
+44525,Alon,Alexandra Chein,Sudeste,Power BI,300
+44526,Marcus,Bruno Espinosa,Norte,Python,450
+44526,Diego,Marcella Villar,Centro-Oeste,Python,450
+44526,Diego,Bruno Teles,Sudeste,VBA,600
+44526,Paulo,Leon Campelo,Norte,Excel,500
+44526,Gabriel,Luana longo,Nordeste,Excel,500
+44526,Marcus,Yuske Póvoa,Norte,VBA,600
+44526,Gabriel,Rodrigo Rubinstein,Norte,VBA,600
+44526,Gabriel,Larissa Rodrigo,Nordeste,Python,450
+44526,Gabriel,Júlio Paulino,Norte,Excel,500
+44527,Diego,Jeter Riany,Sudeste,VBA,600
+44527,Marcus,Cecília Fernando,Sul,Python,450
+44527,Marcus,Jônatas Areias,Norte,Python,450
+44527,Marcus,Luana Froufe,Sul,PowerPoint,300
+44528,Alon,Paloma Fasano,Sul,Word,500
+44528,Gabriel,Pedro Veloso,Norte,Word,600
+44529,Gabriel,Ulisses Smolarek,Nordeste,Word,450
+44529,João,Juliana Fontana,Sul,Word,450
+44529,Gabriel,Juliane Guilherme,Sul,Word,300
+44529,Gabriel,Silvio Marinho,Norte,Word,500
+44529,Paulo,Karina Moura,Nordeste,Word,500
+44529,Diego,Elana José,Nordeste,Word,300
+44529,Alon,Thamara Bogossian,Sudeste,Word,500
+44530,João,Murilo Póvoa,Sul,PowerPoint,600
+44530,Diego,Edjailma Fagundes,Sudeste,PowerPoint,600
+44530,Diego,Wellington Caroline,Norte,PowerPoint,450
+44530,Gabriel,Manuela Thome,Norte,PowerPoint,300
+44530,Alon,Julio Leão,Sudeste,VBA,600
+44531,Alon,Júlio Silotti,Sul,Word,300
+44531,Diego,Elaine Moraes,Nordeste,Word,300
+44531,João,Ingra Nuñez,Nordeste,Word,300
+44531,Diego,Denilton Coimbra,Sul,Word,450
+44532,João,Érico Duque,Centro-Oeste,Word,300
+44532,Paulo,Cláudia Soibelman,Sudeste,Word,600
+44532,Gabriel,Tomas Blumberg,Norte,Word,450
+44533,Diego,Wagner Baptista,Sul,Word,450
+44534,Gabriel,Clara Rocha,Centro-Oeste,Word,500
+44534,Marcus,Cynthia Pires,Sudeste,Word,300
+44535,Diego,Marcella Thadeu,Sudeste,Word,300
+44535,Alon,Leonardo Baltar,Sul,Word,300
+44535,João,Myllena Lima,Centro-Oeste,Python,450
+44535,Paulo,Isabelle Pessoa,Sul,Python,450
+44535,Gabriel,Mauricio Cassia,Norte,Word,500
+44535,João,Leonardo Guilhem,Norte,Word,600
+44536,João,Pietro Carolina,Nordeste,Word,500
+44536,Paulo,Raísa Ávila,Sudeste,Word,600
+44536,Marcus,Jose Penna,Nordeste,Word,500
+44536,Alon,Marianna Franciele,Sudeste,Word,600
+44536,Alon,Ariel Said,Centro-Oeste,Word,500
+44537,Marcus,Alexia Mollica,Sudeste,Word,500
+44537,João,Thamirez Tsuyoshi,Sul,Python,450
+44537,Gabriel,Raul Cossich,Nordeste,Word,500
+44538,Paulo,Diogo Cavalca,Nordeste,Word,500
+44538,Gabriel,Érica Helena,Sudeste,Word,600
+44539,Alon,Samuel Ladogano,Norte,Word,600
+44539,Gabriel,Marisol Antônio,Sudeste,Power BI,300
+44539,Paulo,Cynthia Itapary,Nordeste,Power BI,300
+44540,Diego,Sergio Mainente,Norte,Power BI,300
+44540,Alon,Nivea Martins,Norte,Word,600
+44540,Marcus,Marianne Yang,Centro-Oeste,Power BI,300
+44541,Paulo,Nivea Jiun,Sul,Power BI,300
+44541,João,Tiago Rosario,Sudeste,Word,600
+44541,Diego,Mariane Mendonça,Centro-Oeste,Python,450
+44541,João,Elida Rebello,Sudeste,Word,600
+44542,João,Gabryela Gonzalez,Sudeste,Power BI,300
+44542,Marcus,Giuseppe Ferrer,Norte,Word,600
+44542,Paulo,Walter Bogossian,Norte,Python,450
+44543,João,Marília Essaber,Sudeste,VBA,600
+44543,João,Rodrigo Miguel,Sudeste,VBA,600
+44543,Alon,Catarina Chein,Sul,Python,450
+44543,Diego,Wesley Fontenelle,Sudeste,Power BI,300
+44544,Marcus,Helga Campos,Sul,Power BI,300
+44544,Diego,Rebecca Borba,Sudeste,Excel,500
+44544,Alon,Frederico Nascimento,Norte,Excel,500
+44544,Diego,Filippo Coimbra,Sul,Excel,500
+44544,Marcus,Antônio Coelho,Sudeste,Power BI,300
+44545,Diego,Jonas Tiradentes,Nordeste,Excel,500
+44546,Marcus,Anderson Barbosa,Centro-Oeste,Python,450
+44546,Diego,Isabela Sampaio,Sul,Python,450
+44546,João,Karollayne Roberto,Centro-Oeste,Excel,500
+44546,Gabriel,Roger Bachini,Sudeste,Excel,500
+44547,Gabriel,Ulisses Palha,Norte,VBA,600
+44548,Diego,Rhanna Aziz,Centro-Oeste,Python,450
+44548,Marcus,Leon Raggi,Sul,VBA,600
+44548,Paulo,Luiza Infante,Norte,Python,450
+44548,João,Rodney Menaged,Nordeste,Python,450
+44548,Gabriel,Alfredo Scandiuzzi,Sul,Power BI,300
+44549,Gabriel,John Malavolti,Sudeste,Python,450
+44549,Diego,Dandara Mathias,Centro-Oeste,Python,450
+44549,Gabriel,Camilla Piccinini,Nordeste,Power BI,300
+44549,Marcus,Hygor Nobili,Centro-Oeste,Excel,500
+44549,Marcus,Ariel Whitaker,Norte,Excel,500
+44550,Marcus,Micaele Fontenele,Norte,Excel,500
+44550,Marcus,Raul Vilas,Norte,Excel,500
+44550,Alon,Hygor Mesquita,Centro-Oeste,Power BI,300
+44550,Gabriel,Marianne Villela,Norte,PowerPoint,500
+44551,João,Jeane Licurci,Norte,PowerPoint,500
+44551,Alon,Edson Bitencourt,Sudeste,PowerPoint,600
+44552,Alon,Itai Henrique,Sul,PowerPoint,450
+44552,Gabriel,Bianca Smolarek,Nordeste,PowerPoint,500
+44552,Paulo,Andre Madrid,Sudeste,PowerPoint,300
+44553,Marcus,Vladimir Perim,Norte,PowerPoint,500
+44553,João,Francyne Guilhem,Norte,PowerPoint,500
+44554,Marcus,Gabryela Taylor,Centro-Oeste,PowerPoint,300
+44554,Diego,Glenda Souza,Norte,PowerPoint,300
+44554,Diego,Andrew Coutinho,Sudeste,PowerPoint,600
+44555,Gabriel,Yasser Neviani,Nordeste,PowerPoint,600
+44555,Gabriel,Adailton Siqueira,Sul,PowerPoint,300
+44555,Diego,Lígia Costa,Norte,PowerPoint,300
+44557,João,Alberto Varanda,Norte,PowerPoint,500
+44557,Gabriel,Thales do,Nordeste,PowerPoint,300
+44557,João,Amanda Chagas,Sudeste,PowerPoint,450
+44557,João,Cecília Madruga,Sudeste,PowerPoint,600
+44557,Alon,Natali Sofia,Sudeste,Python,450
+44558,Diego,Juliana Gouvêa,Sudeste,Excel,500
+44558,Alon,Cláudia Lopes,Norte,Python,450
+44558,Paulo,Giovani Fróes,Norte,Python,450
+44558,Diego,Jamile Yehudah,Centro-Oeste,Python,450
+44558,Alon,Raíza Moreno,Sudeste,VBA,600
+44558,Marcus,Vito Caroline,Norte,Power BI,300
+44559,Marcus,Larissa Monteiro,Nordeste,Power BI,300
+44559,João,Vito Tsuyoshi,Nordeste,Python,450
+44559,Paulo,Stephane Felix,Sudeste,VBA,600
+44559,Paulo,Glaucia Soibelman,Sudeste,Excel,500
+44560,Diego,Jayme Freitas,Norte,Excel,500
+44560,Gabriel,Emilaine Machado,Centro-Oeste,VBA,600
+44560,Alon,Breno Felix,Sudeste,Excel,500
+44560,Paulo,Manuela Serra,Nordeste,Python,450
+44561,Diego,Adrizia Montenegro,Sudeste,VBA,600
+44561,João,Ananda Li,Norte,VBA,600
+44561,Diego,Victória Bastos,Sudeste,Excel,500
+44561,Alon,Victor Paulo,Centro-Oeste,Excel,500
+44561,João,Andréia Naveiro,Centro-Oeste,Excel,500
+44561,Diego,Caroll Marques,Norte,Python,450
+44561,João,Marcelle Chagas,Sudeste,VBA,600
